@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="352448">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05599331000103</CNPJ>
+    <NomeEmpresarial>J. L. SERVICOS MEDICOS EIRELI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-03-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2313</NaturezaJuridica>
+    <DataAbertura>2003-03-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>001139</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11771311886</CPFResponsavel>
+    <NomeResponsavel>LEANDRO ALVES DA SILVA FIGUEIREDO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>PAULO@LIMAASSOCIADOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>30592</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DO CARMO</Logradouro>
+      <NumeroLogradouro>400</NumeroLogradouro>
+      <Complemento>SALA  1                   APT   902                 ANDAR 9                   EDIF  ITAPARICA</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870500</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8630501" principal="0" exercida="0" />
+      <CNAE codigo="8630503" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LEANDRO ALVES DA SILVA FIGUEIREDO</Nome>
+        <Numero>00011771311886</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3355221">
+      <Solicitacao id="783077">783077201730</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3355219">
+      <Solicitacao id="783077">783077201730</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783077201730</Numero>
+      <DataEmissao>2017-02-09T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-09T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>STEFANI NOGUEIRA ENGENHARIA LTDA</NomeProprietario>
+        <EmailProprietario>escr.paulolima@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024233</TelefoneProprietario>
+        <NomeResponsavelUso>J. L. SERVICOS MEDICOS EIRELI - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>332</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3355217">
+      <Solicitacao id="783077">783077201730</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783077201730</Numero>
+      <DataEmissao>2017-02-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3355218">
+      <Solicitacao id="783077">783077201730</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783077201730</Numero>
+      <DataEmissao>2017-02-09T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-09T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3355220">
+      <Solicitacao id="783077">783077201730</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783077201730</Numero>
+      <DataEmissao>2017-02-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-09T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="352576">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26991322000133</CNPJ>
+    <NomeEmpresarial>ELAINE CRISTINA SILVA RIBEIRO 30385014848</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-01-31</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-01-31</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35822063343</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>30385014848</CPFResponsavel>
+    <NomeResponsavel>ELAINE CRISTINA SILVA RIBEIRO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32041123</Telefone1>
+    <Email>elaine.beyonce@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02257</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>889</NumeroLogradouro>
+      <Complemento>LOJA 10</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870120</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4755502" principal="0" exercida="1" />
+      <CNAE codigo="4772500" principal="0" exercida="1" />
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <CNAE codigo="4782202" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3356650">
+      <Solicitacao id="783428">783428201785</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3356648">
+      <Solicitacao id="783428">783428201785</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783428201785</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-10T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>13</AreaEstabelecimento>
+        <NomeProprietario>PREFEITURA MUNICIPAL DE JABOTICABAL</NomeProprietario>
+        <EmailProprietario>elaine.beyonce@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632041123</TelefoneProprietario>
+        <NomeResponsavelUso>ELAINE CRISTINA SILVA RIBEIRO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632041123</TelefoneResponsavelUso>
+        <AreaTotal>13</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3356646">
+      <Solicitacao id="783428">783428201785</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783428201785</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+      <Pergunta id="5070" resposta="0" />
+      <Declaracao id="7374" />
+    </Licenciamento>
+    <Licenciamento id="3356647">
+      <Solicitacao id="783428">783428201785</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783428201785</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3356649">
+      <Solicitacao id="783428">783428201785</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783428201785</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="352615">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>08199757000168</CNPJ>
+    <NomeEmpresarial>S.S. EMPRESA DE TRABALHO TEMPORARIO LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2006-07-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2006-07-19</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35220510678</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09889147866</CPFResponsavel>
+    <NomeResponsavel>ENILSON CARLOS DE SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033819</Telefone1>
+    <Email>simonicontabil@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02658</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Allan Kardec</Logradouro>
+      <NumeroLogradouro>42</NumeroLogradouro>
+      <Bairro>Nova Jaboticabal</Bairro>
+      <CEP>14887004</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7820500" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ENILSON CARLOS DE SOUZA</Nome>
+        <Numero>00009889147866</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>IVALDO GONCALVES DA SILVA</Nome>
+        <Numero>00098071238872</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3357098">
+      <Solicitacao id="783538">783538201741</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3357096">
+      <Solicitacao id="783538">783538201741</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783538201741</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-10T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>84</AreaEstabelecimento>
+        <NomeProprietario>IVALDO GONCALVES DA SILVA</NomeProprietario>
+        <EmailProprietario>pezaoeventos@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632033819</TelefoneProprietario>
+        <NomeResponsavelUso>IVALDO GONCALVES DA SILVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033819</TelefoneResponsavelUso>
+        <AreaTotal>242</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3357094">
+      <Solicitacao id="783538">783538201741</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783538201741</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3357095">
+      <Solicitacao id="783538">783538201741</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783538201741</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3357097">
+      <Solicitacao id="783538">783538201741</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783538201741</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

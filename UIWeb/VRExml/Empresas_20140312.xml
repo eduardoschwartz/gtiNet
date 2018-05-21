@@ -1,0 +1,377 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="124987">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19737166000113</CNPJ>
+    <NomeEmpresarial>MARCOS DE OLIVEIRA SOUZA 99330326587</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-02-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35810324601</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>99330326587</CPFResponsavel>
+    <NomeResponsavel>MARCOS DE OLIVEIRA SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>81741931</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19604</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DOMINGOS MANISCALCO</Logradouro>
+      <NumeroLogradouro>11</NumeroLogradouro>
+      <Bairro>CIDADE JARDIM (ZAGALO)</Bairro>
+      <CEP>14890462</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4321500" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1038376">
+      <Solicitacao id="226964">226964201447</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1038374">
+      <Solicitacao id="226964">226964201447</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226964201447</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-11T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Imovel>
+        <AreaEstabelecimento>93</AreaEstabelecimento>
+        <NomeProprietario>MARCOS DE OLIVEIRA SOUZA</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>MARCOS DE OLIVEIRA SOUZA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>142</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1038372">
+      <Solicitacao id="226964">226964201447</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226964201447</Numero>
+      <DataEmissao>2014-03-08T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-08T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1038373">
+      <Solicitacao id="226964">226964201447</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226964201447</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-11T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1038375">
+      <Solicitacao id="226964">226964201447</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226964201447</Numero>
+      <DataEmissao>2014-03-08T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-08T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="125170">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19846165000107</CNPJ>
+    <NomeEmpresarial>LUIZ CARLOS DE AMORIM 27633527820</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-03-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-03-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35810514108</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>27633527820</CPFResponsavel>
+    <NomeResponsavel>LUIZ CARLOS DE AMORIM</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023392</Telefone1>
+    <Email>lukinhaamorim@yahoo.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>15224</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PEDRO RIVA</Logradouro>
+      <NumeroLogradouro>151</NumeroLogradouro>
+      <Bairro>SANTA MONICA</Bairro>
+      <CEP>14871550</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1040370">
+      <Solicitacao id="227410">227410201478</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1040368">
+      <Solicitacao id="227410">227410201478</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227410201478</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-11T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Imovel>
+        <AreaEstabelecimento>125</AreaEstabelecimento>
+        <NomeProprietario>luiz carlos de amorim</NomeProprietario>
+        <EmailProprietario>rodrigo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>luiz carlos de amorim</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>310</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1040366">
+      <Solicitacao id="227410">227410201478</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227410201478</Numero>
+      <DataEmissao>2014-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1040367">
+      <Solicitacao id="227410">227410201478</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227410201478</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-11T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1040369">
+      <Solicitacao id="227410">227410201478</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227410201478</Numero>
+      <DataEmissao>2014-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="125237">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12326554000243</CNPJ>
+    <NomeEmpresarial>C.F.C IMPACTO BARRETOS LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-02-24</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35904644358</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>28860668859</CPFResponsavel>
+    <NomeResponsavel>ALEX INACIO DE OLIVEIRA</NomeResponsavel>
+    <DDD1>17</DDD1>
+    <Telefone1>33220302</Telefone1>
+    <DDD2>17</DDD2>
+    <Telefone2>33220302</Telefone2>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01344</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>TREZE DE MAIO</Logradouro>
+      <NumeroLogradouro>460</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870160</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8599601" principal="1" exercida="1" />
+      <CNAE codigo="8599604" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALEX INACIO DE OLIVEIRA</Nome>
+        <Numero>00028860668859</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LIDIANE CRISTINA LOPES NAVARRO</Nome>
+        <Numero>00099132834187</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>197184</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>14116831883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1041085">
+      <Solicitacao id="227567">227567201446</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1041083">
+      <Solicitacao id="227567">227567201446</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>49625</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-31T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Imovel>
+        <AreaEstabelecimento>135</AreaEstabelecimento>
+        <NomeProprietario>CARMEM SILVIA GASPARO PINHEIRO</NomeProprietario>
+        <EmailProprietario>eticabarretos@mdbrasil.com.br</EmailProprietario>
+        <TelefoneProprietario>1733253432</TelefoneProprietario>
+        <NomeResponsavelUso>C.F.C IMPACTO BARRETOS LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1733220302</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>49625</NumeroAVCB>
+        <ValidadeAVCB>2017-01-31</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1041081">
+      <Solicitacao id="227567">227567201446</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227567201446</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-11T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1041082">
+      <Solicitacao id="227567">227567201446</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227567201446</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-11T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1041084">
+      <Solicitacao id="227567">227567201446</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>227567201446</Numero>
+      <DataEmissao>2014-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-11T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

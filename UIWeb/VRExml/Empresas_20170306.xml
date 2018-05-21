@@ -1,0 +1,678 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="197904">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17898426000298</CNPJ>
+    <NomeEmpresarial>AUTO POSTO NOSSA SENHORA APARECIDA DE JABOTICABAL LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-03-20</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-03-20</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35904923788</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>97961914820</CPFResponsavel>
+    <NomeResponsavel>JOSE APARECIDO MARTINELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>39314846</Telefone1>
+    <Email>ERCRP@TERRA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>05891</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>DO CAFE</Logradouro>
+      <NumeroLogradouro>23</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14870230</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4731800" principal="1" exercida="1" />
+      <CNAE codigo="4732600" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE APARECIDO MARTINELLI</Nome>
+        <Numero>00097961914820</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELISABETE APARECIDA DA SILVA</Nome>
+        <Numero>00056102488172</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1975678">
+      <Solicitacao id="440993">440993201506</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-07-08T00:00:00</DataStatus>
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1975675">
+      <Solicitacao id="440993">440993201506</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>184113</Numero>
+      <DataEmissao>2015-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-18T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>440993201506</ProtocoloAtendimento>
+      <DataProtocolo>2015-07-14T00:00:00</DataProtocolo>
+      <Pergunta id="5449" resposta="1" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>90</AreaEstabelecimento>
+        <NomeProprietario>VALDOMIRO PEREIRA</NomeProprietario>
+        <EmailProprietario>pires@contabilpires.com.br</EmailProprietario>
+        <TelefoneProprietario>1934551824</TelefoneProprietario>
+        <NomeResponsavelUso>TEREZINHA PEREIRA-MERCEARIA-ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1934551824</TelefoneResponsavelUso>
+        <AreaTotal>90</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2850291">
+      <Solicitacao id="656065">656065201641</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>656065201641</Numero>
+      <DataEmissao>2016-07-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1975677">
+      <Solicitacao id="440993">440993201506</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001700</Numero>
+      <DataEmissao>2015-06-17T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-17T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>91118488</ProtocoloAtendimento>
+      <DataProtocolo>2015-07-07T00:00:00</DataProtocolo>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2850292">
+      <Solicitacao id="656065">656065201641</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>656065201641</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>13324-8/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-07-29T00:00:00</DataProtocolo>
+      <RestricaoOperacao id="1058" />
+      <RestricaoOperacao id="1061" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="212898">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>11777328000135</CNPJ>
+    <NomeEmpresarial>SO PIZZAS JABOTICABAL LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-03-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-03-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35224143874</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>02661885838</CPFResponsavel>
+    <NomeResponsavel>ALAIDE TERESINHA BERG</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>escr.paulolima@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>08144</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>MAJOR BRAGUINHA</Logradouro>
+      <NumeroLogradouro>230</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14882200</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALAIDE TERESINHA BERG</Nome>
+        <Numero>00002661885838</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>AIRTON CARLOS BERG</Nome>
+        <Numero>00012243365855</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2041263">
+      <Solicitacao id="456084">456084201593</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-08-05T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1926078">
+      <Solicitacao id="429751">429751201576</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>429751201576</Numero>
+      <DataEmissao>2015-06-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>65</AreaEstabelecimento>
+        <NomeProprietario>FRITIOHOF BERG</NomeProprietario>
+        <EmailProprietario>fabianoperfil@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024233</TelefoneProprietario>
+        <NomeResponsavelUso>SO PIZZAS JABOTICABAL LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>141</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3174474">
+      <Solicitacao id="738184">738184201650</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>738184201650</Numero>
+      <DataEmissao>2016-11-30T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-30T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1926077">
+      <Solicitacao id="429751">429751201576</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>429751201576</Numero>
+      <DataEmissao>2015-06-17T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-17T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3174475">
+      <Solicitacao id="738184">738184201650</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>738184201650</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>4.916-6/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-03T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="257498">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23983261000174</CNPJ>
+    <NomeEmpresarial>MARCO ANTONIO XAVIER &amp;amp; CIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-01-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-01-15</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229625478</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>07061800895</CPFResponsavel>
+    <NomeResponsavel>MARCO ANTONIO XAVIER</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32034657</Telefone1>
+    <Email>XAVIERJABOTICABAL@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21822</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>GENERAL GLICERIO</Logradouro>
+      <NumeroLogradouro>315</NumeroLogradouro>
+      <Complemento>SALA  03</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870520</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8219999" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCO ANTONIO XAVIER</Nome>
+        <Numero>00007061800895</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOAO PEDRO DE OLIVEIRA XAVIER</Nome>
+        <Numero>00037533974824</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>076026</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>45920265868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2388557">
+      <Solicitacao id="540198">540198201639</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-01-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3420348">
+      <Solicitacao id="799451">799451201724</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>110830</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>51</AreaEstabelecimento>
+        <NomeProprietario>ONEYDE B. ARAGONA</NomeProprietario>
+        <EmailProprietario>xavierjaboticabal@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632034657</TelefoneProprietario>
+        <NomeResponsavelUso>MARCO ANTONIO XAVIER &amp; CIA LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632034657</TelefoneResponsavelUso>
+        <AreaTotal>51</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>110830</NumeroAVCB>
+        <ValidadeAVCB>2021-02-01</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3420345">
+      <Solicitacao id="799451">799451201724</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799451201724</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3420347">
+      <Solicitacao id="799451">799451201724</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799451201724</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3420346">
+      <Solicitacao id="799451">799451201724</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799451201724</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="357895">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27210120000170</CNPJ>
+    <NomeEmpresarial>LAJORMA INCORPORADORA E EMPREENDIMENTOS IMOBILIARIOS EIRELI</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-02</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>2017-03-02</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35601684647</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>26798045898</CPFResponsavel>
+    <NomeResponsavel>LARISSA MARIA SACCO ABDELMASSIH</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32091060</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00742</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>SETE DE SETEMBRO</Logradouro>
+      <NumeroLogradouro>200</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870570</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4110700" principal="0" exercida="0" />
+      <CNAE codigo="4120400" principal="1" exercida="0" />
+      <CNAE codigo="6463800" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LARISSA MARIA SACCO ABDELMASSIH</Nome>
+        <Numero>00026798045898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>020713</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>02991920000144</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3417216">
+      <Solicitacao id="798651">798651201781</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3417214">
+      <Solicitacao id="798651">798651201781</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798651201781</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>LAJORMA INCORPORADORA E EMPREENDIMENTOS IMOBILIARIOS EIRELI</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632091060</TelefoneProprietario>
+        <NomeResponsavelUso>LAJORMA INCORPORADORA E EMPREENDIMENTOS IMOBILIARIOS EIRELI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632091060</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3417212">
+      <Solicitacao id="798651">798651201781</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798651201781</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3417213">
+      <Solicitacao id="798651">798651201781</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798651201781</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3417215">
+      <Solicitacao id="798651">798651201781</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798651201781</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="357989">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>01749546000102</CNPJ>
+    <NomeEmpresarial>JANE MARY MORETTO JABOTICABAL - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2000-12-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>1997-03-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35115034217</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17876425852</CPFResponsavel>
+    <NomeResponsavel>JANE MARY MORETTO CARDOSO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32032015</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32033541</Telefone2>
+    <Email>CALL@CALLCONTABIL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14980</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Doutor Neves</Logradouro>
+      <NumeroLogradouro>853</NumeroLogradouro>
+      <Bairro>Sorocabano</Bairro>
+      <CEP>14870450</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <CNAE codigo="5611201" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>175618</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>18106169804</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3418190">
+      <Solicitacao id="798909">798909201708</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3418188">
+      <Solicitacao id="798909">798909201708</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798909201708</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-06T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Imovel>
+        <AreaEstabelecimento>127</AreaEstabelecimento>
+        <NomeProprietario>ALTINO ZOCOLARO</NomeProprietario>
+        <EmailProprietario>silviacontabilidade.esc4@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632043392</TelefoneProprietario>
+        <NomeResponsavelUso>JANE MARY MORETTO CARDOSO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632043392</TelefoneResponsavelUso>
+        <AreaTotal>127</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3418186">
+      <Solicitacao id="798909">798909201708</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798909201708</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3418187">
+      <Solicitacao id="798909">798909201708</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798909201708</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3418189">
+      <Solicitacao id="798909">798909201708</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>798909201708</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

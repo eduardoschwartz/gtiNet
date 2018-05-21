@@ -1,0 +1,659 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="127621">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05559940000139</CNPJ>
+    <NomeEmpresarial>PROPRATICA SERVICOS EMPRESARIAIS E RESIDENCIAIS LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-03-17</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2003-03-17</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228212692</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>18640197865</CPFResponsavel>
+    <NomeResponsavel>REGINALDO MOREIRA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027979</Telefone1>
+    <Email>REGINALDO@PROPRATICA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>36797</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Carlos Berchieri</Logradouro>
+      <NumeroLogradouro>400</NumeroLogradouro>
+      <Complemento>Sobreloja</Complemento>
+      <Bairro>Centro</Bairro>
+      <CEP>14870010</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789002" principal="0" exercida="1" />
+      <CNAE codigo="4789005" principal="0" exercida="1" />
+      <CNAE codigo="8111700" principal="0" exercida="1" />
+      <CNAE codigo="8121400" principal="0" exercida="1" />
+      <CNAE codigo="8211300" principal="1" exercida="1" />
+      <CNAE codigo="9700500" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARINA CANDIDA FERREIRA</Nome>
+        <Numero>00037946571879</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>REGINALDO MOREIRA SILVA</Nome>
+        <Numero>00018640197865</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1065834">
+      <Solicitacao id="233101">233101201447</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-26T00:00:00</DataStatus>
+      <RestricaoOperacao id="2973" />
+      <RestricaoOperacao id="2973" />
+      <RestricaoOperacao id="2973" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1065832">
+      <Solicitacao id="233101">233101201447</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233101201447</Numero>
+      <DataEmissao>2014-03-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-25T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Imovel>
+        <AreaEstabelecimento>140</AreaEstabelecimento>
+        <NomeProprietario>LUIZ FERNANDO FORESTI</NomeProprietario>
+        <EmailProprietario>atendimento_sse@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632027979</TelefoneProprietario>
+        <NomeResponsavelUso>MARINA CANDIDA FERREIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632027979</TelefoneResponsavelUso>
+        <AreaTotal>140</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2431653">
+      <Solicitacao id="551211">551211201605</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>551211201605</Numero>
+      <DataEmissao>2016-02-13T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-13T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1065831">
+      <Solicitacao id="233101">233101201447</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233101201447</Numero>
+      <DataEmissao>2014-03-25T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-25T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2431654">
+      <Solicitacao id="551211">551211201605</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>551211201605</Numero>
+      <DataEmissao>2016-02-13T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-13T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="223884">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>04120885000113</CNPJ>
+    <NomeEmpresarial>CARLA ADRIANA MARCONATO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-02-26</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2000-10-20</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35117531293</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>18858332881</CPFResponsavel>
+    <NomeResponsavel>CARLA ADRIANA MARCONATO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32037188</Telefone1>
+    <Email>CARLANIMALE@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>13846</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>José da Costa</Logradouro>
+      <NumeroLogradouro>956</NumeroLogradouro>
+      <Bairro>Aparecida</Bairro>
+      <CEP>14882055</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4771704" principal="0" exercida="1" />
+      <CNAE codigo="7500100" principal="1" exercida="1" />
+      <CNAE codigo="9609207" principal="0" exercida="1" />
+      <CNAE codigo="9609208" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>217624</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05417016810</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3367578">
+      <Solicitacao id="786155">786155201746</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3367576">
+      <Solicitacao id="786155">786155201746</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>187373</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-05T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>396</AreaEstabelecimento>
+        <NomeProprietario>CARLA ADRIANA MARCONATO</NomeProprietario>
+        <EmailProprietario>carlanimale@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632037188</TelefoneProprietario>
+        <NomeResponsavelUso>CARLA ADRIANA MARCONATO - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632037188</TelefoneResponsavelUso>
+        <AreaTotal>1949</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>187373</NumeroAVCB>
+        <ValidadeAVCB>2018-06-05</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3367574">
+      <Solicitacao id="786155">786155201746</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786155201746</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+      <Pergunta id="5055" resposta="0" />
+      <Pergunta id="5056" resposta="0" />
+      <Declaracao id="7352" />
+      <Declaracao id="7353" />
+    </Licenciamento>
+    <Licenciamento id="3367575">
+      <Solicitacao id="786155">786155201746</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786155201746</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-14T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3367577">
+      <Solicitacao id="786155">786155201746</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786155201746</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="234838">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>20058339000156</CNPJ>
+    <NomeEmpresarial>LIMPEBEM R B COMERCIO E SERVICOS DE LIMPEZA EIRELI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-04-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>2014-04-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129465401</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>93238185853</CPFResponsavel>
+    <NomeResponsavel>NEUCI APARECIDA RIGOTTI AMORIM DE ALMEIDA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036932</Telefone1>
+    <Email>ANTONIOCHELLI@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>05629</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Euclides da Cunha</Logradouro>
+      <NumeroLogradouro>165</NumeroLogradouro>
+      <Bairro>Xis</Bairro>
+      <CEP>14870760</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="3811400" principal="0" exercida="1" />
+      <CNAE codigo="8121400" principal="0" exercida="1" />
+      <CNAE codigo="8130300" principal="0" exercida="1" />
+      <CNAE codigo="9700500" principal="0" exercida="1" />
+      <CNAE codigo="4789005" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NEUCI APARECIDA RIGOTTI AMORIM DE ALMEIDA</Nome>
+        <Numero>00093238185853</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>075407</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>19332556849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3367540">
+      <Solicitacao id="786145">786145201756</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3367538">
+      <Solicitacao id="786145">786145201756</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786145201756</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>188</AreaEstabelecimento>
+        <NomeProprietario>AMERIco Mazza</NomeProprietario>
+        <EmailProprietario>antoniochelli@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632036932</TelefoneProprietario>
+        <NomeResponsavelUso>tiago rigotti gomes</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036238</TelefoneResponsavelUso>
+        <AreaTotal>1557</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3367536">
+      <Solicitacao id="786145">786145201756</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786145201756</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+      <Declaracao id="7361" />
+      <Declaracao id="7362" />
+    </Licenciamento>
+    <Licenciamento id="3367537">
+      <Solicitacao id="786145">786145201756</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786145201756</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-14T00:00:00</DataVencimento>
+      <Pergunta id="6142" resposta="0" />
+      <Pergunta id="6155" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10227" />
+      <Declaracao id="10240" />
+    </Licenciamento>
+    <Licenciamento id="3367539">
+      <Solicitacao id="786145">786145201756</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786145201756</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="326188">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>13954513000183</CNPJ>
+    <NomeEmpresarial>REINALDO DA SILVA OLIVEIRA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-07-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-07-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35212714119</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>31043735828</CPFResponsavel>
+    <NomeResponsavel>REINALDO DA SILVA OLIVEIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32044450</Telefone1>
+    <Email>LAMPACONT@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19608</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Madre Paula</Logradouro>
+      <NumeroLogradouro>567</NumeroLogradouro>
+      <Bairro>Jardim Paulista</Bairro>
+      <CEP>14875348</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4724500" principal="1" exercida="1" />
+      <CNAE codigo="4712100" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>160406</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05640063866</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3367962">
+      <Solicitacao id="786245">786245201730</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3367961">
+      <Solicitacao id="786245">786245201730</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>201825</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-12-07T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>141</AreaEstabelecimento>
+        <NomeProprietario>MORGANA APARECIDA PIZOLATO</NomeProprietario>
+        <EmailProprietario>lampacont@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1697744844</TelefoneProprietario>
+        <NomeResponsavelUso>REINALDO DA SILVA OLIVEIRA-ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697744844</TelefoneResponsavelUso>
+        <AreaTotal>241</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>201825</NumeroAVCB>
+        <ValidadeAVCB>2019-12-07</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3073298">
+      <Solicitacao id="712582">712582201604</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>35243031147100024716</Numero>
+      <DataEmissao>2016-12-02T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>0211/17</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-08T00:00:00</DataProtocolo>
+      <Pergunta id="5033" resposta="1" />
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3073299">
+      <Solicitacao id="712582">712582201604</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>712582201604</Numero>
+      <DataEmissao>2016-10-20T00:00:00</DataEmissao>
+      <DataVencimento>2021-10-20T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3073301">
+      <Solicitacao id="712582">712582201604</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>712582201604</Numero>
+      <DataEmissao>2016-10-19T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-19T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="353357">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>03199978000112</CNPJ>
+    <NomeEmpresarial>FRATERNIDADE ESPIRITA FABIANO DE CRISTO</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>1999-05-31</DataSituacaoCadastral>
+    <NaturezaJuridica>3999</NaturezaJuridica>
+    <DataAbertura>1999-05-31</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>004145</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>26340290809</CPFResponsavel>
+    <NomeResponsavel>FABIO AVILLES</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00619</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO SEBASTIAO</Logradouro>
+      <NumeroLogradouro>263</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870720</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9491000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FABIO AVILLES</Nome>
+        <Numero>00026340290809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>152720</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3365977">
+      <Solicitacao id="785760">785760201729</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-14T00:00:00</DataStatus>
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3365975">
+      <Solicitacao id="785760">785760201729</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>200306</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-12-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5455" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8275" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>153</AreaEstabelecimento>
+        <NomeProprietario>FRATERNIDADE ESPIRITA FABIANO DE CRISTO</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>FRATERNIDADE ESPIRITA FABIANO DE CRISTO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>396</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>200306</NumeroAVCB>
+        <ValidadeAVCB>2019-12-01</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3365973">
+      <Solicitacao id="785760">785760201729</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>785760201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3365974">
+      <Solicitacao id="785760">785760201729</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>785760201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-14T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3365976">
+      <Solicitacao id="785760">785760201729</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>785760201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

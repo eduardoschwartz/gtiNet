@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="136260">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>10747023000118</CNPJ>
+    <NomeEmpresarial>ANA S CARVALHO VESTUARIO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2009-03-31</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2009-03-31</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35223100641</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16707827863</CPFResponsavel>
+    <NomeResponsavel>ANA ROSA DELFINO CARVALHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023818</Telefone1>
+    <Email>ADELFINOCARVALHO@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01095</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Barão do Rio Branco</Logradouro>
+      <NumeroLogradouro>1196</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870780</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <CNAE codigo="4782201" principal="0" exercida="1" />
+      <CNAE codigo="4782202" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANA ROSA DELFINO CARVALHO</Nome>
+        <Numero>00016707827863</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO SERGIO COROADINHO CARVALHO</Nome>
+        <Numero>00012242948822</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>076026</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>45920265868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3784418">
+      <Solicitacao id="885286">885286201771</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3784416">
+      <Solicitacao id="885286">885286201771</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000251634</Numero>
+      <DataEmissao>2017-06-14T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-14T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>885286201771</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>90</AreaEstabelecimento>
+        <NomeProprietario>ANA S CARVALHO VESTUARIO LTDA -ME</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ANA S CARVALHO VESTUARIO LTDA -ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>350</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000025163</NumeroAVCB>
+        <ValidadeAVCB>2017-06-14</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2958984">
+      <Solicitacao id="683698">683698201699</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>683698201699</Numero>
+      <DataEmissao>2016-09-05T00:00:00</DataEmissao>
+      <DataVencimento>2017-09-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1150492">
+      <Solicitacao id="252313">252313201417</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>252313201417</Numero>
+      <DataEmissao>2014-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2019-05-19T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2958985">
+      <Solicitacao id="683698">683698201699</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>683698201699</Numero>
+      <DataEmissao>2016-09-05T00:00:00</DataEmissao>
+      <DataVencimento>2017-09-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3784417">
+      <Solicitacao id="885286">885286201771</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497641770925</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-16T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="156188">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>20917593000162</CNPJ>
+    <NomeEmpresarial>NELSON PRETTI - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-08-27</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-08-27</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129740020</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>39390996864</CPFResponsavel>
+    <NomeResponsavel>NELSON PRETTI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <Email>OCONTABIL-BRASIL@NETSITE.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00749</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>1360</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4763601" principal="0" exercida="1" />
+      <CNAE codigo="4772500" principal="1" exercida="1" />
+      <CNAE codigo="4781400" principal="0" exercida="1" />
+      <CNAE codigo="4782201" principal="0" exercida="1" />
+      <CNAE codigo="4782202" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2132779">
+      <Solicitacao id="477512">477512201542</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-09-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3782863">
+      <Solicitacao id="884950">884950201795</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000251292</Numero>
+      <DataEmissao>2017-06-13T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-13T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>884950201795</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>160</AreaEstabelecimento>
+        <NomeProprietario>NELSON PRETTI - EPP</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>NELSON PRETTI - EPP</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>247</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000025129</NumeroAVCB>
+        <ValidadeAVCB>2017-06-13</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3212420">
+      <Solicitacao id="747613">747613201629</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>747613201629</Numero>
+      <DataEmissao>2016-12-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-15T00:00:00</DataVencimento>
+      <Pergunta id="5034" resposta="0" />
+      <Pergunta id="5038" resposta="0" />
+      <Pergunta id="5037" resposta="0" />
+      <Pergunta id="5036" resposta="0" />
+      <Pergunta id="5035" resposta="0" />
+      <Declaracao id="7331" />
+      <Declaracao id="7332" />
+      <Declaracao id="7333" />
+      <Declaracao id="7334" />
+      <Declaracao id="7335" />
+    </Licenciamento>
+    <Licenciamento id="3212422">
+      <Solicitacao id="747613">747613201629</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>747613201629</Numero>
+      <DataEmissao>2016-12-15T00:00:00</DataEmissao>
+      <DataVencimento>2021-12-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3212421">
+      <Solicitacao id="747613">747613201629</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>747613201629</Numero>
+      <DataEmissao>2017-02-08T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-08T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>2.059-1/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-01-27T00:00:00</DataProtocolo>
+    </Licenciamento>
+    <Licenciamento id="3782864">
+      <Solicitacao id="884950">884950201795</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497616266992</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-16T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="367654">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27317570000166</CNPJ>
+    <NomeEmpresarial>JOSE CARLOS DOS SANTOS 05895874800</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-03-16</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35822684593</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05895874800</CPFResponsavel>
+    <NomeResponsavel>JOSE CARLOS DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97727820</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>6120570084353</SetorQuadraLote>
+      <TipoLogradouro>Sítio</TipoLogradouro>
+      <Logradouro>PROJETO DE ASSENTAMENTO CORREGO RICO</Logradouro>
+      <NumeroLogradouro>sn</NumeroLogradouro>
+      <Complemento>LOTE 29</Complemento>
+      <Bairro>CORREGO RICO</Bairro>
+      <CEP>14896970</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0161001" principal="0" exercida="0" />
+      <CNAE codigo="1622699" principal="0" exercida="0" />
+      <CNAE codigo="3702900" principal="0" exercida="0" />
+      <CNAE codigo="3811400" principal="0" exercida="0" />
+      <CNAE codigo="4321500" principal="0" exercida="0" />
+      <CNAE codigo="4322301" principal="0" exercida="0" />
+      <CNAE codigo="4330402" principal="0" exercida="0" />
+      <CNAE codigo="4330404" principal="0" exercida="0" />
+      <CNAE codigo="4399103" principal="0" exercida="0" />
+      <CNAE codigo="4930202" principal="0" exercida="0" />
+      <CNAE codigo="8130300" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3568570">
+      <Solicitacao id="837588">837588201751</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3568568">
+      <Solicitacao id="837588">837588201751</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>36760</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-16T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>12</AreaEstabelecimento>
+        <NomeProprietario>JOSE CARLOS DOS SANTOS</NomeProprietario>
+        <EmailProprietario>jcsantos@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1699685475</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE CARLOS DOS SANTOS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1699685475</TelefoneResponsavelUso>
+        <AreaTotal>40</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3568567">
+      <Solicitacao id="837588">837588201751</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837588201751</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3525254">
+      <Solicitacao id="825506">825506201714</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825506201714</Numero>
+      <DataEmissao>2017-04-07T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-07T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3568569">
+      <Solicitacao id="837588">837588201751</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837588201751</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3568566">
+      <Solicitacao id="837588">837588201751</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493058544947</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-24T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

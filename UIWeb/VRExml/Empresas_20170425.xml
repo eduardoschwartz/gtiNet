@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="196790">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22153536000180</CNPJ>
+    <NomeEmpresarial>ALCIDES FUERTES JUNIOR - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-03-30</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-03-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130092869</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11415168881</CPFResponsavel>
+    <NomeResponsavel>ALCIDES FUERTES JUNIOR</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <Email>AF.JUNIOR@IG.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11948</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Washington Martins Pinheiro</Logradouro>
+      <NumeroLogradouro>26</NumeroLogradouro>
+      <Bairro>Conjunto Habitacional Hugo Lacorte Vitalle I</Bairro>
+      <CEP>14875428</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8211300" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3569244">
+      <Solicitacao id="837726">837726201713</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2585662">
+      <Solicitacao id="589700">589700201686</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>589700201686</Numero>
+      <DataEmissao>2016-04-19T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-19T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>158</AreaEstabelecimento>
+        <NomeProprietario>ALCIDES FUERTES JUNIOR - ME</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>ALCIDES FUERTES JUNIOR - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3569241">
+      <Solicitacao id="837726">837726201713</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837726201713</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2585664">
+      <Solicitacao id="589700">589700201686</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>589700201686</Numero>
+      <DataEmissao>2016-04-19T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-19T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3569242">
+      <Solicitacao id="837726">837726201713</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837726201713</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3569243">
+      <Solicitacao id="837726">837726201713</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493062431858</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-24T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="277644">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14498028000105</CNPJ>
+    <NomeEmpresarial>S R DA SILVA ELETROELETRONICOS  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-21</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35803425189</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17110814858</CPFResponsavel>
+    <NomeResponsavel>SERGIO ROQUE DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>81362460</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19957</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DURVAL DIAS DE MIRANDA</Logradouro>
+      <NumeroLogradouro>280</NumeroLogradouro>
+      <Bairro>PARQUE PRIMEIRO DE MAIO</Bairro>
+      <CEP>14875338</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9521500" principal="0" exercida="0" />
+      <CNAE codigo="9529199" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2589831">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2589829">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-20T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Imovel>
+        <AreaEstabelecimento>188</AreaEstabelecimento>
+        <NomeProprietario>SR DA SILVA ELETROELETRONICOS - ME</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>SR DA SILVA ELETROELETRONICOS - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3572418">
+      <Solicitacao id="838433">838433201731</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>838433201731</Numero>
+      <DataEmissao>2017-04-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2589828">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-20T00:00:00</DataVencimento>
+      <Declaracao id="9668" />
+      <Declaracao id="9632" />
+    </Licenciamento>
+    <Licenciamento id="3572419">
+      <Solicitacao id="838433">838433201731</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>838433201731</Numero>
+      <DataEmissao>2017-04-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3572420">
+      <Solicitacao id="838433">838433201731</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493133799626</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-25T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

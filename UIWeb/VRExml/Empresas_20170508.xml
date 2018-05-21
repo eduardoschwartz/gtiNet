@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="296791">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>59458216000148</CNPJ>
+    <NomeEmpresarial>ELETRICA SANTOS &amp;amp; FRAGNITO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-03-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1988-09-01</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35208218709</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>06058900808</CPFResponsavel>
+    <NomeResponsavel>ISABEL CRISTINA FRAGNITO DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32024633</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32041021</Telefone2>
+    <Email>ag-anjoscontabil@uol.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00384</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO SEBASTIAO</Logradouro>
+      <NumeroLogradouro>464</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870720</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4754703" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ISABEL CRISTINA FRAGNITO DOS SANTOS</Nome>
+        <Numero>00006058900808</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VIVIAN ELAINE DOS SANTOS BATISTA</Nome>
+        <Numero>00035836829802</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>112863</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86370278815</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2776927">
+      <Solicitacao id="637659">637659201684</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-07-04T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2776925">
+      <Solicitacao id="637659">637659201684</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>637659201684</Numero>
+      <DataEmissao>2016-06-30T00:00:00</DataEmissao>
+      <DataVencimento>2019-06-30T00:00:00</DataVencimento>
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>125</AreaEstabelecimento>
+        <NomeProprietario>EZEQUIEL FRANCISCO  DOS SANTOS</NomeProprietario>
+        <EmailProprietario>lucas@agacontabilidade.com.br</EmailProprietario>
+        <TelefoneProprietario>1632036583</TelefoneProprietario>
+        <NomeResponsavelUso>ELETRICA SANTOS E FRAGNITO - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632024278</TelefoneResponsavelUso>
+        <AreaTotal>412</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3611738">
+      <Solicitacao id="847171">847171201787</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>847171201787</Numero>
+      <DataEmissao>2017-05-08T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-08T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2776924">
+      <Solicitacao id="637659">637659201684</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>637659201684</Numero>
+      <DataEmissao>2016-06-30T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-30T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3611739">
+      <Solicitacao id="847171">847171201787</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>847171201787</Numero>
+      <DataEmissao>2017-05-08T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-08T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3611737">
+      <Solicitacao id="847171">847171201787</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494261656431</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-08T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

@@ -1,0 +1,261 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="256520">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23892747000105</CNPJ>
+    <NomeEmpresarial>MAURO SOLA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-12-30</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-12-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130575649</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>02001582870</CPFResponsavel>
+    <NomeResponsavel>MAURO SOLA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>92127602</Telefone1>
+    <Email>IUGHETTIJUNIOR@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21244</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>WALDEMAR ANTONIO CRUZ</Logradouro>
+      <NumeroLogradouro>545</NumeroLogradouro>
+      <Bairro>VILA INDUSTRIAL</Bairro>
+      <CEP>14883134</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4120400" principal="0" exercida="0" />
+      <CNAE codigo="4299599" principal="0" exercida="0" />
+      <CNAE codigo="4330404" principal="1" exercida="0" />
+      <CNAE codigo="4399103" principal="0" exercida="0" />
+      <CNAE codigo="4744099" principal="0" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2416021">
+      <Solicitacao id="547233">547233201615</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-04T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2416019">
+      <Solicitacao id="547233">547233201615</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>547233201615</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-03T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>12</AreaEstabelecimento>
+        <NomeProprietario>MAURO SOLA</NomeProprietario>
+        <EmailProprietario>iughettijunior@bol.com.br</EmailProprietario>
+        <TelefoneProprietario>1692127602</TelefoneProprietario>
+        <NomeResponsavelUso>MAURO SOLA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1692127602</TelefoneResponsavelUso>
+        <AreaTotal>102</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2416017">
+      <Solicitacao id="547233">547233201615</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>547233201615</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-03T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2416018">
+      <Solicitacao id="547233">547233201615</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>547233201615</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-03T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2416020">
+      <Solicitacao id="547233">547233201615</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>547233201615</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-03T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="295547">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14469705000167</CNPJ>
+    <NomeEmpresarial>ORISVALDO DIAOS DA SILVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-03</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35127542107</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19508015861</CPFResponsavel>
+    <NomeResponsavel>ORISVALDO DIAOS DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32511181</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32516847</Telefone2>
+    <Email>NFE.MAC@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11380</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>Vereador Gumercindo Raimundo</Logradouro>
+      <NumeroLogradouro>55</NumeroLogradouro>
+      <Complemento>SALA 02</Complemento>
+      <Bairro>Jardim Nova Aparecida</Bairro>
+      <CEP>14883386</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <CNAE codigo="8230002" principal="0" exercida="1" />
+      <CNAE codigo="8230001" principal="0" exercida="1" />
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+      <CNAE codigo="5611201" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>087330</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07431899815</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2764592">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-06-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2764590">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>223629</Numero>
+      <DataEmissao>2016-02-04T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-04T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>634558201659</ProtocoloAtendimento>
+      <DataProtocolo>2017-01-10T00:00:00</DataProtocolo>
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>205</AreaEstabelecimento>
+        <NomeProprietario>EDMILSON CESAR CATATIN E OUTROS</NomeProprietario>
+        <EmailProprietario>FZRAPHABORGES@HOTMAIL.COM</EmailProprietario>
+        <TelefoneProprietario>1891129308</TelefoneProprietario>
+        <NomeResponsavelUso>UNIMED DE BIRIGUI COOPERATIVA DE TRABALHO MEDICO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1891129308</TelefoneResponsavelUso>
+        <AreaTotal>3376</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>223732</NumeroAVCB>
+        <ValidadeAVCB>2017-02-04</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2764588">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2764589">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-27T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2764591">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-10T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>14289-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-08-16T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

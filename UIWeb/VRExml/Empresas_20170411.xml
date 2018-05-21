@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="333763">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26573672000180</CNPJ>
+    <NomeEmpresarial>SOUZA DIAS CONVENIENCIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-11-21</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-11-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35230150712</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14443941851</CPFResponsavel>
+    <NomeResponsavel>MARIA ANGELICA DIAS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32037069</Telefone1>
+    <Email>EMPORIODAGULA.EG@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26438</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Antônio Barbieri</Logradouro>
+      <NumeroLogradouro>122</NumeroLogradouro>
+      <Bairro>Jardim Nova Aparecida</Bairro>
+      <CEP>14883388</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4721102" principal="0" exercida="1" />
+      <CNAE codigo="4729602" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA ANGELICA DIAS</Nome>
+        <Numero>00014443941851</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JAIME SILVA DE SOUZA</Nome>
+        <Numero>00009245602826</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>217624</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05417016810</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3530510">
+      <Solicitacao id="826756">826756201719</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3530509">
+      <Solicitacao id="826756">826756201719</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>72742</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2018-09-11T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>136</AreaEstabelecimento>
+        <NomeProprietario>MARINA RUNAU FISCHER</NomeProprietario>
+        <EmailProprietario>fiorezzi@fiorezzicontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1632037069</TelefoneProprietario>
+        <NomeResponsavelUso>SOUZA DIAS CONVENIENCIA LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632037069</TelefoneResponsavelUso>
+        <AreaTotal>277</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>72742</NumeroAVCB>
+        <ValidadeAVCB>2018-09-11</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3530507">
+      <Solicitacao id="826756">826756201719</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826756201719</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-11T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3530508">
+      <Solicitacao id="826756">826756201719</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826756201719</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-11T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3530482">
+      <Solicitacao id="826750">826750201749</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826750201749</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="367788">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26891609000191</CNPJ>
+    <NomeEmpresarial>GISLENE APARECIDA LOPES 09889053888</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-01-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-01-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35821872132</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09889053888</CPFResponsavel>
+    <NomeResponsavel>GISLENE APARECIDA LOPES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32043499</Telefone1>
+    <Email>henry_feh@hotmail.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>92270</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>DOM AUGUSTO DE ASSIS</Logradouro>
+      <NumeroLogradouro>238</NumeroLogradouro>
+      <Complemento>LOJA</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870110</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4729601" principal="0" exercida="1" />
+      <CNAE codigo="4751201" principal="1" exercida="1" />
+      <CNAE codigo="4752100" principal="0" exercida="1" />
+      <CNAE codigo="4753900" principal="0" exercida="1" />
+      <CNAE codigo="4754703" principal="0" exercida="1" />
+      <CNAE codigo="4755502" principal="0" exercida="1" />
+      <CNAE codigo="4781400" principal="0" exercida="1" />
+      <CNAE codigo="4783101" principal="0" exercida="1" />
+      <CNAE codigo="4783102" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+      <CNAE codigo="9511800" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3532145">
+      <Solicitacao id="827157">827157201712</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827157201712</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-11T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>45</AreaEstabelecimento>
+        <NomeProprietario>GISLENE APARECIDA LOPES</NomeProprietario>
+        <EmailProprietario>GAPLOPES@HOTMAIL.COM</EmailProprietario>
+        <TelefoneProprietario>1632043499</TelefoneProprietario>
+        <NomeResponsavelUso>GISLENE APARECIDA LOPES</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632043499</TelefoneResponsavelUso>
+        <AreaTotal>162</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3532143">
+      <Solicitacao id="827157">827157201712</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827157201712</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-11T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3532144">
+      <Solicitacao id="827157">827157201712</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827157201712</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-11T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

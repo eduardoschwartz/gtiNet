@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="295547">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14469705000167</CNPJ>
+    <NomeEmpresarial>ORISVALDO DIAOS DA SILVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-03</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35127542107</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19508015861</CPFResponsavel>
+    <NomeResponsavel>ORISVALDO DIAOS DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32511181</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32516847</Telefone2>
+    <Email>NFE.MAC@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11380</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>Vereador Gumercindo Raimundo</Logradouro>
+      <NumeroLogradouro>55</NumeroLogradouro>
+      <Complemento>SALA 02</Complemento>
+      <Bairro>Jardim Nova Aparecida</Bairro>
+      <CEP>14883386</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <CNAE codigo="8230002" principal="0" exercida="1" />
+      <CNAE codigo="8230001" principal="0" exercida="1" />
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+      <CNAE codigo="5611201" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>087330</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07431899815</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2764592">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-06-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2764590">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>223629</Numero>
+      <DataEmissao>2016-02-04T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-04T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>634558201659</ProtocoloAtendimento>
+      <DataProtocolo>2017-01-10T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>693</AreaEstabelecimento>
+        <NomeProprietario>GRAMADAO PARTICIPACOES E EMPREENDIMENTOS LTDA</NomeProprietario>
+        <EmailProprietario>adrianomanzano@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1796143168</TelefoneProprietario>
+        <NomeResponsavelUso>ADRIANO MANZANO DE OLIVEIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1796143168</TelefoneResponsavelUso>
+        <AreaTotal>1394</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2764588">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2764589">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-27T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2764591">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-10T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>14289-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-08-16T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="339623">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26522057000144</CNPJ>
+    <NomeEmpresarial>RAFAELA CRISTINA DE ALMEIDA 40165855894</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-11-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-11-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35821215948</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>40165855894</CPFResponsavel>
+    <NomeResponsavel>RAFAELA CRISTINA DE ALMEIDA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023648</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>13610</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>MAJOR BRAGUINHA</Logradouro>
+      <NumeroLogradouro>39</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14882200</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="1340599" principal="1" exercida="1" />
+      <CNAE codigo="1422300" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3247205">
+      <Solicitacao id="756193">756193201719</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-01-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3247203">
+      <Solicitacao id="756193">756193201719</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756193201719</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2020-01-05T00:00:00</DataVencimento>
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Imovel>
+        <AreaEstabelecimento>166</AreaEstabelecimento>
+        <NomeProprietario>JOAO BAPTISTA BORTOLATO</NomeProprietario>
+        <EmailProprietario>ORGCARDOSO@TERRA.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632035104</TelefoneProprietario>
+        <NomeResponsavelUso>JOAO BAPTISTA BORTOLATO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632035104</TelefoneResponsavelUso>
+        <AreaTotal>166</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3247201">
+      <Solicitacao id="756193">756193201719</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756193201719</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3247202">
+      <Solicitacao id="756193">756193201719</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756193201719</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2022-01-05T00:00:00</DataVencimento>
+      <Pergunta id="6118" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10203" />
+    </Licenciamento>
+    <Licenciamento id="3247204">
+      <Solicitacao id="756193">756193201719</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756193201719</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-05T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="341864">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18460817001007</CNPJ>
+    <NomeEmpresarial>CC DA COSTA CALCADOS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-08-31</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-08-31</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35128921225</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>22156915814</CPFResponsavel>
+    <NomeResponsavel>CINTHIA CRISTINA DA COSTA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>37240898</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>30250458</Telefone2>
+    <Email>ESCRITORIOSOUZA@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00584</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>BENJAMIN CONSTANT</Logradouro>
+      <NumeroLogradouro>257</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870140</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4782201" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>181674</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>15983700812</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3249669">
+      <Solicitacao id="756835">756835201770</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-01-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3249667">
+      <Solicitacao id="756835">756835201770</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756835201770</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2020-01-05T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>291</AreaEstabelecimento>
+        <NomeProprietario>MARIA APARECIDA DOS ANJOS CAPPATTO</NomeProprietario>
+        <EmailProprietario>escritoriosouza@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1637240898</TelefoneProprietario>
+        <NomeResponsavelUso>CC DA COSTA CALCADOS ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1634037460</TelefoneResponsavelUso>
+        <AreaTotal>291</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3249665">
+      <Solicitacao id="756835">756835201770</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756835201770</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3249666">
+      <Solicitacao id="756835">756835201770</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756835201770</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2022-01-05T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3249668">
+      <Solicitacao id="756835">756835201770</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>756835201770</Numero>
+      <DataEmissao>2017-01-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-05T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="343929">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26825881000173</CNPJ>
+    <NomeEmpresarial>EDENILDA MAXIMO DA FONSECA DE SOUZA 36759267885</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-01-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-01-09</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35821742433</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>36759267885</CPFResponsavel>
+    <NomeResponsavel>EDENILDA MAXIMO DA FONSECA DE SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>93476918</Telefone1>
+    <Email>silviacontabilidade.esc4@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19841</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>GUSTAVO DIAS DE MIRANDA</Logradouro>
+      <NumeroLogradouro>250</NumeroLogradouro>
+      <Bairro>PARQUE PRIMEIRO DE MAIO</Bairro>
+      <CEP>14875335</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="0" exercida="1" />
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3259167">
+      <Solicitacao id="759244">759244201795</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-01-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2970" />
+      <RestricaoOperacao id="2970" />
+      <RestricaoOperacao id="2970" />
+      <RestricaoOperacao id="2970" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3259165">
+      <Solicitacao id="759244">759244201795</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>759244201795</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-01-10T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>115</AreaEstabelecimento>
+        <NomeProprietario>JOSE ROBERTO GOMES FIGUEIREDO</NomeProprietario>
+        <EmailProprietario>silviacontabilidade.esc4@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632043392</TelefoneProprietario>
+        <NomeResponsavelUso>EDENILDA MAXIMO DA FONSECA DE SOUZA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632043390</TelefoneResponsavelUso>
+        <AreaTotal>115</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3259163">
+      <Solicitacao id="759244">759244201795</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>759244201795</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3259164">
+      <Solicitacao id="759244">759244201795</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>759244201795</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-01-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3259166">
+      <Solicitacao id="759244">759244201795</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>759244201795</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-10T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

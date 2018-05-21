@@ -1,0 +1,917 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="169225">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>13599023000106</CNPJ>
+    <NomeEmpresarial>AEROCENTER IMPORTACAO, EXPORTACAO, MANUTENCAO E PECAS LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-03-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2011-03-16</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35225109921</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>33982367824</CPFResponsavel>
+    <NomeResponsavel>GUILHERME ANTONIO GOMES DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32627150</Telefone1>
+    <Email>ESCRITORIOCONTABILUNIAO@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>36334</SetorQuadraLote>
+      <TipoLogradouro>Via</TipoLogradouro>
+      <Logradouro>DE ACESSO VALDIR APARECIDO CASAGRANDE</Logradouro>
+      <NumeroLogradouro>20</NumeroLogradouro>
+      <Complemento>HANGAR 1</Complemento>
+      <Bairro>AEROPORTO</Bairro>
+      <CEP>14870974</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4669999" principal="1" exercida="1" />
+      <CNAE codigo="3316301" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GUILHERME ANTONIO GOMES DA SILVA</Nome>
+        <Numero>00033982367824</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>APARECIDA LUIZA SGARBI GOMES DA SILVA</Nome>
+        <Numero>00015990161840</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>160585</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07796283814</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3796892">
+      <Solicitacao id="888068">888068201761</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1470291">
+      <Solicitacao id="326047">326047201479</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>326047201479</Numero>
+      <DataEmissao>2014-11-03T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-03T00:00:00</DataVencimento>
+      <Pergunta id="5171" resposta="0" />
+      <Pergunta id="5170" resposta="0" />
+      <Pergunta id="5169" resposta="0" />
+      <Pergunta id="5167" resposta="0" />
+      <Pergunta id="5166" resposta="0" />
+      <Pergunta id="5165" resposta="0" />
+      <Declaracao id="7650" />
+      <Declaracao id="7651" />
+      <Declaracao id="7652" />
+      <Declaracao id="7654" />
+      <Declaracao id="7655" />
+      <Declaracao id="7656" />
+      <Declaracao id="7659" />
+      <Declaracao id="7660" />
+      <Declaracao id="7661" />
+      <Imovel>
+        <AreaEstabelecimento>400</AreaEstabelecimento>
+        <NomeProprietario>PREFEITURA MUNICIPAL DE JABOTICABAL</NomeProprietario>
+        <EmailProprietario>atendimento@jaboticabal.sp.gov.br</EmailProprietario>
+        <TelefoneProprietario>1632093303</TelefoneProprietario>
+        <NomeResponsavelUso>AEROCENTER</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632624483</TelefoneResponsavelUso>
+        <AreaTotal>8084</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3796889">
+      <Solicitacao id="888068">888068201761</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888068201761</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3796887">
+      <Solicitacao id="888068">888068201761</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888068201761</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2022-06-20T00:00:00</DataVencimento>
+      <Pergunta id="6141" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10226" />
+    </Licenciamento>
+    <Licenciamento id="3796890">
+      <Solicitacao id="888068">888068201761</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888068201761</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3796891">
+      <Solicitacao id="888068">888068201761</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497988875728</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="200059">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>56143464000101</CNPJ>
+    <NomeEmpresarial>MARTINELLI &amp;amp; MARTINELLI COMERCIO DE PECAS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2000-12-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1986-08-01</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228933195</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19110151842</CPFResponsavel>
+    <NomeResponsavel>RODRIGO JOSE MARTINELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <Email>BRASILABERTURA@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14157</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Monteiro Lobato</Logradouro>
+      <NumeroLogradouro>987</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870850</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RODRIGO JOSE MARTINELLI</Nome>
+        <Numero>00019110151842</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE APARECIDO MARTINELLI NETTO</Nome>
+        <Numero>00045291553820</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3791581">
+      <Solicitacao id="886890">886890201751</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3791578">
+      <Solicitacao id="886890">886890201751</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000240748</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-12T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>886890201751</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>234</AreaEstabelecimento>
+        <NomeProprietario>RODRIGO JOSE MARTINELLI</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>RODRIGO JOSE MARTINELLI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>234</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024074</NumeroAVCB>
+        <ValidadeAVCB>2017-05-12</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3791577">
+      <Solicitacao id="886890">886890201751</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886890201751</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1790148">
+      <Solicitacao id="398766">398766201527</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>398766201527</Numero>
+      <DataEmissao>2015-04-17T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-17T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3791579">
+      <Solicitacao id="886890">886890201751</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886890201751</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3791580">
+      <Solicitacao id="886890">886890201751</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497961615048</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="294030">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>08161054000493</CNPJ>
+    <NomeEmpresarial>EDISON PIOVEZAM D'AGOSTINI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-06-27</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-06-27</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35904052116</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>02797558804</CPFResponsavel>
+    <NomeResponsavel>EDISON PIOVEZAM D AGOSTINI</NomeResponsavel>
+    <DDD1>19</DDD1>
+    <Telefone1>34782506</Telefone1>
+    <Email>rmc.contabil@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00634</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>830</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870300</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4774100" principal="0" exercida="1" />
+      <CNAE codigo="4781400" principal="0" exercida="1" />
+      <CNAE codigo="4782201" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>141036</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>06293926846</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2749318">
+      <Solicitacao id="630700">630700201670</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-06-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2749316">
+      <Solicitacao id="630700">630700201670</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>63384</Numero>
+      <DataEmissao>2016-06-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-08-12T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>102</AreaEstabelecimento>
+        <NomeProprietario>EDISON PIOVEZAM D' AGOSTINI - ME</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>EDISON PIOVEZAM D' AGOSTINI - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>102</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000006338</NumeroAVCB>
+        <ValidadeAVCB>2015-08-12</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3791209">
+      <Solicitacao id="886796">886796201749</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886796201749</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+      <Pergunta id="5057" resposta="0" />
+      <Declaracao id="7354" />
+    </Licenciamento>
+    <Licenciamento id="2749315">
+      <Solicitacao id="630700">630700201670</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>630700201670</Numero>
+      <DataEmissao>2016-06-22T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-22T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3791210">
+      <Solicitacao id="886796">886796201749</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886796201749</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3745624">
+      <Solicitacao id="876786">876786201775</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496843055580</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-07T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="356241">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14819455000148</CNPJ>
+    <NomeEmpresarial>AUTO POSTO THE ONE SERVICE LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-09-08</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2011-09-08</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35225848626</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>77833406600</CPFResponsavel>
+    <NomeResponsavel>VALERIA LACERDA BELLODI CANHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32039306</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32039195</Telefone2>
+    <Email>APTO.KEILA@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>31494</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>EDUARDO ZAMBIANCHI</Logradouro>
+      <NumeroLogradouro>140</NumeroLogradouro>
+      <Bairro>VILA INDUSTRIAL</Bairro>
+      <CEP>14883130</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4729699" principal="0" exercida="1" />
+      <CNAE codigo="4731800" principal="1" exercida="1" />
+      <CNAE codigo="4732600" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VALERIA LACERDA BELLODI CANHO</Nome>
+        <Numero>00077833406600</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALEXEI LEMES FALSON</Nome>
+        <Numero>00021369847807</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>096280</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>74507966868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3397909">
+      <Solicitacao id="793721">793721201747</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3397907">
+      <Solicitacao id="793721">793721201747</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>202293</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2019-12-09T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>570</AreaEstabelecimento>
+        <NomeProprietario>AUTO POSTO THE ONE SERVICE LTDA</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>AUTO POSTO THE ONE SERVICE LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>570</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000020229</NumeroAVCB>
+        <ValidadeAVCB>2016-12-09</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3397905">
+      <Solicitacao id="793721">793721201747</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>793721201747</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-23T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3669295">
+      <Solicitacao id="859961">859961201778</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001040</Numero>
+      <DataEmissao>2012-09-05T00:00:00</DataEmissao>
+      <DataVencimento>2017-09-05T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>52001793</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-31T00:00:00</DataProtocolo>
+      <Declaracao id="10201" />
+      <RestricaoOperacao id="3474" />
+      <RestricaoOperacao id="3475" />
+      <RestricaoOperacao id="3476" />
+      <RestricaoOperacao id="3477" />
+    </Licenciamento>
+    <Licenciamento id="3669296">
+      <Solicitacao id="859961">859961201778</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>859961201778</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>20.270-3/2014</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-22T00:00:00</DataProtocolo>
+      <RestricaoOperacao id="1058" />
+      <RestricaoOperacao id="1061" />
+    </Licenciamento>
+    <Licenciamento id="3669297">
+      <Solicitacao id="859961">859961201778</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495472568861</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-22T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="369631">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>21376671000121</CNPJ>
+    <NomeEmpresarial>LEANDRO APARECIDO DAS NEVES 32729277862</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-11-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-11-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35813053331</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>32729277862</CPFResponsavel>
+    <NomeResponsavel>LEANDRO APARECIDO DAS NEVES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033022</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>04600</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FRANCISCO FERRARI</Logradouro>
+      <NumeroLogradouro>300</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14890205</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+      <CNAE codigo="5620104" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3548376">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-18T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3548373">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000241399</Numero>
+      <DataEmissao>2017-05-16T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-16T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>833632201756</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>25</AreaEstabelecimento>
+        <NomeProprietario>LEANDRO APARECIDO DAS NEVES 32729277862</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>LEANDRO APARECIDO DAS NEVES 32729277862</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>357</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024139</NumeroAVCB>
+        <ValidadeAVCB>2017-05-16</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3548371">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833632201756</Numero>
+      <DataEmissao>2017-04-18T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-18T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3548372">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833632201756</Numero>
+      <DataEmissao>2017-04-18T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-18T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3548374">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>833632201756</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>11.919-9/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-14T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+    <Licenciamento id="3548375">
+      <Solicitacao id="833632">833632201756</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1492514394181</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-18T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="388780">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12773676000105</CNPJ>
+    <NomeEmpresarial>J.M.N. AUTOCENTER JABOTICABAL LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-10-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-10-13</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35224676295</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19110151842</CPFResponsavel>
+    <NomeResponsavel>RODRIGO JOSE MARTINELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021178</Telefone1>
+    <Email>TROCAKI@GLOBO.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14158</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Monteiro Lobato</Logradouro>
+      <NumeroLogradouro>977</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870850</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <CNAE codigo="4520007" principal="0" exercida="1" />
+      <CNAE codigo="4530705" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RODRIGO JOSE MARTINELLI</Nome>
+        <Numero>00019110151842</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DATHIANE MARIANO DA SILVA MARTINELLI</Nome>
+        <Numero>00022385099845</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3791365">
+      <Solicitacao id="886836">886836201782</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3791362">
+      <Solicitacao id="886836">886836201782</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000240748</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-12T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>886836201782</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>224</AreaEstabelecimento>
+        <NomeProprietario>RODRIGO JOSE MARTINELLI</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>RODRIGO JOSE MARTINELLI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>318</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024074</NumeroAVCB>
+        <ValidadeAVCB>2017-05-12</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3791360">
+      <Solicitacao id="886836">886836201782</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886836201782</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3791363">
+      <Solicitacao id="886836">886836201782</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>886836201782</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3791364">
+      <Solicitacao id="886836">886836201782</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497960526813</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="388852">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27978561000116</CNPJ>
+    <NomeEmpresarial>ANDRE LUIS GUSTAVO 16707764845</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-06-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-06-16</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823924857</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16707764845</CPFResponsavel>
+    <NomeResponsavel>ANDRE LUIS GUSTAVO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97866429</Telefone1>
+    <Email>andrelgustavo@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>23635</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>MOMOE OTA</Logradouro>
+      <NumeroLogradouro>170</NumeroLogradouro>
+      <Bairro>RESIDENCIAL JABOTICABAL</Bairro>
+      <CEP>14876219</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5612100" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3792262">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-06-20T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3792259">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>38313</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-20T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>50889</AreaEstabelecimento>
+        <NomeProprietario>condominio civil center shopping sao bernardo</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>condominio civil center shopping sao bernardo</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>56064</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000024884</NumeroAVCB>
+        <ValidadeAVCB>2016-07-12</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3792257">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>887029201795</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3792258">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>887029201795</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2022-06-20T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3792260">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>887029201795</Numero>
+      <DataEmissao>2017-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3792261">
+      <Solicitacao id="887029">887029201795</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497964483984</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

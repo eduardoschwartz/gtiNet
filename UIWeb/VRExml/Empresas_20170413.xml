@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="295547">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14469705000167</CNPJ>
+    <NomeEmpresarial>ORISVALDO DIAOS DA SILVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-03</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35127542107</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19508015861</CPFResponsavel>
+    <NomeResponsavel>ORISVALDO DIAOS DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32511181</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32516847</Telefone2>
+    <Email>NFE.MAC@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11380</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>Vereador Gumercindo Raimundo</Logradouro>
+      <NumeroLogradouro>55</NumeroLogradouro>
+      <Complemento>SALA 02</Complemento>
+      <Bairro>Jardim Nova Aparecida</Bairro>
+      <CEP>14883386</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <CNAE codigo="8230002" principal="0" exercida="1" />
+      <CNAE codigo="8230001" principal="0" exercida="1" />
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+      <CNAE codigo="5611201" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>087330</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07431899815</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3492079">
+      <Solicitacao id="817365">817365201729</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-30T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3492078">
+      <Solicitacao id="817365">817365201729</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>286269</Numero>
+      <DataEmissao>2017-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>817365201729</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-13T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>113</AreaEstabelecimento>
+        <NomeProprietario>JOAO VITORIO RODRIGUES</NomeProprietario>
+        <EmailProprietario>MICHELE.ADM@ANDIA.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1933838989</TelefoneProprietario>
+        <NomeResponsavelUso>GEOTECNO IND. E COM. DE SISTEMAS E PROCESSOS AUTOMAZIDOS LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1933838989</TelefoneResponsavelUso>
+        <AreaTotal>360</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>8427</NumeroAVCB>
+        <ValidadeAVCB>2016-08-29</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2764588">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2764589">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2016-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-27T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2764591">
+      <Solicitacao id="634558">634558201659</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>634558201659</Numero>
+      <DataEmissao>2017-01-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-10T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>14289-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-08-16T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="307294">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>08807173000128</CNPJ>
+    <NomeEmpresarial>EHF DE MATOS PROPAGANDA E MARKETING  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2007-04-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2007-04-25</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35122388835</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14100745877</CPFResponsavel>
+    <NomeResponsavel>ESTEPHAN HANI FERREIRA DE MATOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32511181</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32516847</Telefone2>
+    <Email>NFE.MAC@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11380</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>Vereador Gumercindo Raimundo</Logradouro>
+      <NumeroLogradouro>55</NumeroLogradouro>
+      <Complemento>SALA 01</Complemento>
+      <Bairro>Jardim Nova Aparecida</Bairro>
+      <CEP>14883386</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7311400" principal="1" exercida="0" />
+      <CNAE codigo="8230001" principal="0" exercida="0" />
+      <CNAE codigo="8230002" principal="0" exercida="0" />
+      <CNAE codigo="7490105" principal="0" exercida="0" />
+      <CNAE codigo="7739003" principal="0" exercida="0" />
+      <CNAE codigo="7739099" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>087330</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07431899815</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3534298">
+      <Solicitacao id="827686">827686201795</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3534295">
+      <Solicitacao id="827686">827686201795</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>286269</Numero>
+      <DataEmissao>2017-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>827686201795</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-13T00:00:00</DataProtocolo>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>72</AreaEstabelecimento>
+        <NomeProprietario>CONDOMINIO EDIFICIO HELBOR TOWER</NomeProprietario>
+        <EmailProprietario>cadastro@escritorioregina.com.br</EmailProprietario>
+        <TelefoneProprietario>1147261880</TelefoneProprietario>
+        <NomeResponsavelUso>TIA FATIMA LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1147261626</TelefoneResponsavelUso>
+        <AreaTotal>16497</AreaTotal>
+        <Pavimentos>3</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>287741</NumeroAVCB>
+        <ValidadeAVCB>2020-03-08</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3534294">
+      <Solicitacao id="827686">827686201795</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827686201795</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-11T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3534297">
+      <Solicitacao id="827686">827686201795</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827686201795</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-11T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3534296">
+      <Solicitacao id="827686">827686201795</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827686201795</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-11T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="367689">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27473110000127</CNPJ>
+    <NomeEmpresarial>D2M3 - PRODUCOES ARTISTICAS LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-05</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2017-04-05</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35230207170</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>18447762807</CPFResponsavel>
+    <NomeResponsavel>MARCIA REGINA PRATES SINHORINI GHIDONI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32516847</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32511181</Telefone2>
+    <Email>CONTATO@ESCRITORIOMAC.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11380</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>VEREADOR GUMERCINDO RAIMUNDO</Logradouro>
+      <NumeroLogradouro>55</NumeroLogradouro>
+      <Complemento>SALA 04</Complemento>
+      <Bairro>JARDIM NOVA APARECIDA</Bairro>
+      <CEP>14883386</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7311400" principal="0" exercida="0" />
+      <CNAE codigo="7490104" principal="0" exercida="0" />
+      <CNAE codigo="7490105" principal="0" exercida="0" />
+      <CNAE codigo="7490199" principal="0" exercida="0" />
+      <CNAE codigo="7739003" principal="0" exercida="0" />
+      <CNAE codigo="7739099" principal="0" exercida="0" />
+      <CNAE codigo="8230001" principal="1" exercida="0" />
+      <CNAE codigo="9001999" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCIA REGINA PRATES SINHORINI GHIDONI</Nome>
+        <Numero>00018447762807</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DIEGO SINHORINI GHIDONI</Nome>
+        <Numero>00040615400841</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCEL SINHORINI GHIDONI</Nome>
+        <Numero>00040631384880</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>229561</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>17877002831</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3525670">
+      <Solicitacao id="825605">825605201714</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3525668">
+      <Solicitacao id="825605">825605201714</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>286269</Numero>
+      <DataEmissao>2017-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>8250605201714</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-13T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>4</AreaEstabelecimento>
+        <NomeProprietario>JOSE PERES DOS SANTOS</NomeProprietario>
+        <EmailProprietario>EMPREENDEDOR@SAOBENTODOSAPUCAI.SP.GOV.BR</EmailProprietario>
+        <TelefoneProprietario>1297528314</TelefoneProprietario>
+        <NomeResponsavelUso>CAMILA APARECIDA DOS SANTOS ROSA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1297528314</TelefoneResponsavelUso>
+        <AreaTotal>98</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3525666">
+      <Solicitacao id="825605">825605201714</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825605201714</Numero>
+      <DataEmissao>2017-04-07T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-07T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3525667">
+      <Solicitacao id="825605">825605201714</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825605201714</Numero>
+      <DataEmissao>2017-04-11T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-11T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3525669">
+      <Solicitacao id="825605">825605201714</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825605201714</Numero>
+      <DataEmissao>2017-04-07T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-07T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

@@ -1,0 +1,1516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="127096">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19925421000151</CNPJ>
+    <NomeEmpresarial>RENATO HIGINO RODRIGUES EIRELI</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-01-17</DataSituacaoCadastral>
+    <NaturezaJuridica>2313</NaturezaJuridica>
+    <DataAbertura>2014-01-17</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>3972</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>26701571816</CPFResponsavel>
+    <NomeResponsavel>RENATO HIGINO RODRIGUES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033538</Telefone1>
+    <Email>OCPOLACHINI@LIVE.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>30430</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>LUIZ VERRI</Logradouro>
+      <NumeroLogradouro>40</NumeroLogradouro>
+      <Bairro>CONDOMINIO PARQUE DOS GIRASSOIS</Bairro>
+      <CEP>14887291</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8219999" principal="1" exercida="0" />
+      <CNAE codigo="7119703" principal="0" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATO HIGINO RODRIGUES</Nome>
+        <Numero>00026701571816</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3396087">
+      <Solicitacao id="793277">793277201778</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2306163">
+      <Solicitacao id="519812">519812201589</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>519812201589</Numero>
+      <DataEmissao>2015-12-03T00:00:00</DataEmissao>
+      <DataVencimento>2018-12-03T00:00:00</DataVencimento>
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>50</AreaEstabelecimento>
+        <NomeProprietario>RENATO HIGINO RODRIGUES</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>RENATO HIGINO RODRIGUES</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>388</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3297797">
+      <Solicitacao id="768862">768862201771</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>768862201771</Numero>
+      <DataEmissao>2017-01-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2306162">
+      <Solicitacao id="519812">519812201589</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>519812201589</Numero>
+      <DataEmissao>2015-12-03T00:00:00</DataEmissao>
+      <DataVencimento>2020-12-03T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3396086">
+      <Solicitacao id="793277">793277201778</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>793277201778</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-23T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="237463">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12797105000100</CNPJ>
+    <NomeEmpresarial>INDUSTRIA E COMERCIO DE SUCOS PALAZZOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-10-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-10-14</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35224676333</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>01983591874</CPFResponsavel>
+    <NomeResponsavel>ARMANDO AIRTON PALAZZO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32094200</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32094235</Telefone2>
+    <Email>CONTABILIDADE1.JABOTI@GRUPOPALAZZO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>31577</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FRANCISCO FERRARI</Logradouro>
+      <NumeroLogradouro>1400</NumeroLogradouro>
+      <Bairro>JARDIM MORUMBI</Bairro>
+      <CEP>14890210</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="1031700" principal="0" exercida="0" />
+      <CNAE codigo="1033301" principal="0" exercida="0" />
+      <CNAE codigo="1099699" principal="0" exercida="0" />
+      <CNAE codigo="8292000" principal="0" exercida="0" />
+      <CNAE codigo="1033302" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="20" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ARMANDO AIRTON PALAZZO</Nome>
+        <Numero>00001983591874</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>WILSON CARLOS PALAZZO</Nome>
+        <Numero>00003113855837</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELIDA SUELI TONINI PALAZZO</Nome>
+        <Numero>00009887649899</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>236841</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13872107852</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3410435">
+      <Solicitacao id="796942">796942201735</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-02T00:00:00</DataStatus>
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3356741">
+      <Solicitacao id="783450">783450201729</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>185482</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>3354</AreaEstabelecimento>
+        <NomeProprietario>INDUSTRIA E COMERCIO DE SUCOS PALAZZOS LTDA</NomeProprietario>
+        <EmailProprietario>contabilidade2@refrigerantesjaboti.com.br</EmailProprietario>
+        <TelefoneProprietario>1632094200</TelefoneProprietario>
+        <NomeResponsavelUso>INDUSTRIA E COMERCIO DE SUCOS PALAZZOS LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632094200</TelefoneResponsavelUso>
+        <AreaTotal>46673</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>185482</NumeroAVCB>
+        <ValidadeAVCB>2020-05-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3356739">
+      <Solicitacao id="783450">783450201729</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783450201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+      <Pergunta id="5044" resposta="0" />
+      <Pergunta id="5045" resposta="0" />
+      <Pergunta id="5046" resposta="0" />
+      <Pergunta id="5047" resposta="0" />
+      <Declaracao id="7341" />
+      <Declaracao id="7342" />
+      <Declaracao id="7343" />
+      <Declaracao id="7344" />
+    </Licenciamento>
+    <Licenciamento id="3410433">
+      <Solicitacao id="796942">796942201735</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001430</Numero>
+      <DataEmissao>2014-05-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-26T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>52003789</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-02T00:00:00</DataProtocolo>
+      <Pergunta id="6123" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10208" />
+      <RestricaoOperacao id="3474" />
+      <RestricaoOperacao id="3476" />
+      <RestricaoOperacao id="3477" />
+      <RestricaoOperacao id="3479" />
+    </Licenciamento>
+    <Licenciamento id="3410434">
+      <Solicitacao id="796942">796942201735</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>796942201735</Numero>
+      <DataEmissao>2017-03-03T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-03T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>4.264-1/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-03T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1063" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="259252">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>11336057000182</CNPJ>
+    <NomeEmpresarial>GUSTAVO PAVANELLI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2009-10-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2009-10-09</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35125399455</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14947782897</CPFResponsavel>
+    <NomeResponsavel>GUSTAVO PAVANELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020787</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32036983</Telefone2>
+    <Email>sidinei_amaral@uol.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>37368</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Manoel Martins Fontes</Logradouro>
+      <NumeroLogradouro>950</NumeroLogradouro>
+      <Bairro>Colina Verde</Bairro>
+      <CEP>14887392</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789099" principal="1" exercida="1" />
+      <CNAE codigo="2014200" principal="0" exercida="1" />
+      <CNAE codigo="4644301" principal="0" exercida="1" />
+      <CNAE codigo="4645101" principal="0" exercida="1" />
+      <CNAE codigo="4773300" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+      <Auxiliar id="15" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>039925</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>01218727853</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2406280">
+      <Solicitacao id="544682">544682201626</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2406278">
+      <Solicitacao id="544682">544682201626</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>544682201626</Numero>
+      <DataEmissao>2016-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-13T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Imovel>
+        <AreaEstabelecimento>519</AreaEstabelecimento>
+        <NomeProprietario>GUSTAVO PAVANELLI - ME</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632020787</TelefoneProprietario>
+        <NomeResponsavelUso>GUSTAVO PAVANELLI - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020787</TelefoneResponsavelUso>
+        <AreaTotal>519</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <ValidadeAVCB>2019-01-13</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2406276">
+      <Solicitacao id="544682">544682201626</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>544682201626</Numero>
+      <DataEmissao>2016-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-11T00:00:00</DataVencimento>
+      <Pergunta id="4880" resposta="0" />
+      <Pergunta id="4881" resposta="0" />
+      <Pergunta id="4882" resposta="0" />
+      <Pergunta id="4883" resposta="0" />
+      <Pergunta id="4884" resposta="0" />
+      <Pergunta id="4974" resposta="0" />
+      <Pergunta id="4975" resposta="0" />
+      <Pergunta id="4976" resposta="0" />
+      <Pergunta id="4977" resposta="0" />
+      <Pergunta id="4978" resposta="0" />
+      <Pergunta id="4979" resposta="0" />
+      <Pergunta id="4980" resposta="0" />
+      <Pergunta id="4981" resposta="0" />
+      <Pergunta id="4982" resposta="0" />
+      <Pergunta id="4983" resposta="0" />
+      <Pergunta id="4984" resposta="0" />
+      <Pergunta id="4985" resposta="0" />
+      <Pergunta id="5044" resposta="0" />
+      <Pergunta id="5045" resposta="0" />
+      <Pergunta id="5046" resposta="0" />
+      <Pergunta id="5047" resposta="0" />
+      <Pergunta id="5057" resposta="0" />
+      <Declaracao id="7177" />
+      <Declaracao id="7178" />
+      <Declaracao id="7179" />
+      <Declaracao id="7180" />
+      <Declaracao id="7181" />
+      <Declaracao id="7271" />
+      <Declaracao id="7272" />
+      <Declaracao id="7273" />
+      <Declaracao id="7274" />
+      <Declaracao id="7275" />
+      <Declaracao id="7276" />
+      <Declaracao id="7277" />
+      <Declaracao id="7278" />
+      <Declaracao id="7279" />
+      <Declaracao id="7280" />
+      <Declaracao id="7281" />
+      <Declaracao id="7282" />
+      <Declaracao id="7341" />
+      <Declaracao id="7342" />
+      <Declaracao id="7343" />
+      <Declaracao id="7344" />
+      <Declaracao id="7354" />
+    </Licenciamento>
+    <Licenciamento id="2406277">
+      <Solicitacao id="544682">544682201626</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52000245</Numero>
+      <DataEmissao>2016-01-29T00:00:00</DataEmissao>
+      <DataVencimento>2026-01-29T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>91167181</ProtocoloAtendimento>
+      <DataProtocolo>2016-03-14T00:00:00</DataProtocolo>
+      <Pergunta id="4230" resposta="0" />
+      <Pergunta id="4234" resposta="0" />
+      <Declaracao id="6288" />
+      <Declaracao id="6291" />
+      <Declaracao id="6295" />
+    </Licenciamento>
+    <Licenciamento id="2406279">
+      <Solicitacao id="544682">544682201626</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>116675</Numero>
+      <DataEmissao>2016-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-22T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>5.257-4/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-03-16T00:00:00</DataProtocolo>
+      <Pergunta id="4283" resposta="0" />
+      <Declaracao id="6358" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="264368">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15012111000195</CNPJ>
+    <NomeEmpresarial>ITEVALDO ANESIO DE SOUZA 11780387857</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-02-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-02-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35216989930</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11780387857</CPFResponsavel>
+    <NomeResponsavel>ITEVALDO ANESIO DE SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027490</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14940</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>1350</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5620102" principal="0" exercida="1" />
+      <CNAE codigo="7723300" principal="1" exercida="1" />
+      <CNAE codigo="7729202" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2458690">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3470504">
+      <Solicitacao id="812073">812073201772</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>24552</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>54</AreaEstabelecimento>
+        <NomeProprietario>MARIA APARECIDA MATAQUEIRO</NomeProprietario>
+        <EmailProprietario>fiscal@callcontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1632032015</TelefoneProprietario>
+        <NomeResponsavelUso>ITEVALDO ANESIO DE SOUZA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033541</TelefoneResponsavelUso>
+        <AreaTotal>54</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>24552</NumeroAVCB>
+        <ValidadeAVCB>2018-03-17</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3470502">
+      <Solicitacao id="812073">812073201772</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>812073201772</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3470503">
+      <Solicitacao id="812073">812073201772</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>812073201772</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3470505">
+      <Solicitacao id="812073">812073201772</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>812073201772</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="270024">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>03050348000262</CNPJ>
+    <NomeEmpresarial>ELYSEE PERFUMARIA LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2007-12-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2007-12-11</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35903252707</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17861597830</CPFResponsavel>
+    <NomeResponsavel>FLAVIA BORGES DE OLIVEIRA MONTANS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>36357997</Telefone1>
+    <Email>clientes@seixasassessoria.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01045</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>905</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4772500" principal="1" exercida="1" />
+      <CNAE codigo="8299799" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FLAVIA BORGES DE OLIVEIRA MONTANS</Nome>
+        <Numero>00017861597830</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>IMARA LUCIA GARRIDO BORGES DE OLIVEIRA</Nome>
+        <Numero>00015975579864</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FABIANA BORGES DE OLIVEIRA</Nome>
+        <Numero>00015068871800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>072070</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>98032461868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2516256">
+      <Solicitacao id="572488">572488201698</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-21T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2516254">
+      <Solicitacao id="572488">572488201698</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>105972</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-13T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>48</AreaEstabelecimento>
+        <NomeProprietario>DANEIL LUIS BEDIM</NomeProprietario>
+        <EmailProprietario>clientes@seixascontabilrp.com.br</EmailProprietario>
+        <TelefoneProprietario>1636357997</TelefoneProprietario>
+        <NomeResponsavelUso>LUIZ CARLOS BEDIN</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1636357997</TelefoneResponsavelUso>
+        <AreaTotal>796</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>105972</NumeroAVCB>
+        <ValidadeAVCB>2019-01-13</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2516252">
+      <Solicitacao id="572488">572488201698</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572488201698</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+      <Pergunta id="5034" resposta="0" />
+      <Pergunta id="5035" resposta="0" />
+      <Pergunta id="5036" resposta="0" />
+      <Pergunta id="5037" resposta="0" />
+      <Pergunta id="5038" resposta="0" />
+      <Declaracao id="7331" />
+      <Declaracao id="7332" />
+      <Declaracao id="7333" />
+      <Declaracao id="7334" />
+      <Declaracao id="7335" />
+    </Licenciamento>
+    <Licenciamento id="2516253">
+      <Solicitacao id="572488">572488201698</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572488201698</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2516255">
+      <Solicitacao id="572488">572488201698</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>115762</Numero>
+      <DataEmissao>2016-06-23T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-23T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>6.310-0/2.016</ProtocoloAtendimento>
+      <DataProtocolo>2016-04-08T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="270036">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24000040000100</CNPJ>
+    <NomeEmpresarial>ANDRE LUIZ MICHELETTO 21392923832</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-01-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-01-19</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35817608418</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21392923832</CPFResponsavel>
+    <NomeResponsavel>ANDRE LUIZ MICHELETTO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32042858</Telefone1>
+    <Email>MICHELETTOSOM@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26404</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SEBASTIAO PEDRINHO</Logradouro>
+      <NumeroLogradouro>151</NumeroLogradouro>
+      <Bairro>JARDIM BOTHANICO</Bairro>
+      <CEP>14875042</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520007" principal="0" exercida="1" />
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2516383">
+      <Solicitacao id="572521">572521201671</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-21T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2516381">
+      <Solicitacao id="572521">572521201671</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572521201671</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>90</AreaEstabelecimento>
+        <NomeProprietario>ANDRE LUIZ MICHELETTO</NomeProprietario>
+        <EmailProprietario>MICHELETTOSON@GMAIL.COM</EmailProprietario>
+        <TelefoneProprietario>1632042858</TelefoneProprietario>
+        <NomeResponsavelUso>ANDRE LUIZ MICHELLETO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632042858</TelefoneResponsavelUso>
+        <AreaTotal>300</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2516379">
+      <Solicitacao id="572521">572521201671</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572521201671</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2516380">
+      <Solicitacao id="572521">572521201671</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572521201671</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2516382">
+      <Solicitacao id="572521">572521201671</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572521201671</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="270142">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24428257000107</CNPJ>
+    <NomeEmpresarial>EVARISTO SEBASTIAO APARECIDO DA SILVA 10018555829</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-21</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-03-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35818408722</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>10018555829</CPFResponsavel>
+    <NomeResponsavel>EVARISTO SEBASTIAO APARECIDO DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97827902</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17827</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>ATILIO ARTONI</Logradouro>
+      <NumeroLogradouro>191</NumeroLogradouro>
+      <Bairro>PARQUE DO TREVO</Bairro>
+      <CEP>14871740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4399103" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2517497">
+      <Solicitacao id="572820">572820201638</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2517495">
+      <Solicitacao id="572820">572820201638</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572820201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>16</AreaEstabelecimento>
+        <NomeProprietario>EVARISTO SEBASTIAO APARECIDO DA SILVA</NomeProprietario>
+        <EmailProprietario>helija@helija.com.br</EmailProprietario>
+        <TelefoneProprietario>1697827902</TelefoneProprietario>
+        <NomeResponsavelUso>EVARISTO SEBASTIAO APARECIDO DA SILVA 10018555829</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697827902</TelefoneResponsavelUso>
+        <AreaTotal>265</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2517493">
+      <Solicitacao id="572820">572820201638</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572820201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2517494">
+      <Solicitacao id="572820">572820201638</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572820201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2517496">
+      <Solicitacao id="572820">572820201638</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572820201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="270170">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05730894000199</CNPJ>
+    <NomeEmpresarial>C.A.SILVA - SUCATA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2003-06-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35119167181</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21554458811</CPFResponsavel>
+    <NomeResponsavel>CLAUDIA APARECIDA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>96095409</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>97797506</Telefone2>
+    <Email>WWW.LATABRAS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21986</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Manoel Martins Fontes</Logradouro>
+      <NumeroLogradouro>690</NumeroLogradouro>
+      <Bairro>Colina Verde</Bairro>
+      <CEP>14887392</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4687703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="50" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2517784">
+      <Solicitacao id="572889">572889201685</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2517782">
+      <Solicitacao id="572889">572889201685</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572889201685</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>364</AreaEstabelecimento>
+        <NomeProprietario>HENRIQUE GUILHERME COSTA FRACASSO</NomeProprietario>
+        <EmailProprietario>rhmeme@bol.com.br</EmailProprietario>
+        <TelefoneProprietario>1699769125</TelefoneProprietario>
+        <NomeResponsavelUso>C. A. SILVA SUCATA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1699609540</TelefoneResponsavelUso>
+        <AreaTotal>364</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2517780">
+      <Solicitacao id="572889">572889201685</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572889201685</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+      <Declaracao id="7361" />
+      <Declaracao id="7362" />
+    </Licenciamento>
+    <Licenciamento id="2517781">
+      <Solicitacao id="572889">572889201685</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572889201685</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2517783">
+      <Solicitacao id="572889">572889201685</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572889201685</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="270256">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24428346000153</CNPJ>
+    <NomeEmpresarial>COMUNIDADE PENTECOSTAL MANASSES EFRAIM</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-08</DataSituacaoCadastral>
+    <NaturezaJuridica>3220</NaturezaJuridica>
+    <DataAbertura>2016-03-08</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>004613</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>37529274880</CPFResponsavel>
+    <NomeResponsavel>JOSE ALEX SANTANA DE OLIVEIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027206</Telefone1>
+    <Email>OSWALDOCPSILVA@TERRA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>22588</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>ANTONIO CAETANO CASALETTI</Logradouro>
+      <NumeroLogradouro>530</NumeroLogradouro>
+      <Bairro>LOTEAMENTO SANTO ANTONIO</Bairro>
+      <CEP>14875659</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9491000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ALEX SANTANA DE OLIVEIRA</Nome>
+        <Numero>00037529274880</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>233267</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07495621885</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2518702">
+      <Solicitacao id="573141">573141201638</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2518700">
+      <Solicitacao id="573141">573141201638</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>573141201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5455" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8275" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>130</AreaEstabelecimento>
+        <NomeProprietario>MARGARETH APARECIDA PRETI</NomeProprietario>
+        <EmailProprietario>oswaldocpsilva@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632027206</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE ALEX SANTANA DE OLIVEIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632027206</TelefoneResponsavelUso>
+        <AreaTotal>224</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2518698">
+      <Solicitacao id="573141">573141201638</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>573141201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2518699">
+      <Solicitacao id="573141">573141201638</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>573141201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2518701">
+      <Solicitacao id="573141">573141201638</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>573141201638</Numero>
+      <DataEmissao>2016-03-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-21T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="362535">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>66984451000119</CNPJ>
+    <NomeEmpresarial>CONTROL - M INFORMATICA LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-08-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1991-10-07</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35210359454</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09889091895</CPFResponsavel>
+    <NomeResponsavel>MARCOS ROBERTO GARCIA ORTIZ</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32032015</Telefone1>
+    <Email>call@callcontabil.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00091</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JUCA QUITO</Logradouro>
+      <NumeroLogradouro>336</NumeroLogradouro>
+      <Complemento>SALA 01</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870260</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6201501" principal="1" exercida="1" />
+      <CNAE codigo="6202300" principal="0" exercida="1" />
+      <CNAE codigo="6204000" principal="0" exercida="1" />
+      <CNAE codigo="6209100" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCOS ROBERTO GARCIA ORTIZ</Nome>
+        <Numero>00009889091895</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCUS VINICIUS PULEGHINI ORTIZ</Nome>
+        <Numero>00034514468800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3468364">
+      <Solicitacao id="811518">811518201728</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3468362">
+      <Solicitacao id="811518">811518201728</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>287300</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-12T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>811518201728</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-22T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>RICARDO AUGUSTO ALEXANDRINO DA SILVA</NomeProprietario>
+        <EmailProprietario>mcb1306@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1155852040</TelefoneProprietario>
+        <NomeResponsavelUso>RICARDO AUGUSTO ALEXANDRINO DA SILVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1155852040</TelefoneResponsavelUso>
+        <AreaTotal>105</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3468360">
+      <Solicitacao id="811518">811518201728</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811518201728</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3468361">
+      <Solicitacao id="811518">811518201728</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811518201728</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3468363">
+      <Solicitacao id="811518">811518201728</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811518201728</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="362599">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>25312973000197</CNPJ>
+    <NomeEmpresarial>AGENCIA MISSIONARIA DE PLANTACAO DE IGREJAS E EVANGELISMO - AMPLIE</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-09-23</DataSituacaoCadastral>
+    <NaturezaJuridica>3220</NaturezaJuridica>
+    <DataAbertura>2015-09-23</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>4499</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>25601892830</CPFResponsavel>
+    <NomeResponsavel>EVERTON MATHEUS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97747275</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>33831919</Telefone2>
+    <Email>AMPLIEPARQ@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>09540</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SEBASTIAO TEIXEIRA BRAGA</Logradouro>
+      <NumeroLogradouro>120</NumeroLogradouro>
+      <Bairro>RECANTO DO BARREIRO</Bairro>
+      <CEP>14882170</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9491000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>EVERTON MATHEUS</Nome>
+        <Numero>00025601892830</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>160520</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13881490876</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3468964">
+      <Solicitacao id="811670">811670201714</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3468962">
+      <Solicitacao id="811670">811670201714</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811670201714</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-22T00:00:00</DataVencimento>
+      <Pergunta id="5455" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8275" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>268</AreaEstabelecimento>
+        <NomeProprietario>SERGIO LUIZ FERREIRA MANDUCA</NomeProprietario>
+        <EmailProprietario>julio@pecorare.com.br</EmailProprietario>
+        <TelefoneProprietario>1633831919</TelefoneProprietario>
+        <NomeResponsavelUso>AGENCIA MISSIONARIA DE PLANTACAO DE IGREJAS E EVANGELISMO - AMPL</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1633831919</TelefoneResponsavelUso>
+        <AreaTotal>300</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3468960">
+      <Solicitacao id="811670">811670201714</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811670201714</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3468961">
+      <Solicitacao id="811670">811670201714</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811670201714</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3468963">
+      <Solicitacao id="811670">811670201714</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>811670201714</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

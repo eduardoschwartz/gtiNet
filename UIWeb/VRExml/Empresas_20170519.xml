@@ -1,0 +1,268 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="215471">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>04043043000105</CNPJ>
+    <NomeEmpresarial>G F DA SILVA COMERCIO E PRESTACAO DE SERVICOS DE LIMPEZA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2000-09-08</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35117459975</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>13861907801</CPFResponsavel>
+    <NomeResponsavel>GILMAR FERREIRA DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>10244</SetorQuadraLote>
+      <TipoLogradouro>Alameda</TipoLogradouro>
+      <Logradouro>Sílvio Borsari</Logradouro>
+      <NumeroLogradouro>200</NumeroLogradouro>
+      <Bairro>Vale do Sol</Bairro>
+      <CEP>14876155</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789005" principal="0" exercida="1" />
+      <CNAE codigo="8130300" principal="0" exercida="1" />
+      <CNAE codigo="3811400" principal="0" exercida="1" />
+      <CNAE codigo="9700500" principal="0" exercida="1" />
+      <CNAE codigo="8121400" principal="0" exercida="1" />
+      <CNAE codigo="8111700" principal="0" exercida="1" />
+      <CNAE codigo="3702900" principal="0" exercida="1" />
+      <CNAE codigo="4399103" principal="0" exercida="1" />
+      <CNAE codigo="4520005" principal="0" exercida="1" />
+      <CNAE codigo="5240199" principal="0" exercida="1" />
+      <CNAE codigo="8122200" principal="0" exercida="1" />
+      <CNAE codigo="8211300" principal="0" exercida="1" />
+      <CNAE codigo="9601701" principal="0" exercida="1" />
+      <CNAE codigo="8129000" principal="0" exercida="1" />
+      <CNAE codigo="3812200" principal="0" exercida="1" />
+      <CNAE codigo="4921301" principal="1" exercida="1" />
+      <CNAE codigo="7820500" principal="0" exercida="1" />
+      <CNAE codigo="7810800" principal="0" exercida="1" />
+      <CNAE codigo="8622400" principal="0" exercida="1" />
+      <CNAE codigo="8112500" principal="0" exercida="1" />
+      <CNAE codigo="4330404" principal="0" exercida="1" />
+      <CNAE codigo="4211102" principal="0" exercida="1" />
+      <CNAE codigo="4213800" principal="0" exercida="1" />
+      <CNAE codigo="0161099" principal="0" exercida="1" />
+      <CNAE codigo="4329104" principal="0" exercida="1" />
+      <CNAE codigo="7731400" principal="0" exercida="1" />
+      <CNAE codigo="9603301" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3665005">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3665002">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>14409</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-19T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>GILMAR FERREIRA DA SILVA</NomeProprietario>
+        <EmailProprietario>disklimpeza10@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632025323</TelefoneProprietario>
+        <NomeResponsavelUso>GILMAR FERREIRA DA SILVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025323</TelefoneResponsavelUso>
+        <AreaTotal>285</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3665000">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858353201784</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+      <Pergunta id="5050" resposta="0" />
+      <Pergunta id="5052" resposta="0" />
+      <Pergunta id="5053" resposta="0" />
+      <Pergunta id="5065" resposta="0" />
+      <Pergunta id="5074" resposta="0" />
+      <Pergunta id="5229" resposta="0" />
+    </Licenciamento>
+    <Licenciamento id="3665001">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858353201784</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-19T00:00:00</DataVencimento>
+      <Pergunta id="6124" resposta="0" />
+      <Pergunta id="6130" resposta="0" />
+      <Pergunta id="6142" resposta="0" />
+      <Pergunta id="6154" resposta="0" />
+      <Pergunta id="6155" resposta="0" />
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3665003">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858353201784</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3665004">
+      <Solicitacao id="858353">858353201784</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495203369889</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-19T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="237203">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>11989950000107</CNPJ>
+    <NomeEmpresarial>MAGLIONI TRATAMENTO E MANUTENCAO DE JARDINS LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-05-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-05-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229378136</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14444077832</CPFResponsavel>
+    <NomeResponsavel>ANDRE LUIS IUGHETTI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022419</Telefone1>
+    <Email>iughettijunior@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01810</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>VINTE E QUATRO DE MAIO</Logradouro>
+      <NumeroLogradouro>1481</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870790</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8122200" principal="0" exercida="1" />
+      <CNAE codigo="8130300" principal="1" exercida="1" />
+      <CNAE codigo="3811400" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANDRE LUIS IUGHETTI</Nome>
+        <Numero>00014444077832</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3664682">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3664679">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>14308</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-19T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>10</AreaEstabelecimento>
+        <NomeProprietario>PEDRO ALESSANDRO IUGHETTI E OUTROS</NomeProprietario>
+        <EmailProprietario>iughettijunior@bol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632022419</TelefoneProprietario>
+        <NomeResponsavelUso>MAGLIONI TRATAMENTO E MANUTENCAO DE JARDINS LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022419</TelefoneResponsavelUso>
+        <AreaTotal>180</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3664677">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858889201712</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3664678">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858889201712</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-19T00:00:00</DataVencimento>
+      <Pergunta id="6142" resposta="0" />
+      <Pergunta id="6155" resposta="0" />
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3664680">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858889201712</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3664681">
+      <Solicitacao id="858889">858889201712</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495219364375</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-19T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

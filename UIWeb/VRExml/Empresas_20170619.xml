@@ -1,0 +1,432 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="150193">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>04449030058562</CNPJ>
+    <NomeEmpresarial>ADOBE ASSESSORIA DE SERVICOS CADASTRAIS S.A.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-06-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2054</NaturezaJuridica>
+    <DataAbertura>2014-06-03</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35904770671</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>84494492787</CPFResponsavel>
+    <NomeResponsavel>LEILA MEJDALANI PEREIRA</NomeResponsavel>
+    <DDD1>11</DDD1>
+    <Telefone1>38976271</Telefone1>
+    <Email>JURIDICO.SOCIETARIO@ADOBENET.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00994</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>NOVE DE JULHO</Logradouro>
+      <NumeroLogradouro>61</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870325</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6209100" principal="0" exercida="0" />
+      <CNAE codigo="7020400" principal="0" exercida="0" />
+      <CNAE codigo="7319002" principal="0" exercida="1" />
+      <CNAE codigo="7490104" principal="0" exercida="1" />
+      <CNAE codigo="8211300" principal="0" exercida="1" />
+      <CNAE codigo="8220200" principal="0" exercida="0" />
+      <CNAE codigo="8291100" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ROBERTO LAMACCHIA</Nome>
+        <Numero>00006971059891</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LEILA MEJDALANI PEREIRA</Nome>
+        <Numero>00084494492787</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>214138</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>11250177839</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3787177">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-06-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3787175">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000196787</Numero>
+      <DataEmissao>2016-11-18T00:00:00</DataEmissao>
+      <DataVencimento>2021-11-18T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>885901201719</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>14</AreaEstabelecimento>
+        <NomeProprietario>Jan Baaklini</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ADOBE Assessoria de Servicos Cadastrais Ltda</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>22</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000019678</NumeroAVCB>
+        <ValidadeAVCB>2016-11-18</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3787173">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>885901201719</Numero>
+      <DataEmissao>2017-06-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3787174">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>885901201719</Numero>
+      <DataEmissao>2017-06-19T00:00:00</DataEmissao>
+      <DataVencimento>2022-06-19T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3787176">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>885901201719</Numero>
+      <DataEmissao>2017-06-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3787172">
+      <Solicitacao id="885901">885901201719</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497884866219</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-19T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="189335">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>21919771000157</CNPJ>
+    <NomeEmpresarial>LAVANDERIA GERACAO 5 LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-02-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-02-24</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228972549</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16707981862</CPFResponsavel>
+    <NomeResponsavel>ADRIANA DE SOUZA RAMOS MACRI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16513</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Carlos Berchieri</Logradouro>
+      <NumeroLogradouro>2.021</NumeroLogradouro>
+      <Bairro>Cidade Jardim</Bairro>
+      <CEP>14890400</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9601701" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ADRIANA DE SOUZA RAMOS MACRI</Nome>
+        <Numero>00016707981862</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JEYNER BATISTA MACRI</Nome>
+        <Numero>00025702561880</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>193956</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>09888182803</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3758044">
+      <Solicitacao id="879481">879481201728</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-06-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2791825">
+      <Solicitacao id="641387">641387201602</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>641387201602</Numero>
+      <DataEmissao>2016-07-06T00:00:00</DataEmissao>
+      <DataVencimento>2019-07-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>135</AreaEstabelecimento>
+        <NomeProprietario>LAVANDERIA GERACAO 5 LTDA - ME</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>LAVANDERIA GERACAO 5 LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>135</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000019055</NumeroAVCB>
+        <ValidadeAVCB>2016-10-24</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3758042">
+      <Solicitacao id="879481">879481201728</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>879481201728</Numero>
+      <DataEmissao>2017-06-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-09T00:00:00</DataVencimento>
+      <Pergunta id="5065" resposta="0" />
+      <Declaracao id="7364" />
+    </Licenciamento>
+    <Licenciamento id="2791824">
+      <Solicitacao id="641387">641387201602</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>641387201602</Numero>
+      <DataEmissao>2016-07-06T00:00:00</DataEmissao>
+      <DataVencimento>2021-07-06T00:00:00</DataVencimento>
+      <Pergunta id="5798" resposta="0" />
+      <Declaracao id="9632" />
+      <Declaracao id="9640" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3758043">
+      <Solicitacao id="879481">879481201728</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>879481201728</Numero>
+      <DataEmissao>2017-06-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-19T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>11.900-8/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-14T00:00:00</DataProtocolo>
+    </Licenciamento>
+    <Licenciamento id="3758041">
+      <Solicitacao id="879481">879481201728</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497011623664</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-09T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="297085">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>45373453000363</CNPJ>
+    <NomeEmpresarial>OBERST &amp;amp; OBERST LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1992-10-06</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>1652</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>70528748815</CPFResponsavel>
+    <NomeResponsavel>CARLOS ALBERTO SIMOES OBERST</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01383</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>24 DE MAIO</Logradouro>
+      <NumeroLogradouro>1292</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14875455</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4761001" principal="0" exercida="1" />
+      <CNAE codigo="8593700" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CARLOS ALBERTO SIMOES OBERST</Nome>
+        <Numero>00070528748815</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARISA HELENA FORTES GIOVANNETTI OBERST</Nome>
+        <Numero>00074385100853</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2780052">
+      <Solicitacao id="638457">638457201660</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-07-04T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2780050">
+      <Solicitacao id="638457">638457201660</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>69310</Numero>
+      <DataEmissao>2016-07-01T00:00:00</DataEmissao>
+      <DataVencimento>2020-08-31T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>325</AreaEstabelecimento>
+        <NomeProprietario>JOSE DE LAURENTIZ NETO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>OBERST&amp;OBERST LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>325</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000006931</NumeroAVCB>
+        <ValidadeAVCB>2015-08-31</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2780048">
+      <Solicitacao id="638457">638457201660</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>638457201660</Numero>
+      <DataEmissao>2016-07-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-01T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2780049">
+      <Solicitacao id="638457">638457201660</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>638457201660</Numero>
+      <DataEmissao>2016-07-01T00:00:00</DataEmissao>
+      <DataVencimento>2021-07-01T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2780051">
+      <Solicitacao id="638457">638457201660</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>638457201660</Numero>
+      <DataEmissao>2016-07-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-01T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3789387">
+      <Solicitacao id="886391">886391201748</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1497898586558</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-19T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

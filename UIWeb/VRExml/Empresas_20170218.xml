@@ -1,0 +1,537 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="121987">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19667340000107</CNPJ>
+    <NomeEmpresarial>LINC EMPREENDIMENTOS E PARTICIPACOES LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-02-06</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228115093</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14954984840</CPFResponsavel>
+    <NomeResponsavel>CLODOALDO APARECIDO LOURENCO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32028138</Telefone1>
+    <Email>clodoaldo@regionalimoveis.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00000</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>BENJAMIN CONSTANT</Logradouro>
+      <NumeroLogradouro>474</NumeroLogradouro>
+      <Complemento>PISO SUPERIOR       SALA  B</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870140</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="2539002" principal="0" exercida="0" />
+      <CNAE codigo="4110700" principal="1" exercida="0" />
+      <CNAE codigo="4120400" principal="0" exercida="0" />
+      <CNAE codigo="4213800" principal="0" exercida="0" />
+      <CNAE codigo="4399101" principal="0" exercida="0" />
+      <CNAE codigo="6462000" principal="0" exercida="0" />
+      <CNAE codigo="8130300" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CLODOALDO APARECIDO LOURENCO</Nome>
+        <Numero>00014954984840</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LAURA INGRID VIEIRA LOURENCO</Nome>
+        <Numero>00045988771890</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1007845">
+      <Solicitacao id="220154">220154201481</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-02-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1007842">
+      <Solicitacao id="220154">220154201481</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>220154201481</Numero>
+      <DataEmissao>2014-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-17T00:00:00</DataVencimento>
+      <Pergunta id="3154" resposta="0" />
+      <Pergunta id="3155" resposta="0" />
+      <Pergunta id="3156" resposta="0" />
+      <Pergunta id="3158" resposta="0" />
+      <Pergunta id="3159" resposta="0" />
+      <Pergunta id="3160" resposta="0" />
+      <Declaracao id="4132" />
+      <Declaracao id="4133" />
+      <Declaracao id="4134" />
+      <Declaracao id="4136" />
+      <Declaracao id="4137" />
+      <Declaracao id="4138" />
+      <Declaracao id="4139" />
+      <Declaracao id="4140" />
+      <Declaracao id="4141" />
+      <Declaracao id="4142" />
+      <Imovel>
+        <AreaEstabelecimento>77</AreaEstabelecimento>
+        <NomeProprietario>CARLOS ALBERTO GAGLIARDI</NomeProprietario>
+        <EmailProprietario>cagagliardi@gmail.com.br</EmailProprietario>
+        <TelefoneProprietario>1632028138</TelefoneProprietario>
+        <NomeResponsavelUso>CLODOALDO APARECIDO LOURENCO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632028138</TelefoneResponsavelUso>
+        <AreaTotal>226</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2275770">
+      <Solicitacao id="512301">512301201590</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>512301201590</Numero>
+      <DataEmissao>2015-11-17T00:00:00</DataEmissao>
+      <DataVencimento>2016-11-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1007841">
+      <Solicitacao id="220154">220154201481</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>220154201481</Numero>
+      <DataEmissao>2014-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-17T00:00:00</DataVencimento>
+      <Declaracao id="3426" />
+    </Licenciamento>
+    <Licenciamento id="2275771">
+      <Solicitacao id="512301">512301201590</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>512301201590</Numero>
+      <DataEmissao>2015-11-17T00:00:00</DataEmissao>
+      <DataVencimento>2016-11-17T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="228290">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>71793665000148</CNPJ>
+    <NomeEmpresarial>ROBERTO YOSHIHARU OTA &amp;amp; CIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1993-06-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35211660247</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05670689860</CPFResponsavel>
+    <NomeResponsavel>ROBERTO YOSHIHARU OTA</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>05521</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>AMORIN BRENHA</Logradouro>
+      <NumeroLogradouro>199</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14875455</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ROBERTO YOSHIHARU OTA</Nome>
+        <Numero>00005670689860</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CLARICE DAMIAO OTA</Nome>
+        <Numero>00010549300821</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>026168</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>03186927000156</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2803869">
+      <Solicitacao id="644389">644389201638</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-07-12T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3103591">
+      <Solicitacao id="720257">720257201692</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>56728</Numero>
+      <DataEmissao>2016-10-31T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-18T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>369</AreaEstabelecimento>
+        <NomeProprietario>ROBERTO YOSHIRARU OTA</NomeProprietario>
+        <EmailProprietario>recursoshumanos@logoscont.com.br</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>ROBERTO YOSHIRARU OTA &amp; CIA LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632031119</TelefoneResponsavelUso>
+        <AreaTotal>426</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>56728</NumeroAVCB>
+        <ValidadeAVCB>2017-02-18</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3103589">
+      <Solicitacao id="720257">720257201692</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720257201692</Numero>
+      <DataEmissao>2016-10-31T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-31T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3103590">
+      <Solicitacao id="720257">720257201692</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720257201692</Numero>
+      <DataEmissao>2016-10-31T00:00:00</DataEmissao>
+      <DataVencimento>2021-10-31T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3103592">
+      <Solicitacao id="720257">720257201692</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720257201692</Numero>
+      <DataEmissao>2016-10-31T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-31T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="258830">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23988875000149</CNPJ>
+    <NomeEmpresarial>MARCELO FIORESE MATAQUEIRO 12243926806</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-01-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-01-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35817586384</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>12243926806</CPFResponsavel>
+    <NomeResponsavel>MARCELO FIORESE MATAQUEIRO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32026599</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16651</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>ANNIBALE FELIPPELLI</Logradouro>
+      <NumeroLogradouro>121</NumeroLogradouro>
+      <Bairro>CIDADE JARDIM (ZAGALO)</Bairro>
+      <CEP>14890466</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4930202" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2439966">
+      <Solicitacao id="553304">553304201617</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-17T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2439964">
+      <Solicitacao id="553304">553304201617</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>553304201617</Numero>
+      <DataEmissao>2016-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>116</AreaEstabelecimento>
+        <NomeProprietario>MARCIA FOIREZI MATAQUEIRO</NomeProprietario>
+        <EmailProprietario>orgcardoso@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632042393</TelefoneProprietario>
+        <NomeResponsavelUso>MARCELO FIORESE MATAQUEIRO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632042393</TelefoneResponsavelUso>
+        <AreaTotal>116</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2439962">
+      <Solicitacao id="553304">553304201617</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>553304201617</Numero>
+      <DataEmissao>2016-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2439963">
+      <Solicitacao id="553304">553304201617</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>553304201617</Numero>
+      <DataEmissao>2016-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-17T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2439965">
+      <Solicitacao id="553304">553304201617</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>553304201617</Numero>
+      <DataEmissao>2016-02-17T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-17T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="261492">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24119999000150</CNPJ>
+    <NomeEmpresarial>PASA FOMENTO MERCANTIL LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-02-03</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229710343</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>55118763800</CPFResponsavel>
+    <NomeResponsavel>PAULO ROBERTO FLORENTINO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32028987</Telefone1>
+    <Email>PRFLORENTINO@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02566</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Ivo Bellodi</Logradouro>
+      <NumeroLogradouro>121</NumeroLogradouro>
+      <Bairro>Jardim Eldorado</Bairro>
+      <CEP>14887106</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6491300" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO ROBERTO FLORENTINO</Nome>
+        <Numero>00055118763800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO ROBERTO FLORENTINO JUNIOR</Nome>
+        <Numero>00022024443869</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>026168</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>03186927000156</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2626954">
+      <Solicitacao id="600022">600022201625</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-05-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2626952">
+      <Solicitacao id="600022">600022201625</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>600022201625</Numero>
+      <DataEmissao>2016-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2019-05-12T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>56</AreaEstabelecimento>
+        <NomeProprietario>PAULO ROBERTO FLORENTINO</NomeProprietario>
+        <EmailProprietario>RECURSOSHUMANOS@LOGOSCONT.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>PAULO ROBERTO FLORENTINO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>450</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2626950">
+      <Solicitacao id="600022">600022201625</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>600022201625</Numero>
+      <DataEmissao>2016-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2626951">
+      <Solicitacao id="600022">600022201625</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>600022201625</Numero>
+      <DataEmissao>2016-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2021-05-09T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2626953">
+      <Solicitacao id="600022">600022201625</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>600022201625</Numero>
+      <DataEmissao>2016-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

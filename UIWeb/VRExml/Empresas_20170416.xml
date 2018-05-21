@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="274301">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24394142000149</CNPJ>
+    <NomeEmpresarial>NISLEI DE AGUIAR - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-03-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130578168</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>24809745880</CPFResponsavel>
+    <NomeResponsavel>NISLEI DE AGUIAR</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>33861797</Telefone1>
+    <Email>SOLUCAO-CONTABILIDADE@LIVE.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21510</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSORA ODILA BETTI MENEGUIM</Logradouro>
+      <NumeroLogradouro>450</NumeroLogradouro>
+      <Bairro>RESIDENCIAL VERDEVILLE</Bairro>
+      <CEP>14890080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6821801" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>250963</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>30714716880</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2579750">
+      <Solicitacao id="588253">588253201697</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2579748">
+      <Solicitacao id="588253">588253201697</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>588253201697</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-15T00:00:00</DataVencimento>
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Imovel>
+        <AreaEstabelecimento>158</AreaEstabelecimento>
+        <NomeProprietario>NISLEI DE AGUIAR</NomeProprietario>
+        <EmailProprietario>HENRIQUE_PIRES04@MSN.COM</EmailProprietario>
+        <TelefoneProprietario>1632538270</TelefoneProprietario>
+        <NomeResponsavelUso>NISLEI DE AGUIAR</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632538270</TelefoneResponsavelUso>
+        <AreaTotal>158</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2579746">
+      <Solicitacao id="588253">588253201697</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>588253201697</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2579747">
+      <Solicitacao id="588253">588253201697</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>588253201697</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-15T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2579749">
+      <Solicitacao id="588253">588253201697</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>588253201697</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="276444">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17822385000175</CNPJ>
+    <NomeEmpresarial>JOANISA DOS SANTOS SILVA 33164331800</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-03-26</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2013-03-26</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35807340561</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>33164331800</CPFResponsavel>
+    <NomeResponsavel>JOANISA DOS SANTOS SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32026321</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00662</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>968</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870300</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4761001" principal="1" exercida="1" />
+      <CNAE codigo="4761002" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2578080">
+      <Solicitacao id="587859">587859201648</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2578078">
+      <Solicitacao id="587859">587859201648</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>075794</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2016-07-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>25</AreaEstabelecimento>
+        <NomeProprietario>SERGIO GAGLIANONE</NomeProprietario>
+        <EmailProprietario>leandro@mastercontabilistas.com.br</EmailProprietario>
+        <TelefoneProprietario>1632027556</TelefoneProprietario>
+        <NomeResponsavelUso>JOANISA DOS SANTOS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632049611</TelefoneResponsavelUso>
+        <AreaTotal>282</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>075794</NumeroAVCB>
+        <ValidadeAVCB>2016-07-01</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2578076">
+      <Solicitacao id="587859">587859201648</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587859201648</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2578077">
+      <Solicitacao id="587859">587859201648</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587859201648</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-15T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2578079">
+      <Solicitacao id="587859">587859201648</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587859201648</Numero>
+      <DataEmissao>2016-04-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

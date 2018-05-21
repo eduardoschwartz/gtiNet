@@ -1,0 +1,812 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="197331">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22132984000105</CNPJ>
+    <NomeEmpresarial>FLAVIA DANIELA RODRIGUES - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-03-26</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-03-26</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130092371</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>22569849820</CPFResponsavel>
+    <NomeResponsavel>FLAVIA DANIELA RODRIGUES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32032457</Telefone1>
+    <Email>OSTEODENSI@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01927</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FLORIANO PEIXOTO</Logradouro>
+      <NumeroLogradouro>419</NumeroLogradouro>
+      <Complemento>SALA: 01;</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870370</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8640205" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1762253">
+      <Solicitacao id="392275">392275201508</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-04-07T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1762251">
+      <Solicitacao id="392275">392275201508</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>112361</Numero>
+      <DataEmissao>2015-04-07T00:00:00</DataEmissao>
+      <DataVencimento>2019-08-04T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>201</AreaEstabelecimento>
+        <NomeProprietario>JUARES DALOIA</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>FLAVIA DANIELA RODRIGUES - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>264</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>112361</NumeroAVCB>
+        <ValidadeAVCB>2019-08-04</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1762249">
+      <Solicitacao id="392275">392275201508</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>35243031186400004219</Numero>
+      <DataEmissao>2016-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-17T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>0637/16</ProtocoloAtendimento>
+      <DataProtocolo>2016-05-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+    <Licenciamento id="1762250">
+      <Solicitacao id="392275">392275201508</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>392275201508</Numero>
+      <DataEmissao>2015-04-07T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-07T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1762252">
+      <Solicitacao id="392275">392275201508</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>120709</Numero>
+      <DataEmissao>2016-05-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-27T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>6.628-1/2015</ProtocoloAtendimento>
+      <DataProtocolo>2015-04-15T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="231202">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23201852000142</CNPJ>
+    <NomeEmpresarial>PAUKE PERICIAS E AVALIACOES S/S LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-08-31</DataSituacaoCadastral>
+    <NaturezaJuridica>2240</NaturezaJuridica>
+    <DataAbertura>2015-08-31</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>004618</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>22014700818</CPFResponsavel>
+    <NomeResponsavel>DIMITRE ESENSKY PAUKE</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97082682</Telefone1>
+    <Email>ANALUCIAFG@TERRA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>31511</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>BENJAMIN CONSTANT</Logradouro>
+      <NumeroLogradouro>963</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870140</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6621501" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GERMAN IVANOVICH ESENSKY PAUKE</Nome>
+        <Numero>00056883757872</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DIMITRE ESENSKY PAUKE</Nome>
+        <Numero>00022014700818</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>190090</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13855314870</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2125815">
+      <Solicitacao id="475870">475870201583</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-09-08T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2508615">
+      <Solicitacao id="570566">570566201648</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>475870201583</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2018-09-08T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>12</AreaEstabelecimento>
+        <NomeProprietario>ANA LUCIA FARINA GONCALVES E IRMAOS</NomeProprietario>
+        <EmailProprietario>analuciafg@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1697082682</TelefoneProprietario>
+        <NomeResponsavelUso>PAUKE PERICIAS E AVALIACOES S/S LTDA-ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697082682</TelefoneResponsavelUso>
+        <AreaTotal>258</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>475870201583</NumeroAVCB>
+        <ValidadeAVCB>2018-09-08</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2508613">
+      <Solicitacao id="570566">570566201648</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>570566201648</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-16T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2508614">
+      <Solicitacao id="570566">570566201648</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>570566201648</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2508616">
+      <Solicitacao id="570566">570566201648</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>570566201648</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-16T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="244464">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17003405000186</CNPJ>
+    <NomeEmpresarial>GUTO COMERCIO DE VEICULOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-10-08</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2012-10-08</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35226998818</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17876881866</CPFResponsavel>
+    <NomeResponsavel>ELIZANDRA GIBELLI PEREIRA PEDRO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32039033</Telefone1>
+    <Email>GUTOVEICULOS0K@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01183</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>CARLOS BERCHIERI</Logradouro>
+      <NumeroLogradouro>758</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870010</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4512901" principal="0" exercida="0" />
+      <CNAE codigo="4512902" principal="0" exercida="0" />
+      <CNAE codigo="4530703" principal="0" exercida="0" />
+      <CNAE codigo="4541204" principal="0" exercida="0" />
+      <CNAE codigo="4763603" principal="0" exercida="0" />
+      <CNAE codigo="5223100" principal="0" exercida="0" />
+      <CNAE codigo="7711000" principal="0" exercida="0" />
+      <CNAE codigo="4511102" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELIZANDRA GIBELLI PEREIRA PEDRO</Nome>
+        <Numero>00017876881866</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VINICIUS PEREIRA PEDRO</Nome>
+        <Numero>00045972321840</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FELIPE PEREIRA PEDRO</Nome>
+        <Numero>00045972375850</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2256506">
+      <Solicitacao id="507548">507548201528</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-11-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2508425">
+      <Solicitacao id="570518">570518201654</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>90459</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2018-11-10T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Imovel>
+        <AreaEstabelecimento>183</AreaEstabelecimento>
+        <NomeProprietario>EDSON FRANCISCO TURCO</NomeProprietario>
+        <EmailProprietario>gutoveiculos0km@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632039033</TelefoneProprietario>
+        <NomeResponsavelUso>GUTO COM DE VEICULOS LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632039033</TelefoneResponsavelUso>
+        <AreaTotal>183</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>90459</NumeroAVCB>
+        <ValidadeAVCB>2018-11-10</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2508423">
+      <Solicitacao id="570518">570518201654</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>570518201654</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-16T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2508424">
+      <Solicitacao id="570518">570518201654</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>570518201654</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2508426">
+      <Solicitacao id="570518">570518201654</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>570518201654</Numero>
+      <DataEmissao>2016-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-16T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="356356">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27094982000184</CNPJ>
+    <NomeEmpresarial>ANDERSON DOS SANTOS OLIVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-02-13</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131183027</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>22341653855</CPFResponsavel>
+    <NomeResponsavel>ANDERSON DOS SANTOS OLIVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023846</Telefone1>
+    <Email>TUDOEMFAMILIARESTAURANTE@YAHOO.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01738</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FLORIANO PEIXOTO</Logradouro>
+      <NumeroLogradouro>998</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870810</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3428432">
+      <Solicitacao id="801486">801486201743</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-08T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3399372">
+      <Solicitacao id="794079">794079201768</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794079201768</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-23T00:00:00</DataVencimento>
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>100</AreaEstabelecimento>
+        <NomeProprietario>JOSE ANTONIO FERNANDES NETTO</NomeProprietario>
+        <EmailProprietario>tudoemfamiliarestaurante@yahoo.com</EmailProprietario>
+        <TelefoneProprietario>1632023846</TelefoneProprietario>
+        <NomeResponsavelUso>ANDERSON DOS SANTOS OLIVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023846</TelefoneResponsavelUso>
+        <AreaTotal>449</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3399370">
+      <Solicitacao id="794079">794079201768</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794079201768</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-23T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3399371">
+      <Solicitacao id="794079">794079201768</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794079201768</Numero>
+      <DataEmissao>2017-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-23T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3428431">
+      <Solicitacao id="801486">801486201743</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>801486201743</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>5.863-7/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-15T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="359523">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17933576000104</CNPJ>
+    <NomeEmpresarial>ELMAZ JABOTICABAL COMERCIO DE VEICULOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-04-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-04-15</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227349066</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>07653770800</CPFResponsavel>
+    <NomeResponsavel>OLAVO TARRAF</NomeResponsavel>
+    <DDD1>17</DDD1>
+    <Telefone1>32149718</Telefone1>
+    <DDD2>17</DDD2>
+    <Telefone2>32149700</Telefone2>
+    <Email>RODRIGO.CAMPOS@GRUPOTARRAF.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17587</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MAJOR HILARIO TAVARES PINHEIRO</Logradouro>
+      <NumeroLogradouro>2378</NumeroLogradouro>
+      <Bairro>JARDIM BRANDI</Bairro>
+      <CEP>14871700</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4511101" principal="1" exercida="1" />
+      <CNAE codigo="4520001" principal="0" exercida="1" />
+      <CNAE codigo="4520005" principal="0" exercida="1" />
+      <CNAE codigo="4530703" principal="0" exercida="1" />
+      <CNAE codigo="7490104" principal="0" exercida="1" />
+      <CNAE codigo="7711000" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+      <Auxiliar id="30" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>OLAVO TARRAF</Nome>
+        <Numero>00007653770800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>TARRAF ELMAZ COMERCIO DE VEICULOS LTDA</Nome>
+        <Numero>60001815000117</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>TARRAF EMPREENDIMENTOS E NEGOCIOS LTDA - ME</Nome>
+        <Numero>43125830000158</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>304879</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>34253881858</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3435041">
+      <Solicitacao id="803144">803144201776</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3435039">
+      <Solicitacao id="803144">803144201776</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>282354</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-01-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>8031442017-76</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-17T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5449" resposta="1" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>343</AreaEstabelecimento>
+        <NomeProprietario>DIOGO JOSE PINTO DOS SANTOS RIBAS</NomeProprietario>
+        <EmailProprietario>gerente@giungigoncalves.com.br</EmailProprietario>
+        <TelefoneProprietario>1932323481</TelefoneProprietario>
+        <NomeResponsavelUso>DIOGO JOSE PINTO DOS SANTOS RIBAS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1932323427</TelefoneResponsavelUso>
+        <AreaTotal>411</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3435037">
+      <Solicitacao id="803144">803144201776</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>803144201776</Numero>
+      <DataEmissao>2017-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3435038">
+      <Solicitacao id="803144">803144201776</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>803144201776</Numero>
+      <DataEmissao>2017-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-16T00:00:00</DataVencimento>
+      <Pergunta id="6127" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10212" />
+    </Licenciamento>
+    <Licenciamento id="3435040">
+      <Solicitacao id="803144">803144201776</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>803144201776</Numero>
+      <DataEmissao>2017-03-16T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-16T00:00:00</DataVencimento>
+      <Declaracao id="6357" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="361393">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27101933000121</CNPJ>
+    <NomeEmpresarial>FH PAGLIUSO EVENTOS ESPORTIVOS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-02-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131141146</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>22181081867</CPFResponsavel>
+    <NomeResponsavel>FLAVIO HENRIQUE PAGLIUSO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32024913</Telefone1>
+    <Email>GERIBE@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>28245</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JOSE AUGUSTO ASSUMPCAO</Logradouro>
+      <NumeroLogradouro>213</NumeroLogradouro>
+      <Bairro>JARDIM BELA VISTA</Bairro>
+      <CEP>14883218</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8230001" principal="0" exercida="0" />
+      <CNAE codigo="9311500" principal="0" exercida="0" />
+      <CNAE codigo="9319101" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>241900</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>10888003862</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3455698">
+      <Solicitacao id="808303">808303201749</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-17T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3455696">
+      <Solicitacao id="808303">808303201749</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808303201749</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>94</AreaEstabelecimento>
+        <NomeProprietario>FLAVIO HENRIQUE PAGLIUSO</NomeProprietario>
+        <EmailProprietario>GERIBE@BOL.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632043392</TelefoneProprietario>
+        <NomeResponsavelUso>FLAVIO HENRIQUE PAGLIUSO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632043392</TelefoneResponsavelUso>
+        <AreaTotal>94</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3455694">
+      <Solicitacao id="808303">808303201749</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808303201749</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3455695">
+      <Solicitacao id="808303">808303201749</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808303201749</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-17T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3455697">
+      <Solicitacao id="808303">808303201749</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808303201749</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

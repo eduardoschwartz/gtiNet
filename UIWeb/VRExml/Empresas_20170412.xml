@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="263417">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24167224000150</CNPJ>
+    <NomeEmpresarial>CANDIDO &amp;amp; PAVIANI VISTORIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-02-15</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229734838</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>06545663801</CPFResponsavel>
+    <NomeResponsavel>CARLOS EDUARDO CANDIDO DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97681796</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>36644035</Telefone2>
+    <Email>FR513COMERCIAL@TERRA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16518</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>CARLOS BERCHIERI</Logradouro>
+      <NumeroLogradouro>2071</NumeroLogradouro>
+      <Bairro>CIDADE JARDIM (ZAGALO)</Bairro>
+      <CEP>14890400</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8299799" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CARLOS EDUARDO CANDIDO DA SILVA</Nome>
+        <Numero>00006545663801</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GILIARD APARECIDO PAVIANI</Nome>
+        <Numero>00022788954867</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>105692</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>00013476831</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2449006">
+      <Solicitacao id="555566">555566201631</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2449004">
+      <Solicitacao id="555566">555566201631</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>555566201631</Numero>
+      <DataEmissao>2016-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-22T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>184</AreaEstabelecimento>
+        <NomeProprietario>REMILTON REGINALDO FRANCISCO</NomeProprietario>
+        <EmailProprietario>imoveisnovacasa@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020029</TelefoneProprietario>
+        <NomeResponsavelUso>CANDIDO &amp; PAVIANI VISTORIA PREVIA LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697681796</TelefoneResponsavelUso>
+        <AreaTotal>269</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3536192">
+      <Solicitacao id="828164">828164201760</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>828164201760</Numero>
+      <DataEmissao>2017-04-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2449003">
+      <Solicitacao id="555566">555566201631</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>555566201631</Numero>
+      <DataEmissao>2016-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-22T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3536193">
+      <Solicitacao id="828164">828164201760</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>828164201760</Numero>
+      <DataEmissao>2017-04-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-12T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="318273">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>09339156000176</CNPJ>
+    <NomeEmpresarial>ASSOCIACAO CRISTIANE DA COSTA - ACC</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2008-01-23</DataSituacaoCadastral>
+    <NaturezaJuridica>3999</NaturezaJuridica>
+    <DataAbertura>2008-01-23</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>004300</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>03440227812</CPFResponsavel>
+    <NomeResponsavel>GISLENE MARIA DE CASTRO MARTINS DUARTE</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>beraldo@beraldoassociados.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11563</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>MAESTRO GROSSI</Logradouro>
+      <NumeroLogradouro>348</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14887036</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8800600" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GISLENE MARIA DE CASTRO MARTINS DUARTE</Nome>
+        <Numero>00003440227812</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2992444">
+      <Solicitacao id="692142">692142201676</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-09-20T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3525321">
+      <Solicitacao id="825521">825521201707</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>287809</Numero>
+      <DataEmissao>2017-04-12T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-19T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>400</AreaEstabelecimento>
+        <NomeProprietario>Hatuko Oda</NomeProprietario>
+        <EmailProprietario>contabilidade@saoluis.br</EmailProprietario>
+        <TelefoneProprietario>1632020530</TelefoneProprietario>
+        <NomeResponsavelUso>Associacao Cristiane da Costa-ACC</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632091800</TelefoneResponsavelUso>
+        <AreaTotal>400</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>287809</NumeroAVCB>
+        <ValidadeAVCB>2020-03-19</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2992440">
+      <Solicitacao id="692142">692142201676</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>692142201676</Numero>
+      <DataEmissao>2016-09-19T00:00:00</DataEmissao>
+      <DataVencimento>2017-09-19T00:00:00</DataVencimento>
+      <Declaracao id="7368" />
+    </Licenciamento>
+    <Licenciamento id="2992441">
+      <Solicitacao id="692142">692142201676</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>692142201676</Numero>
+      <DataEmissao>2016-09-19T00:00:00</DataEmissao>
+      <DataVencimento>2021-09-19T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="2992443">
+      <Solicitacao id="692142">692142201676</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>692142201676</Numero>
+      <DataEmissao>2016-09-19T00:00:00</DataEmissao>
+      <DataVencimento>2017-09-19T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="348639">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24125923000138</CNPJ>
+    <NomeEmpresarial>JOAO ABEL LIGERO 12243756889</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-05</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-02-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35817851436</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>12243756889</CPFResponsavel>
+    <NomeResponsavel>JOAO ABEL LIGERO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32034041</Telefone1>
+    <Email>denise@limaassociados.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02740</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>DOS TRABALHADORES</Logradouro>
+      <NumeroLogradouro>436</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14887040</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520001" principal="1" exercida="1" />
+      <CNAE codigo="4530703" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3535333">
+      <Solicitacao id="827949">827949201715</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>827949201715</Numero>
+      <DataEmissao>2017-04-12T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-12T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>40</AreaEstabelecimento>
+        <NomeProprietario>JOAO LIGERO</NomeProprietario>
+        <EmailProprietario>escr.paulolima@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024233</TelefoneProprietario>
+        <NomeResponsavelUso>JOAO ABEL LIGERO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>202</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3312591">
+      <Solicitacao id="772508">772508201708</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>772508201708</Numero>
+      <DataEmissao>2017-01-27T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3312592">
+      <Solicitacao id="772508">772508201708</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>772508201708</Numero>
+      <DataEmissao>2017-01-27T00:00:00</DataEmissao>
+      <DataVencimento>2022-01-27T00:00:00</DataVencimento>
+      <Pergunta id="6127" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10212" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="353348">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>03383210000102</CNPJ>
+    <NomeEmpresarial>RAVANELI &amp;amp; RAVANELI DE JABOTICABAL LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-07-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1999-06-02</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35215872435</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>28200282848</CPFResponsavel>
+    <NomeResponsavel>FATIMA MOURA RIBEIRO RAVANELI</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14089</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>CASTRO ALVES</Logradouro>
+      <NumeroLogradouro>632</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870870</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789099" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FATIMA MOURA RIBEIRO RAVANELI</Nome>
+        <Numero>00028200282848</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUCIANE GATTO RAVANELI</Nome>
+        <Numero>00005679411830</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>192552</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>00580438880</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3365868">
+      <Solicitacao id="785732">785732201716</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>106386</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-07-24T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>49</AreaEstabelecimento>
+        <NomeProprietario>JOAO BATISTA CARNIO</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>RAVANELI E RAVANELI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>456</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>106386</NumeroAVCB>
+        <ValidadeAVCB>2019-07-24</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3365866">
+      <Solicitacao id="785732">785732201716</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>785732201716</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3365867">
+      <Solicitacao id="785732">785732201716</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>785732201716</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-14T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

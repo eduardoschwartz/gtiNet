@@ -1,0 +1,770 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="121439">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>00540109000111</CNPJ>
+    <NomeEmpresarial>UNIMAQ JABOTICABAL MAQUINAS OPERATRIZES LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-09-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1995-04-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35212956905</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09204054875</CPFResponsavel>
+    <NomeResponsavel>ADRIANO CHRISTOVAM</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022165</Telefone1>
+    <Email>orgcardoso@terra.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>28702</SetorQuadraLote>
+      <TipoLogradouro>Rodovia</TipoLogradouro>
+      <Logradouro>Brigadeiro Faria Lima</Logradouro>
+      <NumeroLogradouro>2000</NumeroLogradouro>
+      <Bairro>Vila Buenos Aires</Bairro>
+      <CEP>14892000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4663000" principal="1" exercida="1" />
+      <CNAE codigo="7739099" principal="0" exercida="1" />
+      <CNAE codigo="3314713" principal="0" exercida="1" />
+      <CNAE codigo="3314799" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ADRIANO CHRISTOVAM</Nome>
+        <Numero>00009204054875</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELISABETE APARECIDA TECIANO CHRISTOVAM</Nome>
+        <Numero>00008938480852</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>015272</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3633511">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-12T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3633507">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>AVCB 0000295401</Numero>
+      <DataEmissao>2017-05-11T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-26T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>851958201713</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>3436</AreaEstabelecimento>
+        <NomeProprietario>UNIMAQ JABOTICABAL MAQUINAS OPERATRIZES LTDA EPP</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ADRIANO CHISTOVAM JUNIOR</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>7250</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000029540</NumeroAVCB>
+        <ValidadeAVCB>2017-05-11</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3633506">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>851958201713</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3633510">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>851958201713</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-12T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3633508">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>851958201713</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3633509">
+      <Solicitacao id="851958">851958201713</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494604318488</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-12T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="344877">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>90400888099688</CNPJ>
+    <NomeEmpresarial>BANCO SANTANDER (BRASIL) S.A.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2006-08-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2046</NaturezaJuridica>
+    <DataAbertura>2006-08-18</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35901901708</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>73507512734</CPFResponsavel>
+    <NomeResponsavel>AMANCIO ACURCIO GOUVEIA</NomeResponsavel>
+    <DDD1>11</DDD1>
+    <Telefone1>21087800</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11217</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>NOVE DE JULHO</Logradouro>
+      <NumeroLogradouro>145</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870325</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6422100" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ROBERTO MACHADO FILHO</Nome>
+        <Numero>00011600102859</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>EDE ILSON VIANI</Nome>
+        <Numero>00006492346858</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GILBERTO DUARTE DE ABREU FILHO</Nome>
+        <Numero>00025231144886</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RAMON SANCHEZ DIEZ</Nome>
+        <Numero>00005939648703</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FLAVIO TAVARES VALADAO</Nome>
+        <Numero>00071085262715</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOAO GUILHERME DE ANDRADE SO CONSIGLIO</Nome>
+        <Numero>00011903814863</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA EUGENIA ANDRADE LOPEZ SANTOS</Nome>
+        <Numero>00038677652515</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>REGINALDO ANTONIO RIBEIRO</Nome>
+        <Numero>00009144077831</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>SERGIO GONCALVES</Nome>
+        <Numero>00000764153846</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>AMANCIO ACURCIO GOUVEIA</Nome>
+        <Numero>00073507512734</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANTONIO PARDO DE SANTAYANA MONTES</Nome>
+        <Numero>00023343193844</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CASSIUS SCHYMURA</Nome>
+        <Numero>00081353030768</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO ZERBINATTI</Nome>
+        <Numero>00013673875825</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ROBERTO DE OLIVEIRA CAMPOS NETO</Nome>
+        <Numero>00007860201720</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ALBERTO ZAMORANO HERNANDEZ</Nome>
+        <Numero>00005800654727</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CASSIO SCHMITT</Nome>
+        <Numero>00058109943004</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>THOMAS GREGOR ILG</Nome>
+        <Numero>00012080093894</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CONRADO ENGEL</Nome>
+        <Numero>00002598475852</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MANOEL MARCOS MADUREIRA</Nome>
+        <Numero>00088502406868</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANA PAULA NADER ALFAYA</Nome>
+        <Numero>00017333433854</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JEAN PIERRE DUPUI</Nome>
+        <Numero>00031464521204</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NILTON SERGIO SILVEIRA CARVALHO</Nome>
+        <Numero>00080161189849</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CARLOS REY DE VICENTE</Nome>
+        <Numero>00023641393841</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE DE PAIVA FERREIRA</Nome>
+        <Numero>00000780546806</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VANESSA DE SOUZA LOBATO BARBOSA</Nome>
+        <Numero>00075852586668</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIO ADOLFO LIBERT WESTPHALEN</Nome>
+        <Numero>00036492922549</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JUAN SEBASTIAN MORENO BLANCO</Nome>
+        <Numero>00023683669896</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANGEL SANTODOMINGO MARTELL</Nome>
+        <Numero>00023703573805</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>SERGIO AGAPITO LIRES RIAL</Nome>
+        <Numero>00059564415772</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALVARO ANTONIO CARDOSO DE SOUZA</Nome>
+        <Numero>00024963011891</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CELSO CLEMENTE GIACOMETTI</Nome>
+        <Numero>00002930340878</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VIVIANE SENNA LALLI</Nome>
+        <Numero>00007753817809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FELIPE PIRES GUERRA DE CARVALHO</Nome>
+        <Numero>00005321443769</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUIZ MASAGAO RIBEIRO FILHO</Nome>
+        <Numero>00021467078875</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RAFAEL BELLO NOYA</Nome>
+        <Numero>00026993127890</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ULISSES GOMES GUIMARAES</Nome>
+        <Numero>00001314996703</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALEXANDRE GROSSMANN ZANCANI</Nome>
+        <Numero>00028824614884</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANDRE DE CARVALHO NOVAES</Nome>
+        <Numero>00000503267759</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUIS GUILHERME MATTOSO DE OLIEM BITTENCOURT</Nome>
+        <Numero>00015418477846</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO MALANGA</Nome>
+        <Numero>00012635980802</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RONALDO WAGNER RONDINELLI</Nome>
+        <Numero>00018347822875</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ROBSON DE SOUZA REZENDE</Nome>
+        <Numero>00084767065704</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARINO ALEXANDRE CALHEIROS AGUIAR</Nome>
+        <Numero>00022744224863</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALEXANDRE SILVA D AMBROSIO</Nome>
+        <Numero>00004217033850</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>IGOR MARIO PUGA</Nome>
+        <Numero>00022625872802</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DEBORAH PATRICIA WRIGHT</Nome>
+        <Numero>00003154429808</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE LUCIANO DUARTE PENIDO</Nome>
+        <Numero>00009176080625</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>154967</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>01156825890</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3270141">
+      <Solicitacao id="762006">762006201771</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>270213</Numero>
+      <DataEmissao>2016-11-17T00:00:00</DataEmissao>
+      <DataVencimento>2021-10-12T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>732006201771</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-01T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>57735</AreaEstabelecimento>
+        <NomeProprietario>BANCO SANTANDER (BRASIL) S/A</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>BANCO SANTANDER (BRASIL) S/A</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>692520</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000025536</NumeroAVCB>
+        <ValidadeAVCB>2016-08-16</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3270139">
+      <Solicitacao id="762006">762006201771</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>762006201771</Numero>
+      <DataEmissao>2017-01-13T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-13T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3270140">
+      <Solicitacao id="762006">762006201771</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>762006201771</Numero>
+      <DataEmissao>2017-01-13T00:00:00</DataEmissao>
+      <DataVencimento>2022-01-13T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3635029">
+      <Solicitacao id="852278">852278201730</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494615295971</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-12T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="374550">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27513463000103</CNPJ>
+    <NomeEmpresarial>MARIA DE LOURDES GUARIZ MARTINS PERILLO 16707124862</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823044849</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16707124862</CPFResponsavel>
+    <NomeResponsavel>MARIA DE LOURDES GUARIZ MARTINS PERILLO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32031317</Telefone1>
+    <Email>joseaneperillo1@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19055</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DUQUE DE CAXIAS</Logradouro>
+      <NumeroLogradouro>2469</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871040</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520003" principal="0" exercida="1" />
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3617340">
+      <Solicitacao id="848404">848404201727</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3634091">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>AVCB 0000139539</Numero>
+      <DataEmissao>2014-10-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>852083201776</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>142</AreaEstabelecimento>
+        <NomeProprietario>IVAN CARLOS ARAUJO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>IVAN CARLOS ARAUJO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>142</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000013953</NumeroAVCB>
+        <ValidadeAVCB>2014-10-16</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3634089">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3634090">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-12T00:00:00</DataVencimento>
+      <Pergunta id="6127" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10212" />
+    </Licenciamento>
+    <Licenciamento id="3634092">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3634093">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494609162120</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-12T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="375650">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>45336476000136</CNPJ>
+    <NomeEmpresarial>AGRO PECUARIA ALDEIA LIMITADA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1972-02-02</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35201028670</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>62124820800</CPFResponsavel>
+    <NomeResponsavel>MARIA DE FATIMA GAGLIARDI AFFONSO BELLODI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32039808</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32029726</Telefone2>
+    <Email>PLINIO@AGROPECUARIAALDEIA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>32397</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>ROSA CELESTINO</Logradouro>
+      <NumeroLogradouro>330</NumeroLogradouro>
+      <Bairro>MONTERREY I</Bairro>
+      <CEP>14887450</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0151201" principal="1" exercida="1" />
+      <CNAE codigo="0115600" principal="0" exercida="1" />
+      <CNAE codigo="0111302" principal="0" exercida="1" />
+      <CNAE codigo="0113000" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA DE FATIMA GAGLIARDI AFFONSO BELLODI</Nome>
+        <Numero>00062124820800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LAIS LUIZA BELLODI</Nome>
+        <Numero>00039159818859</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GABRIELA FLORISA BELLODI</Nome>
+        <Numero>00039159819820</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANSELMO LUIS BELLODI FILHO</Nome>
+        <Numero>00036692338816</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3631465">
+      <Solicitacao id="851505">851505201703</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3631462">
+      <Solicitacao id="851505">851505201703</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000226545</Numero>
+      <DataEmissao>2017-03-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-22T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>851505201703</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>194</AreaEstabelecimento>
+        <NomeProprietario>AGRO PECUARIA ALDEIA LIMITADA EPP</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>AGRO PECUARIA ALDEIA LIMITADA EPP</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>360</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000022654</NumeroAVCB>
+        <ValidadeAVCB>2017-03-22</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3631460">
+      <Solicitacao id="851505">851505201703</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>851505201703</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3631463">
+      <Solicitacao id="851505">851505201703</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>851505201703</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

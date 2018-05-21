@@ -1,0 +1,700 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="240035">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23458447000104</CNPJ>
+    <NomeEmpresarial>FUCIOLO &amp;amp; CIA. LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-10-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-10-13</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229424545</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21891717847</CPFResponsavel>
+    <NomeResponsavel>JOSE ALBERTO GROTTA JUNIOR</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>PAULO@LIMAASSOCIADOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>15818</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>1.825</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4771701" principal="1" exercida="1" />
+      <CNAE codigo="4772500" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ALBERTO GROTTA JUNIOR</Nome>
+        <Numero>00021891717847</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA SILVANA DE ALMEIDA FUCIOLO</Nome>
+        <Numero>00003364714835</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2212386">
+      <Solicitacao id="496723">496723201547</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-10-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2212384">
+      <Solicitacao id="496723">496723201547</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>496723201547</Numero>
+      <DataEmissao>2015-10-16T00:00:00</DataEmissao>
+      <DataVencimento>2018-10-16T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>96</AreaEstabelecimento>
+        <NomeProprietario>MARCO AURELIO CARDOSO DA SILVA</NomeProprietario>
+        <EmailProprietario>escr.paulolima@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632025010</TelefoneProprietario>
+        <NomeResponsavelUso>FUCIOLO &amp; CIA. LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632032999</TelefoneResponsavelUso>
+        <AreaTotal>96</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2212382">
+      <Solicitacao id="496723">496723201547</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>35243031147700010715</Numero>
+      <DataEmissao>2015-12-01T00:00:00</DataEmissao>
+      <DataVencimento>2016-12-01T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>01520/15</ProtocoloAtendimento>
+      <DataProtocolo>2015-12-09T00:00:00</DataProtocolo>
+      <Pergunta id="5034" resposta="0" />
+      <Pergunta id="5035" resposta="0" />
+      <Pergunta id="5038" resposta="0" />
+      <Pergunta id="5037" resposta="0" />
+      <Pergunta id="5036" resposta="0" />
+      <Declaracao id="7331" />
+      <Declaracao id="7332" />
+      <Declaracao id="7333" />
+      <Declaracao id="7334" />
+      <Declaracao id="7335" />
+    </Licenciamento>
+    <Licenciamento id="2212383">
+      <Solicitacao id="496723">496723201547</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>496723201547</Numero>
+      <DataEmissao>2015-10-16T00:00:00</DataEmissao>
+      <DataVencimento>2020-10-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2212385">
+      <Solicitacao id="496723">496723201547</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>176729</Numero>
+      <DataEmissao>2016-01-07T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-07T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>17.672-9/2015</ProtocoloAtendimento>
+      <DataProtocolo>2015-10-21T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="248061">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>43697556000191</CNPJ>
+    <NomeEmpresarial>HENFEL INDUSTRIA METALURGICA LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-10-04</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1980-06-28</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35200641009</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>83367268887</CPFResponsavel>
+    <NomeResponsavel>CELSO APARECIDO CASSIANO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32093422</Telefone1>
+    <Email>dgomes@henfel.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16483</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MAJOR HILARIO TAVARES PINHEIRO</Logradouro>
+      <NumeroLogradouro>3447</NumeroLogradouro>
+      <Bairro>PARQUE INDUSTRIAL CARLOS TONANNI</Bairro>
+      <CEP>14871300</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="2815102" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CELSO APARECIDO CASSIANO</Nome>
+        <Numero>00083367268887</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>VBG GROUP AB</Nome>
+        <Numero>23221889000132</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>VBG GROUP TRUCK EQUIPMENT AB</Nome>
+        <Numero>23221888000198</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>166476</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08761941883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3119876">
+      <Solicitacao id="724370">724370201662</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-11-08T00:00:00</DataStatus>
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3119874">
+      <Solicitacao id="724370">724370201662</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>200350</Numero>
+      <DataEmissao>2015-08-21T00:00:00</DataEmissao>
+      <DataVencimento>2020-08-18T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>724370.2016-62</ProtocoloAtendimento>
+      <DataProtocolo>2016-11-08T00:00:00</DataProtocolo>
+      <Pergunta id="5452" resposta="1" />
+      <Pergunta id="5450" resposta="1" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>375</AreaEstabelecimento>
+        <NomeProprietario>ALICIO VILAR PONTES</NomeProprietario>
+        <EmailProprietario>FERNANDONOROPET@HOTMAIL.COM</EmailProprietario>
+        <TelefoneProprietario>1734233191</TelefoneProprietario>
+        <NomeResponsavelUso>L C P DIAS SARAIVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1734233191</TelefoneResponsavelUso>
+        <AreaTotal>591</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>108029</NumeroAVCB>
+        <ValidadeAVCB>2017-07-29</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3119872">
+      <Solicitacao id="724370">724370201662</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>724370201662</Numero>
+      <DataEmissao>2016-11-08T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-08T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3119873">
+      <Solicitacao id="724370">724370201662</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001713</Numero>
+      <DataEmissao>2015-06-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-26T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>91117306</ProtocoloAtendimento>
+      <DataProtocolo>2016-11-09T00:00:00</DataProtocolo>
+      <Pergunta id="6134" resposta="1" />
+      <Pergunta id="6141" resposta="1" />
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3119875">
+      <Solicitacao id="724370">724370201662</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>101643</Numero>
+      <DataEmissao>2016-12-02T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>18.945-6/2.016</ProtocoloAtendimento>
+      <DataProtocolo>2016-11-22T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="252542">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23834407000110</CNPJ>
+    <NomeEmpresarial>VBP AGRONEGOCIOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-12-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-12-14</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229555089</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>10909300895</CPFResponsavel>
+    <NomeResponsavel>RENATO VIDOTTI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>29493</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>CARLOS BERCHIERI</Logradouro>
+      <NumeroLogradouro>1.710</NumeroLogradouro>
+      <Complemento>SALA  02</Complemento>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0111302" principal="0" exercida="0" />
+      <CNAE codigo="0113000" principal="0" exercida="0" />
+      <CNAE codigo="0115600" principal="0" exercida="0" />
+      <CNAE codigo="0116401" principal="0" exercida="0" />
+      <CNAE codigo="0116402" principal="0" exercida="0" />
+      <CNAE codigo="0116403" principal="0" exercida="0" />
+      <CNAE codigo="0116499" principal="0" exercida="0" />
+      <CNAE codigo="0119906" principal="0" exercida="0" />
+      <CNAE codigo="0131800" principal="0" exercida="0" />
+      <CNAE codigo="0134200" principal="0" exercida="0" />
+      <CNAE codigo="0210101" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATO VIDOTTI</Nome>
+        <Numero>00010909300895</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA BENINCASA VIDOTTI</Nome>
+        <Numero>00019506906874</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELVO FRANCISCO PESSUTO</Nome>
+        <Numero>00037693158049</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>020713</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>02991920000144</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2351572">
+      <Solicitacao id="531052">531052201633</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-01-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2351570">
+      <Solicitacao id="531052">531052201633</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>531052201633</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>VBP AGRONEGOCIOS LTDA</NomeProprietario>
+        <EmailProprietario>rodrigo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>VBP AGRONEGOCIOS LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2351568">
+      <Solicitacao id="531052">531052201633</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>531052201633</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2351569">
+      <Solicitacao id="531052">531052201633</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>531052201633</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2021-01-06T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2351571">
+      <Solicitacao id="531052">531052201633</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>531052201633</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="253009">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23772752000176</CNPJ>
+    <NomeEmpresarial>ALCIDES SCARPIN - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-12-02</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-12-02</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130546134</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>02008396835</CPFResponsavel>
+    <NomeResponsavel>ALCIDES SCARPIN</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021928</Telefone1>
+    <Email>ANTONIOCHELI@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>09039</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>CASTRO ALVES</Logradouro>
+      <NumeroLogradouro>2380</NumeroLogradouro>
+      <Bairro>JARDIM SANTA ROSA</Bairro>
+      <CEP>14875270</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="1" exercida="1" />
+      <CNAE codigo="5611202" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>075407</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>19332556849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2341766">
+      <Solicitacao id="528606">528606201531</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-12-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2341764">
+      <Solicitacao id="528606">528606201531</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>528606201531</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>190</AreaEstabelecimento>
+        <NomeProprietario>WALTER APARECIDO DOS SANTOS</NomeProprietario>
+        <EmailProprietario>antoniochelli@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632021928</TelefoneProprietario>
+        <NomeResponsavelUso>ALCIDES SCARPIN</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632021928</TelefoneResponsavelUso>
+        <AreaTotal>320</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2341762">
+      <Solicitacao id="528606">528606201531</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>528606201531</Numero>
+      <DataEmissao>2015-12-22T00:00:00</DataEmissao>
+      <DataVencimento>2016-12-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2341763">
+      <Solicitacao id="528606">528606201531</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>528606201531</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2021-01-06T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2341765">
+      <Solicitacao id="528606">528606201531</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>528606201531</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-06T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="253525">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>07242440000102</CNPJ>
+    <NomeEmpresarial>ROSANGELA MARIA DOS SANTOS PANIFICADORA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-02-04</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2005-02-04</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35120436395</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>12243148838</CPFResponsavel>
+    <NomeResponsavel>ROSANGELA MARIA DOS SANTOS DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32024132</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17106</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SEVERINO FRAGUAS</Logradouro>
+      <NumeroLogradouro>321</NumeroLogradouro>
+      <Bairro>PLANALTO ITALIA</Bairro>
+      <CEP>14890440</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4721102" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>910100</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>14550380837</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2347262">
+      <Solicitacao id="529969">529969201621</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-01-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2347260">
+      <Solicitacao id="529969">529969201621</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>529969201621</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-06T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>120</AreaEstabelecimento>
+        <NomeProprietario>ROBERTO ALESSANDRO RAYMUNDO</NomeProprietario>
+        <EmailProprietario>BRUNO_PULICI@YAHOO.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632036750</TelefoneProprietario>
+        <NomeResponsavelUso>ROSANGELA MARIA DOS SANTOS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036750</TelefoneResponsavelUso>
+        <AreaTotal>280</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2347258">
+      <Solicitacao id="529969">529969201621</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>529969201621</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-06T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="2347259">
+      <Solicitacao id="529969">529969201621</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>529969201621</Numero>
+      <DataEmissao>2016-01-06T00:00:00</DataEmissao>
+      <DataVencimento>2021-01-06T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2347261">
+      <Solicitacao id="529969">529969201621</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>529969201621</Numero>
+      <DataEmissao>2016-01-04T00:00:00</DataEmissao>
+      <DataVencimento>2017-01-04T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

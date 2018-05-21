@@ -1,0 +1,391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="262339">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>04534785000133</CNPJ>
+    <NomeEmpresarial>CUNHA GONSALVES EMPREENDIMENTOS IMOBILIARIOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2001-06-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2001-06-25</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35216983249</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>03344485814</CPFResponsavel>
+    <NomeResponsavel>ROY DOUGLAS CARDOSO DA CUNHA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32028870</Telefone1>
+    <Email>cunhagonsalves@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01541</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Vinte e Quatro de Maio</Logradouro>
+      <NumeroLogradouro>419</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870350</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6810201" principal="1" exercida="1" />
+      <CNAE codigo="4311802" principal="0" exercida="1" />
+      <CNAE codigo="4110700" principal="0" exercida="1" />
+      <CNAE codigo="6810202" principal="0" exercida="1" />
+      <CNAE codigo="6821801" principal="0" exercida="1" />
+      <CNAE codigo="6822600" principal="0" exercida="1" />
+      <CNAE codigo="6810203" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ROY DOUGLAS CARDOSO DA CUNHA</Nome>
+        <Numero>00003344485814</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FLORIVALDO BENEDITO GONSALVES</Nome>
+        <Numero>00097956660882</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>152720</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>655690</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2437818">
+      <Solicitacao id="552768">552768201683</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2577232">
+      <Solicitacao id="587655">587655201669</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587655201669</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>217</AreaEstabelecimento>
+        <NomeProprietario>JOSE CARLOS CASSIANO</NomeProprietario>
+        <EmailProprietario>vania@cunhagonsalves.com.br</EmailProprietario>
+        <TelefoneProprietario>1632028870</TelefoneProprietario>
+        <NomeResponsavelUso>CUNHA GONSALVES EMPREENDIMENTOS IMOBILIARIOS LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632028870</TelefoneResponsavelUso>
+        <AreaTotal>686</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2577230">
+      <Solicitacao id="587655">587655201669</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587655201669</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2577231">
+      <Solicitacao id="587655">587655201669</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587655201669</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-14T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2577233">
+      <Solicitacao id="587655">587655201669</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587655201669</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="272787">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24454347000172</CNPJ>
+    <NomeEmpresarial>HENRIQUE PIZETTI TROIANO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-03-24</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130696349</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>36920236850</CPFResponsavel>
+    <NomeResponsavel>HENRIQUE PIZETTI TROIANO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32026932</Telefone1>
+    <Email>ANTONIOCHELLI@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02137</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JOAO DE ALMEIDA</Logradouro>
+      <NumeroLogradouro>996</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870830</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>075407</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>19332556849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2576188">
+      <Solicitacao id="587393">587393201641</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-14T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2576186">
+      <Solicitacao id="587393">587393201641</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587393201641</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>148</AreaEstabelecimento>
+        <NomeProprietario>JORGE DE FARIA SIMOES</NomeProprietario>
+        <EmailProprietario>jfsimoes@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632046220</TelefoneProprietario>
+        <NomeResponsavelUso>HENRIQUE PIZETTI TROIANO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632024713</TelefoneResponsavelUso>
+        <AreaTotal>148</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2576184">
+      <Solicitacao id="587393">587393201641</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587393201641</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2576185">
+      <Solicitacao id="587393">587393201641</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587393201641</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-14T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2576187">
+      <Solicitacao id="587393">587393201641</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>587393201641</Numero>
+      <DataEmissao>2017-01-30T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-30T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>7.779-8/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-04-28T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1064" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1063" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="276176">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>66917212000146</CNPJ>
+    <NomeEmpresarial>CRISTIANE AGOSTINHO BULGARELLI</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-12-31</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>1991-09-17</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35128463057</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>18106736822</CPFResponsavel>
+    <NomeResponsavel>CRISTIANE AGOSTINHO BULGARELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32028644</Telefone1>
+    <Email>ninoeninaroupas@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01154</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>1393</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <CNAE codigo="4782201" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>015272</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2575640">
+      <Solicitacao id="587257">587257201612</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-14T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2575638">
+      <Solicitacao id="587257">587257201612</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587257201612</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>195</AreaEstabelecimento>
+        <NomeProprietario>CRISTIANE AGOSTINHO BULGARELLI</NomeProprietario>
+        <EmailProprietario>ninoeninaroupas@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632028644</TelefoneProprietario>
+        <NomeResponsavelUso>CRISTIANE AGOSTINHO BULGARELLI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632028644</TelefoneResponsavelUso>
+        <AreaTotal>235</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2575636">
+      <Solicitacao id="587257">587257201612</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587257201612</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2575637">
+      <Solicitacao id="587257">587257201612</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>587257201612</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-14T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2575639">
+      <Solicitacao id="587257">587257201612</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>587257201612</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

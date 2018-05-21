@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="349552">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26985716000189</CNPJ>
+    <NomeEmpresarial>JORGE ANDRE BRIZA - EIRELI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-01-30</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>2017-01-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35601616005</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21991714858</CPFResponsavel>
+    <NomeResponsavel>JORGE ANDRE BRIZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97226731</Telefone1>
+    <Email>MAXCONTATOS@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>05564</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>DOUTOR JOAQUIM NABUCO</Logradouro>
+      <NumeroLogradouro>180</NumeroLogradouro>
+      <Complemento>FRENTE</Complemento>
+      <Bairro>X</Bairro>
+      <CEP>14870640</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="0" exercida="1" />
+      <CNAE codigo="5611203" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JORGE ANDRE BRIZA</Nome>
+        <Numero>00021991714858</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>268486</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>21860790895</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3326843">
+      <Solicitacao id="776053">776053201732</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-01T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3602799">
+      <Solicitacao id="845171">845171201708</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>AVCB 0000288203</Numero>
+      <DataEmissao>2017-03-23T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-21T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>845171201708</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>83</AreaEstabelecimento>
+        <NomeProprietario>JORGE ANDRE BRIZA EIRELI ME</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>JORGE ANDRE BRIZA EIRELI ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>467</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000028820</NumeroAVCB>
+        <ValidadeAVCB>2017-03-23</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3326839">
+      <Solicitacao id="776053">776053201732</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>776053201732</Numero>
+      <DataEmissao>2017-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-01T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3326840">
+      <Solicitacao id="776053">776053201732</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>776053201732</Numero>
+      <DataEmissao>2017-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-01T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3602800">
+      <Solicitacao id="845171">845171201708</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>845171201708</Numero>
+      <DataEmissao>2017-05-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-05T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>3.947-1/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-05T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+    <Licenciamento id="3602801">
+      <Solicitacao id="845171">845171201708</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493922468218</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-04T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

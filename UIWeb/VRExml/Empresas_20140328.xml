@@ -1,0 +1,781 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="127791">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19852927000188</CNPJ>
+    <NomeEmpresarial>ANTONIO PABLO ALVES DE ARAUJO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-03-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-03-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129297452</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>44276954851</CPFResponsavel>
+    <NomeResponsavel>ANTONIO PABLO ALVES DE ARAUJO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32049620</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32027683</Telefone2>
+    <Email>jlvillela@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>29720</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSORA ZIZI FILARDI</Logradouro>
+      <NumeroLogradouro>30</NumeroLogradouro>
+      <Bairro>RESIDENCIAL BOM JESUS</Bairro>
+      <CEP>14876094</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4120400" principal="1" exercida="1" />
+      <CNAE codigo="4744099" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>230077</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>59468297853</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1067482">
+      <Solicitacao id="233480">233480201422</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1067480">
+      <Solicitacao id="233480">233480201422</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233480201422</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Imovel>
+        <AreaEstabelecimento>40</AreaEstabelecimento>
+        <NomeProprietario>Antonio Luis Pereira da Silva</NomeProprietario>
+        <EmailProprietario>jlvillela@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632027683</TelefoneProprietario>
+        <NomeResponsavelUso>Antonio Pablo Alves de Araujo</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632027683</TelefoneResponsavelUso>
+        <AreaTotal>40</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1067478">
+      <Solicitacao id="233480">233480201422</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233480201422</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1067479">
+      <Solicitacao id="233480">233480201422</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233480201422</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1067481">
+      <Solicitacao id="233480">233480201422</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233480201422</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="127833">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19721640000119</CNPJ>
+    <NomeEmpresarial>GIANGRECCO E GIRIBOLA AGENCIA DE VIAGENS LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-02-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228213354</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05762018806</CPFResponsavel>
+    <NomeResponsavel>CLAUDIO JOSE GIANGRECCO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022419</Telefone1>
+    <Email>iughettijunior@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01740</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DO CARMO</Logradouro>
+      <NumeroLogradouro>579</NumeroLogradouro>
+      <Complemento>LOJA  5</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870500</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7911200" principal="1" exercida="1" />
+      <CNAE codigo="7990200" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CLAUDIO JOSE GIANGRECCO</Nome>
+        <Numero>00005762018806</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RAFAEL ZAPELLA GIRIBOLA</Nome>
+        <Numero>00031135956812</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1067899">
+      <Solicitacao id="233573">233573201446</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1067897">
+      <Solicitacao id="233573">233573201446</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233573201446</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Imovel>
+        <AreaEstabelecimento>175</AreaEstabelecimento>
+        <NomeProprietario>JOSE ROBERTO BOTTINO</NomeProprietario>
+        <EmailProprietario>cristina@exploramundiviagens.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023436</TelefoneProprietario>
+        <NomeResponsavelUso>GIANGRECCO E GIRIBOLA AGENCIA DE VIAGENS LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023436</TelefoneResponsavelUso>
+        <AreaTotal>175</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1067895">
+      <Solicitacao id="233573">233573201446</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233573201446</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1067896">
+      <Solicitacao id="233573">233573201446</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233573201446</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1067898">
+      <Solicitacao id="233573">233573201446</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233573201446</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="127850">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19675681000116</CNPJ>
+    <NomeEmpresarial>EDUARDO FRANCISCO DA SILVA BAR - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-02-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129367990</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>13875041852</CPFResponsavel>
+    <NomeResponsavel>EDUARDO FRANCISCO DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97123738</Telefone1>
+    <Email>iughettijunior@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14898</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MAJOR NOVAES</Logradouro>
+      <NumeroLogradouro>1398</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14870080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1068086">
+      <Solicitacao id="233613">233613201489</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1068084">
+      <Solicitacao id="233613">233613201489</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233613201489</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4279" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6348" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Imovel>
+        <AreaEstabelecimento>208</AreaEstabelecimento>
+        <NomeProprietario>FREDERICO SANTI</NomeProprietario>
+        <EmailProprietario>iughettijunior@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1697123738</TelefoneProprietario>
+        <NomeResponsavelUso>EDUARDO FRANCSICO DA SILVA BAR ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697123738</TelefoneResponsavelUso>
+        <AreaTotal>208</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1068082">
+      <Solicitacao id="233613">233613201489</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233613201489</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1068083">
+      <Solicitacao id="233613">233613201489</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233613201489</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1068085">
+      <Solicitacao id="233613">233613201489</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233613201489</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+      <Declaracao id="6367" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="127869">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>16620961000139</CNPJ>
+    <NomeEmpresarial>T. F. MARTINS COLCHOARIA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-07-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-07-24</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35128058705</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>33141315850</CPFResponsavel>
+    <NomeResponsavel>THIAGO FERREIRA MARTINS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>93425935</Telefone1>
+    <Email>IUGHETTIJUNIOR@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>27719</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>ANDRE GARCIA CAMACHO</Logradouro>
+      <NumeroLogradouro>271</NumeroLogradouro>
+      <Bairro>PARQUE DAS ARARAS</Bairro>
+      <CEP>14890728</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4751201" principal="0" exercida="1" />
+      <CNAE codigo="4752100" principal="0" exercida="1" />
+      <CNAE codigo="4753900" principal="0" exercida="1" />
+      <CNAE codigo="4754701" principal="0" exercida="1" />
+      <CNAE codigo="4754702" principal="1" exercida="1" />
+      <CNAE codigo="4757100" principal="0" exercida="1" />
+      <CNAE codigo="4763601" principal="0" exercida="1" />
+      <CNAE codigo="4781400" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>142745</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02377213847</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1068202">
+      <Solicitacao id="233640">233640201411</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1068200">
+      <Solicitacao id="233640">233640201411</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233640201411</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Imovel>
+        <AreaEstabelecimento>104</AreaEstabelecimento>
+        <NomeProprietario>MARCELO DAQUILA QUINTINO</NomeProprietario>
+        <EmailProprietario>iughettijunior@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1693425935</TelefoneProprietario>
+        <NomeResponsavelUso>T. F. MARTINS COLCHOARIA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1693425935</TelefoneResponsavelUso>
+        <AreaTotal>104</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1068198">
+      <Solicitacao id="233640">233640201411</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233640201411</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1068199">
+      <Solicitacao id="233640">233640201411</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233640201411</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1068201">
+      <Solicitacao id="233640">233640201411</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233640201411</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="127893">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19859585000128</CNPJ>
+    <NomeEmpresarial>MOURA E SILVA OBRAS DE ALVENARIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-03-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-03-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228195020</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05404803800</CPFResponsavel>
+    <NomeResponsavel>VALMIR ROMUALDO PIMENTA DE MOURA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022419</Telefone1>
+    <Email>iughettijunior@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26090</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>CLOVIS TECHIATTI FAZAN</Logradouro>
+      <NumeroLogradouro>100</NumeroLogradouro>
+      <Bairro>JARDIM SAO PAULO</Bairro>
+      <CEP>14890271</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4120400" principal="0" exercida="1" />
+      <CNAE codigo="4399103" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VALMIR ROMUALDO PIMENTA DE MOURA</Nome>
+        <Numero>00005404803800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE RAIMUNDO SOUSA DA SILVA</Nome>
+        <Numero>00008778200822</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1068452">
+      <Solicitacao id="233696">233696201430</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1068450">
+      <Solicitacao id="233696">233696201430</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233696201430</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Imovel>
+        <AreaEstabelecimento>35</AreaEstabelecimento>
+        <NomeProprietario>JOSE RAIMUNDO SOUSA DA SILVA</NomeProprietario>
+        <EmailProprietario>iughettijunior@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632035743</TelefoneProprietario>
+        <NomeResponsavelUso>MOURA E SILVA OBRAS DE ALVENARIA LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632035743</TelefoneResponsavelUso>
+        <AreaTotal>35</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1068448">
+      <Solicitacao id="233696">233696201430</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233696201430</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1068449">
+      <Solicitacao id="233696">233696201430</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233696201430</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1068451">
+      <Solicitacao id="233696">233696201430</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233696201430</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="127899">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18659840000126</CNPJ>
+    <NomeEmpresarial>DANIELA ESTEVAM DA SILVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-08-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2013-08-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129031657</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>42213027803</CPFResponsavel>
+    <NomeResponsavel>DANIELA ESTEVAM DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022419</Telefone1>
+    <Email>IUGHETTIJUNIOR@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00402</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO SEBASTIAO</Logradouro>
+      <NumeroLogradouro>540</NumeroLogradouro>
+      <Complemento>SALA: 1 E 2;</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870720</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="1412602" principal="0" exercida="1" />
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1068499">
+      <Solicitacao id="233706">233706201404</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1068497">
+      <Solicitacao id="233706">233706201404</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233706201404</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-26T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Imovel>
+        <AreaEstabelecimento>158</AreaEstabelecimento>
+        <NomeProprietario>JAILSON CARDOSO SILVA</NomeProprietario>
+        <EmailProprietario>iughettijunior@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1697255934</TelefoneProprietario>
+        <NomeResponsavelUso>DANIELA ESTEVAM DA SILVA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697255934</TelefoneResponsavelUso>
+        <AreaTotal>158</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1068495">
+      <Solicitacao id="233706">233706201404</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233706201404</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1068496">
+      <Solicitacao id="233706">233706201404</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233706201404</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-26T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1068498">
+      <Solicitacao id="233706">233706201404</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>233706201404</Numero>
+      <DataEmissao>2014-03-26T00:00:00</DataEmissao>
+      <DataVencimento>2015-03-26T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

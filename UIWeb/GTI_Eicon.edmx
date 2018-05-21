@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="GTI_EiconModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <!--Errors Found During Generation:
+warning 6002: The table/view 'GTI_Eicon.dbo.tb_inter_empr_snacional_giss' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+        <EntityType Name="tb_inter_empr_snacional_giss">
+          <Key>
+            <PropertyRef Name="COD_CLIENTE" />
+            <PropertyRef Name="NUM_CADASTRO" />
+            <PropertyRef Name="INSCRICAO" />
+            <PropertyRef Name="DATA_INICIO" />
+            <PropertyRef Name="CNPJ" />
+          </Key>
+          <Property Name="COD_CLIENTE" Type="numeric" Precision="6" Scale="0" Nullable="false" />
+          <Property Name="NUM_CADASTRO" Type="numeric" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="INSCRICAO" Type="numeric" Precision="20" Scale="0" Nullable="false" />
+          <Property Name="DATA_INICIO" Type="datetime" Nullable="false" />
+          <Property Name="DATA_FIM" Type="datetime" />
+          <Property Name="CNPJ" Type="numeric" Precision="14" Scale="0" Nullable="false" />
+          <Property Name="STATUS" Type="varchar" MaxLength="1" />
+          <Property Name="CNAE" Type="varchar" MaxLength="10" />
+          <Property Name="IP" Type="varchar" MaxLength="20" />
+          <Property Name="DATA_DESCARTE" Type="datetime" />
+          <Property Name="OBS_DESCARTE" Type="varchar" MaxLength="300" />
+          <Property Name="EXERCICIO" Type="numeric" Precision="4" Scale="0" />
+          <Property Name="TIMESTAMP" Type="datetime" />
+          <Property Name="CONTROLE" Type="varchar" MaxLength="1" />
+        </EntityType>
+        <EntityContainer Name="GTI_EiconModelStoreContainer">
+          <EntitySet Name="tb_inter_empr_snacional_giss" EntityType="Self.tb_inter_empr_snacional_giss" store:Type="Tables" store:Schema="dbo">
+            <DefiningQuery>SELECT 
+    [tb_inter_empr_snacional_giss].[COD_CLIENTE] AS [COD_CLIENTE], 
+    [tb_inter_empr_snacional_giss].[NUM_CADASTRO] AS [NUM_CADASTRO], 
+    [tb_inter_empr_snacional_giss].[INSCRICAO] AS [INSCRICAO], 
+    [tb_inter_empr_snacional_giss].[DATA_INICIO] AS [DATA_INICIO], 
+    [tb_inter_empr_snacional_giss].[DATA_FIM] AS [DATA_FIM], 
+    [tb_inter_empr_snacional_giss].[CNPJ] AS [CNPJ], 
+    [tb_inter_empr_snacional_giss].[STATUS] AS [STATUS], 
+    [tb_inter_empr_snacional_giss].[CNAE] AS [CNAE], 
+    [tb_inter_empr_snacional_giss].[IP] AS [IP], 
+    [tb_inter_empr_snacional_giss].[DATA_DESCARTE] AS [DATA_DESCARTE], 
+    [tb_inter_empr_snacional_giss].[OBS_DESCARTE] AS [OBS_DESCARTE], 
+    [tb_inter_empr_snacional_giss].[EXERCICIO] AS [EXERCICIO], 
+    [tb_inter_empr_snacional_giss].[TIMESTAMP] AS [TIMESTAMP], 
+    [tb_inter_empr_snacional_giss].[CONTROLE] AS [CONTROLE]
+    FROM [dbo].[tb_inter_empr_snacional_giss] AS [tb_inter_empr_snacional_giss]</DefiningQuery>
+          </EntitySet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="GTI_EiconModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="tb_inter_empr_snacional_giss">
+          <Key>
+            <PropertyRef Name="COD_CLIENTE" />
+            <PropertyRef Name="NUM_CADASTRO" />
+            <PropertyRef Name="INSCRICAO" />
+            <PropertyRef Name="DATA_INICIO" />
+            <PropertyRef Name="CNPJ" />
+          </Key>
+          <Property Name="COD_CLIENTE" Type="Decimal" Precision="6" Scale="0" Nullable="false" />
+          <Property Name="NUM_CADASTRO" Type="Decimal" Precision="10" Scale="0" Nullable="false" />
+          <Property Name="INSCRICAO" Type="Decimal" Precision="20" Scale="0" Nullable="false" />
+          <Property Name="DATA_INICIO" Type="DateTime" Nullable="false" Precision="3" />
+          <Property Name="DATA_FIM" Type="DateTime" Precision="3" />
+          <Property Name="CNPJ" Type="Decimal" Precision="14" Scale="0" Nullable="false" />
+          <Property Name="STATUS" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+          <Property Name="CNAE" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+          <Property Name="IP" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+          <Property Name="DATA_DESCARTE" Type="DateTime" Precision="3" />
+          <Property Name="OBS_DESCARTE" Type="String" MaxLength="300" FixedLength="false" Unicode="false" />
+          <Property Name="EXERCICIO" Type="Decimal" Precision="4" Scale="0" />
+          <Property Name="TIMESTAMP" Type="DateTime" Precision="3" />
+          <Property Name="CONTROLE" Type="String" MaxLength="1" FixedLength="false" Unicode="false" />
+        </EntityType>
+        <EntityContainer Name="GTI_EiconEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="tb_inter_empr_snacional_giss" EntityType="Self.tb_inter_empr_snacional_giss" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="GTI_EiconModelStoreContainer" CdmEntityContainer="GTI_EiconEntities">
+          <EntitySetMapping Name="tb_inter_empr_snacional_giss">
+            <EntityTypeMapping TypeName="GTI_EiconModel.tb_inter_empr_snacional_giss">
+              <MappingFragment StoreEntitySet="tb_inter_empr_snacional_giss">
+                <ScalarProperty Name="COD_CLIENTE" ColumnName="COD_CLIENTE" />
+                <ScalarProperty Name="NUM_CADASTRO" ColumnName="NUM_CADASTRO" />
+                <ScalarProperty Name="INSCRICAO" ColumnName="INSCRICAO" />
+                <ScalarProperty Name="DATA_INICIO" ColumnName="DATA_INICIO" />
+                <ScalarProperty Name="DATA_FIM" ColumnName="DATA_FIM" />
+                <ScalarProperty Name="CNPJ" ColumnName="CNPJ" />
+                <ScalarProperty Name="STATUS" ColumnName="STATUS" />
+                <ScalarProperty Name="CNAE" ColumnName="CNAE" />
+                <ScalarProperty Name="IP" ColumnName="IP" />
+                <ScalarProperty Name="DATA_DESCARTE" ColumnName="DATA_DESCARTE" />
+                <ScalarProperty Name="OBS_DESCARTE" ColumnName="OBS_DESCARTE" />
+                <ScalarProperty Name="EXERCICIO" ColumnName="EXERCICIO" />
+                <ScalarProperty Name="TIMESTAMP" ColumnName="TIMESTAMP" />
+                <ScalarProperty Name="CONTROLE" ColumnName="CONTROLE" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

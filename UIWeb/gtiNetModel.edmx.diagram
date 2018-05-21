@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a2d15f66a7e846e08caef296fcde510e" Name="Global" ZoomLevel="54" >
+        <EntityTypeShape EntityType="TributacaoModel.cidadao" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.spExtrato" Width="1.5" PointX="9.75" PointY="20.125" />
+        <EntityTypeShape EntityType="TributacaoModel.parametros" Width="1.5" PointX="3.125" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.sil" Width="1.5" PointX="3.375" PointY="3.75" />
+      </Diagram>
+      <Diagram DiagramId="40b0c703f94d440d8fc102bffac6d798" Name="Mobiliario" ZoomLevel="74" >
+        <EntityTypeShape EntityType="TributacaoModel.escritoriocontabil" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliarioevento" Width="1.5" PointX="3" PointY="6.625" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliario" Width="1.5" PointX="0.75" PointY="1.625" />
+        <AssociationConnector Association="TributacaoModel.FK_EVENTOMOBILIARIO_MOBILIARIO" />
+        <EntityTypeShape EntityType="TributacaoModel.mei" Width="1.5" PointX="5.375" PointY="4.75" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliarioproprietario1" Width="1.5" PointX="3" PointY="13.625" />
+        <AssociationConnector Association="TributacaoModel.FK_MOBILIARIOPROPRIETARIO_MOBILIARIO" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliarioproprietario" Width="1.5" PointX="3" PointY="13.5" />
+        <EntityTypeShape EntityType="TributacaoModel.cnaesubclasse" Width="1.5" PointX="7.375" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliariocnae" Width="1.5" PointX="7.375" PointY="3.75" />
+        <EntityTypeShape EntityType="TributacaoModel.DEmpresa" Width="1.5" PointX="5.375" PointY="7.75" />
+        <EntityTypeShape EntityType="TributacaoModel.vre_atividade" Width="1.5" PointX="16.75" PointY="13.5" />
+        <EntityTypeShape EntityType="TributacaoModel.vre_empresa" Width="1.5" PointX="14.5" PointY="8" />
+        <EntityTypeShape EntityType="TributacaoModel.vre_licenciamento" Width="1.5" PointX="16.75" PointY="9.875" />
+        <EntityTypeShape EntityType="TributacaoModel.vre_socio" Width="1.5" PointX="16.75" PointY="7.375" />
+        <AssociationConnector Association="TributacaoModel.FK_vre_atividade_vre_empresa" />
+        <AssociationConnector Association="TributacaoModel.FK_vre_licenciamento_vre_empresa" />
+        <EntityTypeShape EntityType="TributacaoModel.horariofunc" Width="1.5" PointX="5.375" PointY="11.25" />
+        <AssociationConnector Association="TributacaoModel.FK_MOBILIARIO_HORARIOFUNC" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliarioatividadevs2" Width="1.5" PointX="7.375" PointY="7.75" />
+        <EntityTypeShape EntityType="TributacaoModel.mobiliarioatividadeiss" Width="1.5" PointX="3" PointY="16.625" />
+        <AssociationConnector Association="TributacaoModel.FK_MOBILIARIOATIVIDADEISS_MOBILIARIO" />
+      </Diagram>
+      <Diagram DiagramId="ecd8c14289364dfc9c5d9f24643ee622" Name="Debito" >
+        <EntityTypeShape EntityType="TributacaoModel.segunda_via_web" PointX="0.75" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TributacaoModel.comercio_eletronico" PointX="11.375" PointY="0.75" Width="1.5" />
+        <EntityTypeShape EntityType="TributacaoModel.boleto" Width="1.5" PointX="3.375" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.boletoguia" Width="1.5" PointX="3.375" PointY="11.75" />
+        <EntityTypeShape EntityType="TributacaoModel.debitoparcela" Width="1.5" PointX="5.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.debitotributo" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="TributacaoModel.numdocumento" Width="1.5" PointX="7.75" PointY="0.75" />
+        <EntityTypeShape EntityType="TributacaoModel.laseriptu" Width="1.5" PointX="5.375" PointY="7.75" />
+        <EntityTypeShape EntityType="TributacaoModel.parceladocumento" Width="1.5" PointX="7.375" PointY="7.75" />
+      </Diagram>
+      <Diagram DiagramId="8b4f5d94ceec454eb32aa7bf74d44d29" Name="Imobiliario" ZoomLevel="83" >
+        <EntityTypeShape EntityType="TributacaoModel.cidade" Width="1.5" PointX="0.75" PointY="2.875" />
+        <EntityTypeShape EntityType="TributacaoModel.bairro" Width="1.5" PointX="3" PointY="2.375" />
+        <AssociationConnector Association="TributacaoModel.FK_BAIRRO_CIDADE" />
+        <EntityTypeShape EntityType="TributacaoModel.facequadra" Width="1.5" PointX="0.75" PointY="8.25" />
+        <EntityTypeShape EntityType="TributacaoModel.logradouro" Width="1.5" PointX="5.75" PointY="1" />
+        <EntityTypeShape EntityType="TributacaoModel.endentrega" Width="1.5" PointX="7.5" PointY="8" />
+        <AssociationConnector Association="TributacaoModel.FK_ENDENTREGA_BAIRRO" />
+        <EntityTypeShape EntityType="TributacaoModel.proprietario" Width="1.5" PointX="7.375" PointY="4.75" />
+        <EntityTypeShape EntityType="TributacaoModel.cadimob" Width="1.5" PointX="10.5" PointY="4.75" />
+        <EntityTypeShape EntityType="TributacaoModel.condominio" Width="1.5" PointX="5.25" PointY="7.625" />
+        <AssociationConnector Association="TributacaoModel.FK_CADIMOB_BAIRRO" />
+        <AssociationConnector Association="TributacaoModel.FK_CONDOMINIO_BAIRRO" />
+        <AssociationConnector Association="TributacaoModel.FK_CADIMOB_CONDOMINIO" />
+        <AssociationConnector Association="TributacaoModel.FK_CADIMOB_FACEQUADRA" />
+        <AssociationConnector Association="TributacaoModel.FK_ENDENTREGA_CADIMOB" />
+        <AssociationConnector Association="TributacaoModel.FK_CONDOMINIO_FACEQUADRA" />
+        <EntityTypeShape EntityType="TributacaoModel.cep" Width="1.5" PointX="8.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

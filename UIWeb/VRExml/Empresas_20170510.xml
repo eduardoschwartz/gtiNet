@@ -1,0 +1,364 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="371734">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27604996000109</CNPJ>
+    <NomeEmpresarial>ROSELI COLLA 14100962894</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-26</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-26</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823219223</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14100962894</CPFResponsavel>
+    <NomeResponsavel>ROSELI COLLA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>99944972</Telefone1>
+    <Email>jbpetruccelli@uol.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00682</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>1066</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4755502" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3579418">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-27T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3579415">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>AVCB 0000238941</Numero>
+      <DataEmissao>2016-05-18T00:00:00</DataEmissao>
+      <DataVencimento>2019-05-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>839998201744</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>137</AreaEstabelecimento>
+        <NomeProprietario>JAIME PORCHAT DE QUEIROS MATTOSO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ESCOLA DA VILA LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>182</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000023894</NumeroAVCB>
+        <ValidadeAVCB>2016-05-18</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3579413">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>839998201744</Numero>
+      <DataEmissao>2017-04-27T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3579414">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>839998201744</Numero>
+      <DataEmissao>2017-04-27T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-27T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3579416">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>839998201744</Numero>
+      <DataEmissao>2017-04-27T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3579417">
+      <Solicitacao id="839998">839998201744</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493291906907</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-27T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="374574">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>09468332000170</CNPJ>
+    <NomeEmpresarial>CERAMICA SAO PEDRO DE JABOTICABAL LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2008-03-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2008-03-25</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35222158939</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>00278256805</CPFResponsavel>
+    <NomeResponsavel>JESUS BENEDITO RODRIGUES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025251</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>97919614</Telefone2>
+    <Email>francontabil@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>10380</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>DOUTOR ABEL SADER</Logradouro>
+      <NumeroLogradouro>161</NumeroLogradouro>
+      <Bairro>JARDIM ANGELICA</Bairro>
+      <CEP>14875525</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4649499" principal="1" exercida="1" />
+      <CNAE codigo="4759899" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JESUS BENEDITO RODRIGUES</Nome>
+        <Numero>00000278256805</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANA PAULA ROCHA RODRIGUES</Nome>
+        <Numero>00017110702898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>163480</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05651384804</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3617663">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3617660">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000006130</Numero>
+      <DataEmissao>2014-12-05T00:00:00</DataEmissao>
+      <DataVencimento>2019-12-05T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>848474201755</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>213</AreaEstabelecimento>
+        <NomeProprietario>CERAMICA SAO PEDRO DE JABOTICABAL LTDA</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>CERAMICA SAO PEDRO DE JABOTICABAL LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>250</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000000613</NumeroAVCB>
+        <ValidadeAVCB>2014-12-05</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3617658">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848474201755</Numero>
+      <DataEmissao>2017-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3617659">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848474201755</Numero>
+      <DataEmissao>2017-05-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3617661">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848474201755</Numero>
+      <DataEmissao>2017-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3617662">
+      <Solicitacao id="848474">848474201755</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494349573514</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-09T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="374724">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27689426000150</CNPJ>
+    <NomeEmpresarial>C. L. VILLELA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-05-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-05-09</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131343784</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>29229352802</CPFResponsavel>
+    <NomeResponsavel>CARLOS LEONARDO VILLELA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020536</Telefone1>
+    <Email>CHINELOECIARENATA@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01600</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FLORIANO PEIXOTO</Logradouro>
+      <NumeroLogradouro>660</NumeroLogradouro>
+      <Complemento>SALA  07</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870370</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4782201" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3619658">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3619655">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000121882</Numero>
+      <DataEmissao>2016-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-11T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>848920201771</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>49</AreaEstabelecimento>
+        <NomeProprietario>CARLOS ALBERTO VILLELA</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>MARY CASTRO SANTANA BORSARI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>187</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000012188</NumeroAVCB>
+        <ValidadeAVCB>2016-03-11</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3619653">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848920201771</Numero>
+      <DataEmissao>2017-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3619654">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848920201771</Numero>
+      <DataEmissao>2017-05-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3619656">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>848920201771</Numero>
+      <DataEmissao>2017-05-09T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-09T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3619657">
+      <Solicitacao id="848920">848920201771</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494361757321</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-09T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

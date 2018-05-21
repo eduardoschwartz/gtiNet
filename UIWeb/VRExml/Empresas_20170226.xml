@@ -1,0 +1,512 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="223634">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>55868210000198</CNPJ>
+    <NomeEmpresarial>PAULO CESAR TORQUATO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-10-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>1986-06-20</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35103179061</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05494344886</CPFResponsavel>
+    <NomeResponsavel>PAULO CESAR TORQUATO</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17216</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>VERGILIO PEDRO RIBEIRO</Logradouro>
+      <NumeroLogradouro>141</NumeroLogradouro>
+      <Bairro>PLANALTO ITALIA</Bairro>
+      <CEP>14875455</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="2512800" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184659</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05904457820</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2167522">
+      <Solicitacao id="485680">485680201590</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-09-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2167520">
+      <Solicitacao id="485680">485680201590</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>58361</Numero>
+      <DataEmissao>2015-09-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-26T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>397</AreaEstabelecimento>
+        <NomeProprietario>PAULO CESAR TORQUATO</NomeProprietario>
+        <EmailProprietario>orgcardoso@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024594</TelefoneProprietario>
+        <NomeResponsavelUso>PAULO CESAR TORQUATO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632024594</TelefoneResponsavelUso>
+        <AreaTotal>397</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>58361</NumeroAVCB>
+        <ValidadeAVCB>2017-02-26</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2167518">
+      <Solicitacao id="485680">485680201590</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>485680201590</Numero>
+      <DataEmissao>2015-09-25T00:00:00</DataEmissao>
+      <DataVencimento>2016-09-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2167519">
+      <Solicitacao id="485680">485680201590</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>485680201590</Numero>
+      <DataEmissao>2015-09-25T00:00:00</DataEmissao>
+      <DataVencimento>2020-09-25T00:00:00</DataVencimento>
+      <Pergunta id="4252" resposta="0" />
+      <Declaracao id="6288" />
+      <Declaracao id="6313" />
+    </Licenciamento>
+    <Licenciamento id="2167521">
+      <Solicitacao id="485680">485680201590</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>103629</Numero>
+      <DataEmissao>2015-10-15T00:00:00</DataEmissao>
+      <DataVencimento>2016-10-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>13.684-1/2015</ProtocoloAtendimento>
+      <DataProtocolo>2015-10-15T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="238221">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>16882682000143</CNPJ>
+    <NomeEmpresarial>LIARA NOGUEIRA PETRECHEN NOSRALLA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-09-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-09-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35128337060</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>31777971888</CPFResponsavel>
+    <NomeResponsavel>LIARA NOGUEIRA PETRECHEN NOSRALLA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32032015</Telefone1>
+    <Email>call@callcontabil.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>24517</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>THALES BENTO FERREIRA</Logradouro>
+      <NumeroLogradouro>240</NumeroLogradouro>
+      <Bairro>RESIDENCIAL SAO JUDAS TADEU</Bairro>
+      <CEP>14887260</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8630503" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>175618</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>18106169804</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2194968">
+      <Solicitacao id="492448">492448201524</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-10-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2194966">
+      <Solicitacao id="492448">492448201524</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>58360</Numero>
+      <DataEmissao>2015-10-08T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-26T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>231</AreaEstabelecimento>
+        <NomeProprietario>FATIMA MARIA TIMOSSI</NomeProprietario>
+        <EmailProprietario>call@callcontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1632032015</TelefoneProprietario>
+        <NomeResponsavelUso>LIARA NOGUEIRA PETRECHEN NOSRALLA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632032015</TelefoneResponsavelUso>
+        <AreaTotal>231</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>58360</NumeroAVCB>
+        <ValidadeAVCB>2017-02-26</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3104135">
+      <Solicitacao id="720400">720400201656</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720400201656</Numero>
+      <DataEmissao>2016-10-31T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-31T00:00:00</DataVencimento>
+      <Pergunta id="5058" resposta="0" />
+      <Declaracao id="7355" />
+    </Licenciamento>
+    <Licenciamento id="2194965">
+      <Solicitacao id="492448">492448201524</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>492448201524</Numero>
+      <DataEmissao>2015-10-08T00:00:00</DataEmissao>
+      <DataVencimento>2020-10-08T00:00:00</DataVencimento>
+      <Pergunta id="4238" resposta="0" />
+      <Declaracao id="6288" />
+      <Declaracao id="6299" />
+    </Licenciamento>
+    <Licenciamento id="3160981">
+      <Solicitacao id="734725">734725201697</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>118812</Numero>
+      <DataEmissao>2016-12-15T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>19.903-6/2.016</ProtocoloAtendimento>
+      <DataProtocolo>2016-12-09T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="264368">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15012111000195</CNPJ>
+    <NomeEmpresarial>ITEVALDO ANESIO DE SOUZA 11780387857</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-02-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-02-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35216989930</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11780387857</CPFResponsavel>
+    <NomeResponsavel>ITEVALDO ANESIO DE SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027490</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14940</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>1350</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5620102" principal="0" exercida="1" />
+      <CNAE codigo="7723300" principal="1" exercida="1" />
+      <CNAE codigo="7729202" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2458690">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2458688">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>24552</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>54</AreaEstabelecimento>
+        <NomeProprietario>MARIA APARECIDA MATAQUEIRO</NomeProprietario>
+        <EmailProprietario>fiscal@callcontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1632027490</TelefoneProprietario>
+        <NomeResponsavelUso>ITEVALDO ANESIO DE SOUZA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632027490</TelefoneResponsavelUso>
+        <AreaTotal>54</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>24552</NumeroAVCB>
+        <ValidadeAVCB>2018-03-17</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2458686">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>558013201634</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2458687">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>558013201634</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-25T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2458689">
+      <Solicitacao id="558013">558013201634</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>558013201634</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-25T00:00:00</DataVencimento>
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="264538">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19071721000110</CNPJ>
+    <NomeEmpresarial>RODRIGO TONON 25872142897</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-10-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2013-10-15</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35809273879</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>25872142897</CPFResponsavel>
+    <NomeResponsavel>RODRIGO TONON</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32048164</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11968</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>ANTENOR MARTINS DE OLIVEIRA</Logradouro>
+      <NumeroLogradouro>257</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL HUGO LACORTE VITALLE I</Bairro>
+      <CEP>14875424</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="0" exercida="0" />
+      <CNAE codigo="4723700" principal="0" exercida="0" />
+      <CNAE codigo="4781400" principal="0" exercida="0" />
+      <CNAE codigo="5620104" principal="0" exercida="0" />
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2460168">
+      <Solicitacao id="558380">558380201662</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2460166">
+      <Solicitacao id="558380">558380201662</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>558380201662</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-25T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>166</AreaEstabelecimento>
+        <NomeProprietario>SILVIA MARIZA BRIZOLA</NomeProprietario>
+        <EmailProprietario>lana_s.b@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1697260875</TelefoneProprietario>
+        <NomeResponsavelUso>RODRIGO TONON 25872142897</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697260875</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2460164">
+      <Solicitacao id="558380">558380201662</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>558380201662</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2460165">
+      <Solicitacao id="558380">558380201662</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>558380201662</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-25T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2460167">
+      <Solicitacao id="558380">558380201662</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>558380201662</Numero>
+      <DataEmissao>2016-02-25T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-25T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

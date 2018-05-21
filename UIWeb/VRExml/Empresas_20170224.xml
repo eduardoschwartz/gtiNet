@@ -1,0 +1,511 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="263698">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24225896000175</CNPJ>
+    <NomeEmpresarial>MARINA FONTAO VERHAEG 06966319465</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-02-23</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35818047134</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>06966319465</CPFResponsavel>
+    <NomeResponsavel>MARINA FONTAO VERHAEG</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32044501</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14110</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>TREZE DE MAIO</Logradouro>
+      <NumeroLogradouro>827</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870160</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4321500" principal="0" exercida="1" />
+      <CNAE codigo="4753900" principal="0" exercida="1" />
+      <CNAE codigo="4759899" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2451645">
+      <Solicitacao id="556220">556220201660</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2451643">
+      <Solicitacao id="556220">556220201660</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>556220201660</Numero>
+      <DataEmissao>2016-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-23T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>45</AreaEstabelecimento>
+        <NomeProprietario>MARINA FONTAO VERHAEG</NomeProprietario>
+        <EmailProprietario>rodrigo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>MARINA FONTAO VERHAEG</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>45</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2451641">
+      <Solicitacao id="556220">556220201660</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>556220201660</Numero>
+      <DataEmissao>2016-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-23T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2451642">
+      <Solicitacao id="556220">556220201660</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>556220201660</Numero>
+      <DataEmissao>2016-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-23T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2451644">
+      <Solicitacao id="556220">556220201660</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>556220201660</Numero>
+      <DataEmissao>2016-02-23T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-23T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="299496">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19447345000116</CNPJ>
+    <NomeEmpresarial>ZULMIRA ALVES DE OLIVEIRA CHIODA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-12-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2013-12-19</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129173842</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09874695846</CPFResponsavel>
+    <NomeResponsavel>ZULMIRA ALVES DE OLIVEIRA CHIODA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022917</Telefone1>
+    <Email>recursoshumanos@jogoscont.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>23302</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>2408</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4754701" principal="1" exercida="1" />
+      <CNAE codigo="4785799" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2803524">
+      <Solicitacao id="644304">644304201622</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-07-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2803522">
+      <Solicitacao id="644304">644304201622</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>57736</Numero>
+      <DataEmissao>2016-07-13T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-24T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>399</AreaEstabelecimento>
+        <NomeProprietario>ZULMIRA ALVES DE OLIVEIRA CHIODA</NomeProprietario>
+        <EmailProprietario>recursoshumanos@logoscont.com.br</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>ZULMIRA ALVES DE OLIVEIRA CHIODA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>399</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>57736</NumeroAVCB>
+        <ValidadeAVCB>2017-02-24</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2803520">
+      <Solicitacao id="644304">644304201622</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>644304201622</Numero>
+      <DataEmissao>2016-07-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-11T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2803521">
+      <Solicitacao id="644304">644304201622</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>644304201622</Numero>
+      <DataEmissao>2016-07-13T00:00:00</DataEmissao>
+      <DataVencimento>2021-07-13T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2803523">
+      <Solicitacao id="644304">644304201622</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>644304201622</Numero>
+      <DataEmissao>2016-07-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-11T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="332313">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>57341372000107</CNPJ>
+    <NomeEmpresarial>BY STOK MULHER CONFECCOES LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-12-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1987-04-23</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35225612011</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>13855939896</CPFResponsavel>
+    <NomeResponsavel>ALEXANDRA BALSALOBRE SIMIELI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32035369</Telefone1>
+    <Email>BYSTOK@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00705</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Rui Barbosa</Logradouro>
+      <NumeroLogradouro>1170</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <CNAE codigo="4782202" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>APARECIDA ALVARES BALSALOBRE</Nome>
+        <Numero>00007530681842</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ALEXANDRA BALSALOBRE SIMIELI</Nome>
+        <Numero>00013855939896</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3400172">
+      <Solicitacao id="794282">794282201761</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3400170">
+      <Solicitacao id="794282">794282201761</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794282201761</Numero>
+      <DataEmissao>2017-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-24T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>258</AreaEstabelecimento>
+        <NomeProprietario>MARLENE NUNO RAYMUNDO E OUTROS</NomeProprietario>
+        <EmailProprietario>bystok@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632021833</TelefoneProprietario>
+        <NomeResponsavelUso>BY STOK MULHER CONFECCOES LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632021833</TelefoneResponsavelUso>
+        <AreaTotal>258</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3400168">
+      <Solicitacao id="794282">794282201761</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794282201761</Numero>
+      <DataEmissao>2017-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3400169">
+      <Solicitacao id="794282">794282201761</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794282201761</Numero>
+      <DataEmissao>2017-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-24T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3400171">
+      <Solicitacao id="794282">794282201761</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794282201761</Numero>
+      <DataEmissao>2017-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-24T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="336097">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>26581853000158</CNPJ>
+    <NomeEmpresarial>B &amp;amp; C PAES E DOCES LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-11-22</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-11-22</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35230150933</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15921953857</CPFResponsavel>
+    <NomeResponsavel>OTILIO CESAR CAZARIN</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021039</Telefone1>
+    <Email>CONTATO@PADARIARECANTODOCE.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>37259</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Rui Barbosa</Logradouro>
+      <NumeroLogradouro>1187</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870740</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4721102" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>OTILIO CESAR CAZARIN</Nome>
+        <Numero>00015921953857</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCUS AURELIO BALIEIRO BARI</Nome>
+        <Numero>00055803792691</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3402369">
+      <Solicitacao id="794834">794834201749</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3174545">
+      <Solicitacao id="738204">738204201615</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>738204201615</Numero>
+      <DataEmissao>2016-11-30T00:00:00</DataEmissao>
+      <DataVencimento>2019-11-30T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Imovel>
+        <AreaEstabelecimento>316</AreaEstabelecimento>
+        <NomeProprietario>ANA MARIA ROMA BUZATI</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>B E C PAES E DOCES LTDA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>388</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3174543">
+      <Solicitacao id="738204">738204201615</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>738204201615</Numero>
+      <DataEmissao>2016-11-30T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-30T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3174544">
+      <Solicitacao id="738204">738204201615</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>738204201615</Numero>
+      <DataEmissao>2016-11-30T00:00:00</DataEmissao>
+      <DataVencimento>2021-11-30T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3402368">
+      <Solicitacao id="794834">794834201749</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>794834201749</Numero>
+      <DataEmissao>2017-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-24T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

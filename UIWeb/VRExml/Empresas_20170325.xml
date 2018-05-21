@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="267555">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15512141000160</CNPJ>
+    <NomeEmpresarial>TIAGO AVANSINI DE MORAES 32365317898</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-05-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-05-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35804934729</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>32365317898</CPFResponsavel>
+    <NomeResponsavel>TIAGO AVANSINI DE MORAES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036783</Telefone1>
+    <Email>tavansini@gmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>10956</SetorQuadraLote>
+      <TipoLogradouro>Alameda</TipoLogradouro>
+      <Logradouro>CHUCHILL REYNOLDS LOCKE</Logradouro>
+      <NumeroLogradouro>191</NumeroLogradouro>
+      <Bairro>JARDIM NOVA APARECIDA</Bairro>
+      <CEP>14883336</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8599604" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2528502">
+      <Solicitacao id="575606">575606201631</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-28T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2528500">
+      <Solicitacao id="575606">575606201631</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>575606201631</Numero>
+      <DataEmissao>2016-03-24T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-24T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>22</AreaEstabelecimento>
+        <NomeProprietario>TIAGO AVANSINI DE MORAES</NomeProprietario>
+        <EmailProprietario>tiago@npa.ind.br</EmailProprietario>
+        <TelefoneProprietario>1688268828</TelefoneProprietario>
+        <NomeResponsavelUso>TIAGO AVANSINI DE MORAES</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1688268828</TelefoneResponsavelUso>
+        <AreaTotal>215</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2528498">
+      <Solicitacao id="575606">575606201631</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>575606201631</Numero>
+      <DataEmissao>2016-03-24T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2528499">
+      <Solicitacao id="575606">575606201631</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>575606201631</Numero>
+      <DataEmissao>2016-03-24T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-24T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2528501">
+      <Solicitacao id="575606">575606201631</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>575606201631</Numero>
+      <DataEmissao>2016-03-24T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-24T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

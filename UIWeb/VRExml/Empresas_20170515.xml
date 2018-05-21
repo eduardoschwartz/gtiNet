@@ -1,0 +1,362 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="281733">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>03709814006552</CNPJ>
+    <NomeEmpresarial>SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL SENAC</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2002-10-14</DataSituacaoCadastral>
+    <NaturezaJuridica>3077</NaturezaJuridica>
+    <DataAbertura>2002-10-14</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>86211946</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>00121410897</CPFResponsavel>
+    <NomeResponsavel>ABRAM ABE SZAJMAN</NomeResponsavel>
+    <DDD1>011</DDD1>
+    <Telefone1>32367549</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01666</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>24 DE MAIO</Logradouro>
+      <NumeroLogradouro>831</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870350</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8599699" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+      <Auxiliar id="45" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>117220</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>00345434811</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2671121">
+      <Solicitacao id="611098">611098201696</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-05-24T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3639244">
+      <Solicitacao id="853227">853227201797</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>AVCB 0000216148</Numero>
+      <DataEmissao>2015-12-03T00:00:00</DataEmissao>
+      <DataVencimento>2018-12-03T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>853227201797</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>1196</AreaEstabelecimento>
+        <NomeProprietario>SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>SERVICO NACIONAL DE APRENDIZAGEM COMERCIAL - SENAC</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>1196</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000021614</NumeroAVCB>
+        <ValidadeAVCB>2015-12-03</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3639242">
+      <Solicitacao id="853227">853227201797</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>853227201797</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3639243">
+      <Solicitacao id="853227">853227201797</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>853227201797</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3639245">
+      <Solicitacao id="853227">853227201797</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>853227201797</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3639241">
+      <Solicitacao id="853227">853227201797</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494867814941</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-15T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="340461">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>45338654000168</CNPJ>
+    <NomeEmpresarial>JABOTICABAL TURISMO EIRELI</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>1979-05-16</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35601283481</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>43677916887</CPFResponsavel>
+    <NomeResponsavel>NILZA MARIA PULTRINI BRESSAN</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022854</Telefone1>
+    <Email>granados@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01969</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Pintos</Logradouro>
+      <NumeroLogradouro>791</NumeroLogradouro>
+      <Complemento>Sala 02</Complemento>
+      <Bairro>Centro</Bairro>
+      <CEP>14870120</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7911200" principal="1" exercida="1" />
+      <CNAE codigo="7912100" principal="0" exercida="1" />
+      <CNAE codigo="7990200" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NILZA MARIA PULTRINI BRESSAN</Nome>
+        <Numero>00043677916887</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3637381">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3637378">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000196789</Numero>
+      <DataEmissao>2016-11-18T00:00:00</DataEmissao>
+      <DataVencimento>2019-11-18T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>852797201724</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>80</AreaEstabelecimento>
+        <NomeProprietario>DANIEL LUIS BEDIM</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>DANIEL LUIS BEDIM</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>80</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000019678</NumeroAVCB>
+        <ValidadeAVCB>2016-11-18</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3637376">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852797201724</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3637377">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852797201724</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3637379">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852797201724</Numero>
+      <DataEmissao>2017-05-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3637380">
+      <Solicitacao id="852797">852797201724</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494853738779</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-15T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="374550">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27513463000103</CNPJ>
+    <NomeEmpresarial>MARIA DE LOURDES GUARIZ MARTINS PERILLO 16707124862</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823044849</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16707124862</CPFResponsavel>
+    <NomeResponsavel>MARIA DE LOURDES GUARIZ MARTINS PERILLO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32031317</Telefone1>
+    <Email>joseaneperillo1@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19055</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DUQUE DE CAXIAS</Logradouro>
+      <NumeroLogradouro>2469</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871040</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520003" principal="0" exercida="1" />
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3617340">
+      <Solicitacao id="848404">848404201727</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-09T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3634091">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="3" />
+      <Status id="8" />
+      <Risco id="1" />
+      <Numero>AVCB 0000139539</Numero>
+      <DataEmissao>2014-10-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>852083201776</ProtocoloAtendimento>
+      <MotivoCassacao id="28641" />
+      <Imovel>
+        <AreaEstabelecimento>142</AreaEstabelecimento>
+        <NomeProprietario>IVAN CARLOS ARAUJO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>IVAN CARLOS ARAUJO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>142</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000013953</NumeroAVCB>
+        <ValidadeAVCB>2014-10-16</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3634089">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3634090">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-12T00:00:00</DataVencimento>
+      <Pergunta id="6127" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10212" />
+    </Licenciamento>
+    <Licenciamento id="3634092">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>852083201776</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-12T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3634093">
+      <Solicitacao id="852083">852083201776</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494609162120</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-12T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

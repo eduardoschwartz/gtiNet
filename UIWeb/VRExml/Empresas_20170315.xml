@@ -1,0 +1,1314 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="176310">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05308829000170</CNPJ>
+    <NomeEmpresarial>MANOEL HUMBERTO FERREIRA DE SOUZA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-07-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2002-09-13</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35118924400</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>91689686804</CPFResponsavel>
+    <NomeResponsavel>MANOEL HUMBERTO FERREIRA DE SOUZA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033538</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32033538</Telefone2>
+    <Email>ocpolachini@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>03693</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Professor Lourenço Vitta</Logradouro>
+      <NumeroLogradouro>111</NumeroLogradouro>
+      <Bairro>Nova Jaboticabal</Bairro>
+      <CEP>14890012</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4292802" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3448431">
+      <Solicitacao id="806517">806517201711</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3448429">
+      <Solicitacao id="806517">806517201711</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806517201711</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-15T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Imovel>
+        <AreaEstabelecimento>35</AreaEstabelecimento>
+        <NomeProprietario>MANOEL HUMBERTO FERREIRA DE SOUZA</NomeProprietario>
+        <EmailProprietario>rh@ocpolachini.com.br</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>MANOEL HUMBERTO FERREIRA DE SOUZA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>435</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3448427">
+      <Solicitacao id="806517">806517201711</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806517201711</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3448428">
+      <Solicitacao id="806517">806517201711</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806517201711</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3448430">
+      <Solicitacao id="806517">806517201711</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806517201711</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="180828">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>21692145000170</CNPJ>
+    <NomeEmpresarial>MARIA VILMA DE JESUS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-01-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-01-16</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129947643</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>38909405520</CPFResponsavel>
+    <NomeResponsavel>MARIA VILMA DE JESUS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036750</Telefone1>
+    <Email>SONIADECORACOES@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25800</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PRIMO BAROSSI</Logradouro>
+      <NumeroLogradouro>31</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL ULISSES GUIMARAES</Bairro>
+      <CEP>14876210</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="1" exercida="1" />
+      <CNAE codigo="5611202" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1591798">
+      <Solicitacao id="353247">353247201562</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-01-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1591796">
+      <Solicitacao id="353247">353247201562</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>353247201562</Numero>
+      <DataEmissao>2015-01-16T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-16T00:00:00</DataVencimento>
+      <Pergunta id="5171" resposta="0" />
+      <Pergunta id="5165" resposta="0" />
+      <Pergunta id="5166" resposta="0" />
+      <Pergunta id="5167" resposta="0" />
+      <Pergunta id="5168" resposta="0" />
+      <Pergunta id="5169" resposta="0" />
+      <Pergunta id="5170" resposta="0" />
+      <Declaracao id="7656" />
+      <Declaracao id="7659" />
+      <Declaracao id="7660" />
+      <Declaracao id="7661" />
+      <Declaracao id="7650" />
+      <Declaracao id="7651" />
+      <Declaracao id="7652" />
+      <Declaracao id="7653" />
+      <Declaracao id="7654" />
+      <Declaracao id="7655" />
+      <Imovel>
+        <AreaEstabelecimento>87</AreaEstabelecimento>
+        <NomeProprietario>JOSE ELOY SOARES FILHO</NomeProprietario>
+        <EmailProprietario>bruno_pulici@yahoo.com.nr</EmailProprietario>
+        <TelefoneProprietario>1632036750</TelefoneProprietario>
+        <NomeResponsavelUso>MARIA VILMA DE JESUS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036750</TelefoneResponsavelUso>
+        <AreaTotal>189</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2498470">
+      <Solicitacao id="567977">567977201688</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>567977201688</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="1591795">
+      <Solicitacao id="353247">353247201562</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>353247201562</Numero>
+      <DataEmissao>2015-01-16T00:00:00</DataEmissao>
+      <DataVencimento>2020-01-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2498471">
+      <Solicitacao id="567977">567977201688</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>120586</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>5.830-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-03-28T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="187486">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>21851943000106</CNPJ>
+    <NomeEmpresarial>JOMAR ISOLAMENTOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-02-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-02-10</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228971151</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>01811183514</CPFResponsavel>
+    <NomeResponsavel>LEANDRO AMORIM DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>ESCR.PAULOLIMA@NETSITE.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01226</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>GENERAL CARNEIRO</Logradouro>
+      <NumeroLogradouro>616</NumeroLogradouro>
+      <Complemento>SALA: 1;</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870040</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="3321000" principal="0" exercida="0" />
+      <CNAE codigo="4329105" principal="1" exercida="0" />
+      <CNAE codigo="4789099" principal="0" exercida="0" />
+      <CNAE codigo="7732202" principal="0" exercida="0" />
+      <CNAE codigo="7739099" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LEANDRO AMORIM DOS SANTOS</Nome>
+        <Numero>00001811183514</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELIOMAR AMORIM DOS SANTOS</Nome>
+        <Numero>00037350213875</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1662595">
+      <Solicitacao id="369373">369373201523</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-02-24T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1662593">
+      <Solicitacao id="369373">369373201523</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>369373201523</Numero>
+      <DataEmissao>2015-02-20T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-20T00:00:00</DataVencimento>
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>TEREZA P. DE H. CARMONA</NomeProprietario>
+        <EmailProprietario>fabiano@limaassociados.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024233</TelefoneProprietario>
+        <NomeResponsavelUso>JOMAR ISOLAMENTOS LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>93</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2500010">
+      <Solicitacao id="568380">568380201646</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568380201646</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1662592">
+      <Solicitacao id="369373">369373201523</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>369373201523</Numero>
+      <DataEmissao>2015-02-20T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-20T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2500011">
+      <Solicitacao id="568380">568380201646</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568380201646</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="189233">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>16422616000190</CNPJ>
+    <NomeEmpresarial>E L MONTAGENS INDUSTRIAIS E ISOLAMENTOS TERMICOS LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-07-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2012-07-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228972735</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>37350213875</CPFResponsavel>
+    <NomeResponsavel>ELIOMAR AMORIM DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>PAULO@LIMAASSOCIADOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>12828</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>VITORIO ALBERTO RAMPAZZO</Logradouro>
+      <NumeroLogradouro>71</NumeroLogradouro>
+      <Bairro>CAPALBO NETO</Bairro>
+      <CEP>14875582</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="3321000" principal="1" exercida="0" />
+      <CNAE codigo="3329599" principal="0" exercida="0" />
+      <CNAE codigo="4329105" principal="0" exercida="0" />
+      <CNAE codigo="4789099" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELIOMAR AMORIM DOS SANTOS</Nome>
+        <Numero>00037350213875</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LEANDRO AMORIM DOS SANTOS</Nome>
+        <Numero>00001811183514</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1708016">
+      <Solicitacao id="379698">379698201504</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-03-13T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1708014">
+      <Solicitacao id="379698">379698201504</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>379698201504</Numero>
+      <DataEmissao>2015-03-12T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-12T00:00:00</DataVencimento>
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Imovel>
+        <AreaEstabelecimento>44</AreaEstabelecimento>
+        <NomeProprietario>RICARDO APARECIDO PAVIANI</NomeProprietario>
+        <EmailProprietario>fabiano@limaassociados.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024233</TelefoneProprietario>
+        <NomeResponsavelUso>E L MONTAGENS INDUSTRIAIS E ISOLAMENTOS TERMICOS LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>44</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2500030">
+      <Solicitacao id="568386">568386201616</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568386201616</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1681695">
+      <Solicitacao id="373737">373737201526</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>373737201526</Numero>
+      <DataEmissao>2015-02-27T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-27T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2500031">
+      <Solicitacao id="568386">568386201616</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568386201616</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="195060">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05856641000166</CNPJ>
+    <NomeEmpresarial>BOMBOKAO PET - SHOP EIRELI  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-08-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>2003-08-28</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35218040341</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16991905852</CPFResponsavel>
+    <NomeResponsavel>ELZYLENE LEGA PALAZZO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32037873</Telefone1>
+    <Email>CONTATO@BOMBOKAO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00154</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JUCA QUITO</Logradouro>
+      <NumeroLogradouro>850</NumeroLogradouro>
+      <Complemento>LOJA 1</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870260</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789004" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELZYLENE LEGA PALAZZO</Nome>
+        <Numero>00016991905852</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2500244">
+      <Solicitacao id="568435">568435201666</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-14T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2672756">
+      <Solicitacao id="611511">611511201612</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>26436</Numero>
+      <DataEmissao>2016-05-24T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-24T00:00:00</DataVencimento>
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>120</AreaEstabelecimento>
+        <NomeProprietario>ELZYLENE LEGA PALAZZO</NomeProprietario>
+        <EmailProprietario>RECURSOSHUMANOS@LOGOSCONT.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>ELZYLENE LEGA PALAZZO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>310</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>26436</NumeroAVCB>
+        <ValidadeAVCB>2020-03-24</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2672754">
+      <Solicitacao id="611511">611511201612</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>611511201612</Numero>
+      <DataEmissao>2016-05-24T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2672755">
+      <Solicitacao id="611511">611511201612</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>611511201612</Numero>
+      <DataEmissao>2016-05-24T00:00:00</DataEmissao>
+      <DataVencimento>2021-05-24T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2672757">
+      <Solicitacao id="611511">611511201612</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>611511201612</Numero>
+      <DataEmissao>2016-05-24T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-24T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="213922">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22684648000167</CNPJ>
+    <NomeEmpresarial>D. R. PORELLI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-06-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-06-19</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130240531</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>10018526802</CPFResponsavel>
+    <NomeResponsavel>DEVANILDA REGINA PORELLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32035930</Telefone1>
+    <Email>DIVA@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01681</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FLORIANO PEIXOTO</Logradouro>
+      <NumeroLogradouro>886</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870370</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1937064">
+      <Solicitacao id="432227">432227201535</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-06-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1937062">
+      <Solicitacao id="432227">432227201535</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>432227201535</Numero>
+      <DataEmissao>2015-06-23T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-23T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>115</AreaEstabelecimento>
+        <NomeProprietario>LUIS CARLOS DE JORGE</NomeProprietario>
+        <EmailProprietario>lcjorge@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1632035930</TelefoneProprietario>
+        <NomeResponsavelUso>DEVANILDA REGINA PORELLI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632035930</TelefoneResponsavelUso>
+        <AreaTotal>132</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3309951">
+      <Solicitacao id="771849">771849201799</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>771849201799</Numero>
+      <DataEmissao>2017-01-26T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-26T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1937061">
+      <Solicitacao id="432227">432227201535</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>432227201535</Numero>
+      <DataEmissao>2015-06-23T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-23T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3309952">
+      <Solicitacao id="771849">771849201799</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>771849201799</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>5.686-3/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-03-14T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="218399">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>57633786000100</CNPJ>
+    <NomeEmpresarial>AUTO POSTO PACIFICO LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-10-04</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1987-06-29</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35207515670</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05135044868</CPFResponsavel>
+    <NomeResponsavel>JOSE CARLOS PACIFICO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020030</Telefone1>
+    <Email>AUTOPOSTOPACIFICO@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>03775</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>CARLOS BERCHIERI</Logradouro>
+      <NumeroLogradouro>S/N</NumeroLogradouro>
+      <Complemento>ESQ.C/R.DR.BRAGUITA       N. 55</Complemento>
+      <Bairro>JARDIM SANTA RITA</Bairro>
+      <CEP>14887050</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4731800" principal="1" exercida="1" />
+      <CNAE codigo="4732600" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE CARLOS PACIFICO</Nome>
+        <Numero>00005135044868</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>APARECIDA CONCEICAO SBRAGIO PACIFICO</Nome>
+        <Numero>00005137580899</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2920902">
+      <Solicitacao id="673980">673980201630</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-08-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2842922">
+      <Solicitacao id="654196">654196201697</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>147449</Numero>
+      <DataEmissao>2016-06-01T00:00:00</DataEmissao>
+      <DataVencimento>2019-06-01T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>654196201697</ProtocoloAtendimento>
+      <DataProtocolo>2016-07-27T00:00:00</DataProtocolo>
+      <Pergunta id="5449" resposta="1" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>72</AreaEstabelecimento>
+        <NomeProprietario>ALCEU ALVES DE SOUZA</NomeProprietario>
+        <EmailProprietario>escritoriogenesis@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1734625550</TelefoneProprietario>
+        <NomeResponsavelUso>PROTECFONO FONOAUDIOLOGIA LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1734625550</TelefoneResponsavelUso>
+        <AreaTotal>72</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2473533">
+      <Solicitacao id="561732">561732201638</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>561732201638</Numero>
+      <DataEmissao>2016-03-02T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2920900">
+      <Solicitacao id="673980">673980201630</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001956</Numero>
+      <DataEmissao>2016-06-29T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-29T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>91195073</ProtocoloAtendimento>
+      <DataProtocolo>2016-08-22T00:00:00</DataProtocolo>
+      <Declaracao id="10201" />
+      <RestricaoOperacao id="3477" />
+    </Licenciamento>
+    <Licenciamento id="2920901">
+      <Solicitacao id="673980">673980201630</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>105527</Numero>
+      <DataEmissao>2016-10-13T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-13T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>13.916-5/2.016</ProtocoloAtendimento>
+      <DataProtocolo>2016-08-31T00:00:00</DataProtocolo>
+      <RestricaoOperacao id="1058" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="268571">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>10727150000236</CNPJ>
+    <NomeEmpresarial>VARANDAS EQUIPAMENTOS PARA GINASTICA E ACADEMIA LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-03-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35223045011</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>28883485866</CPFResponsavel>
+    <NomeResponsavel>GUSTAVO VERRI VARANDAS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>07540</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSOR VALDIR PEDRO MORANO</Logradouro>
+      <NumeroLogradouro>593</NumeroLogradouro>
+      <Bairro>JARDIM BELA VISTA</Bairro>
+      <CEP>14883260</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9313100" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GUSTAVO VERRI VARANDAS</Nome>
+        <Numero>00028883485866</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DANIELA NOMURA VARANDAS</Nome>
+        <Numero>00027497853830</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <TipoCRCContadorPJ>O</TipoCRCContadorPJ>
+    <ClassificacaoCRCContadorPJ>2</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>020713</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>02991920000144</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2501122">
+      <Solicitacao id="568666">568666201666</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2501120">
+      <Solicitacao id="568666">568666201666</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>568666201666</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>487</AreaEstabelecimento>
+        <NomeProprietario>VARANDAS EQUIPAMENTOS</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>VARANDAS EQUIPAMENTOS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>487</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2501118">
+      <Solicitacao id="568666">568666201666</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568666201666</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+      <Declaracao id="7368" />
+    </Licenciamento>
+    <Licenciamento id="2501119">
+      <Solicitacao id="568666">568666201666</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>568666201666</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-14T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2501121">
+      <Solicitacao id="568666">568666201666</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>568666201666</Numero>
+      <DataEmissao>2016-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="333809">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>11571173000186</CNPJ>
+    <NomeEmpresarial>RICARDO MIRANDA DURELLI BRUNINI</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-02-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2010-02-19</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35800087088</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>40637339800</CPFResponsavel>
+    <NomeResponsavel>RICARDO MIRANDA DURELLI BRUNINI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32039517</Telefone1>
+    <Email>JBPETRUCCELLI@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>07539</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Professor Valdir Pedro Morano</Logradouro>
+      <NumeroLogradouro>613</NumeroLogradouro>
+      <Bairro>Santa Luzia</Bairro>
+      <CEP>14883260</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4763604" principal="1" exercida="1" />
+      <CNAE codigo="4771704" principal="0" exercida="1" />
+      <CNAE codigo="4789004" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>135246</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>34348182868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3445632">
+      <Solicitacao id="805805">805805201714</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3150649">
+      <Solicitacao id="732120">732120201650</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>182616</Numero>
+      <DataEmissao>2016-11-22T00:00:00</DataEmissao>
+      <DataVencimento>2019-09-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>128</AreaEstabelecimento>
+        <NomeProprietario>ANDREIA LUIZA DE LIMA CARDOSO</NomeProprietario>
+        <EmailProprietario>jbpetruccelli@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632024972</TelefoneProprietario>
+        <NomeResponsavelUso>RICARDO MIRANDA DURELLI BRUNINI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632024972</TelefoneResponsavelUso>
+        <AreaTotal>260</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>182616</NumeroAVCB>
+        <ValidadeAVCB>2019-09-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3445630">
+      <Solicitacao id="805805">805805201714</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>805805201714</Numero>
+      <DataEmissao>2017-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3445631">
+      <Solicitacao id="805805">805805201714</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>805805201714</Numero>
+      <DataEmissao>2017-03-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-14T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3150650">
+      <Solicitacao id="732120">732120201650</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>732120201650</Numero>
+      <DataEmissao>2016-11-22T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="360737">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>06905538000121</CNPJ>
+    <NomeEmpresarial>DANIEL RICARDO POLACHINI - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-08-02</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2004-08-02</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35120276690</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14444110805</CPFResponsavel>
+    <NomeResponsavel>DANIEL RICARDO POLACHINI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033538</Telefone1>
+    <Email>ospolachini@asbybe.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>28911</SetorQuadraLote>
+      <TipoLogradouro>Outros</TipoLogradouro>
+      <Logradouro>Praca Duílio Poli</Logradouro>
+      <NumeroLogradouro>98</NumeroLogradouro>
+      <Bairro>Nova Jaboticabal</Bairro>
+      <CEP>14887020</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4618499" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3448387">
+      <Solicitacao id="806508">806508201704</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3448385">
+      <Solicitacao id="806508">806508201704</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806508201704</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-15T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>35</AreaEstabelecimento>
+        <NomeProprietario>DANIEL RICARDO POLACHINI EPP</NomeProprietario>
+        <EmailProprietario>rh@ocpolachini.com.br</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>DANIEL RICARDO POLACHINI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>313</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3448383">
+      <Solicitacao id="806508">806508201704</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806508201704</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3448384">
+      <Solicitacao id="806508">806508201704</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806508201704</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3448386">
+      <Solicitacao id="806508">806508201704</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>806508201704</Numero>
+      <DataEmissao>2017-03-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

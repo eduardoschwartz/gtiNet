@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="124649">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19787740000148</CNPJ>
+    <NomeEmpresarial>ROSEMARI BONIFACIO DE OLIVEIRA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-02-25</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129296928</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17879309802</CPFResponsavel>
+    <NomeResponsavel>ROSEMARI BONIFACIO DE OLIVEIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027966</Telefone1>
+    <Email>helija@helija.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>07707</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSOR VALDIR PEDRO MORANO</Logradouro>
+      <NumeroLogradouro>767</NumeroLogradouro>
+      <Bairro>VILA SAUL BORSARI</Bairro>
+      <CEP>14883280</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1034730">
+      <Solicitacao id="226153">226153201448</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1034728">
+      <Solicitacao id="226153">226153201448</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226153201448</Numero>
+      <DataEmissao>2014-03-07T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-07T00:00:00</DataVencimento>
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4279" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Pergunta id="4282" resposta="0" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6348" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Imovel>
+        <AreaEstabelecimento>90</AreaEstabelecimento>
+        <NomeProprietario>CLEYDE VOLTAREL CORREA ALVES</NomeProprietario>
+        <EmailProprietario>helija@helija.com.br</EmailProprietario>
+        <TelefoneProprietario>1632027966</TelefoneProprietario>
+        <NomeResponsavelUso>ROSEMARI BONIFACIO DE OLIVEIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632027966</TelefoneResponsavelUso>
+        <AreaTotal>702</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2441911">
+      <Solicitacao id="553774">553774201659</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>553774201659</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-18T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1034727">
+      <Solicitacao id="226153">226153201448</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>226153201448</Numero>
+      <DataEmissao>2014-03-07T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-07T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2441912">
+      <Solicitacao id="553774">553774201659</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>553774201659</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-18T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="213311">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18116296000176</CNPJ>
+    <NomeEmpresarial>DE SMET EMPRAL - PROJETOS, GESTAO, CONSTRUCAO E EQUIPAMENTOS LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-05-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-05-15</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227379054</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>07879992880</CPFResponsavel>
+    <NomeResponsavel>FRANCISCO JOSE DE ALMEIDA OLIVATI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32091999</Telefone1>
+    <Email>acarlos@iu.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>03429</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SANTO ANDRE</Logradouro>
+      <NumeroLogradouro>650</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14890000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4120400" principal="0" exercida="1" />
+      <CNAE codigo="4291000" principal="0" exercida="1" />
+      <CNAE codigo="4292802" principal="0" exercida="1" />
+      <CNAE codigo="4399101" principal="0" exercida="1" />
+      <CNAE codigo="4663000" principal="0" exercida="1" />
+      <CNAE codigo="7112000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>DE SMET CONTRACTORS DO BRASIL - PROJETOS, GESTAO, CONSTRUCAO E EQUIPAMENTOS LTDA</Nome>
+        <Numero>10579814000186</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO ADRIANO DE CARVALHO TAMBELLINI</Nome>
+        <Numero>00007169967820</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANTONIO BELLISSIMO NETO</Nome>
+        <Numero>00012227735899</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FRANCISCO JOSE DE ALMEIDA OLIVATI</Nome>
+        <Numero>00007879992880</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>219757</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>12227735899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1930550">
+      <Solicitacao id="430764">430764201579</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-06-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1930548">
+      <Solicitacao id="430764">430764201579</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>56708</Numero>
+      <DataEmissao>2014-02-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-19T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>430764.2015-79</ProtocoloAtendimento>
+      <DataProtocolo>2015-06-22T00:00:00</DataProtocolo>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>144</AreaEstabelecimento>
+        <NomeProprietario>ANTONIO CARLOS JEREMIAS</NomeProprietario>
+        <EmailProprietario>visao@araraquara.com.br</EmailProprietario>
+        <TelefoneProprietario>1633019200</TelefoneProprietario>
+        <NomeResponsavelUso>ENOQUE PEREIRA DA ROCHA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1633019200</TelefoneResponsavelUso>
+        <AreaTotal>282</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2726707">
+      <Solicitacao id="625026">625026201644</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>625026201644</Numero>
+      <DataEmissao>2016-06-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1930547">
+      <Solicitacao id="430764">430764201579</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>430764201579</Numero>
+      <DataEmissao>2015-06-19T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-19T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2726708">
+      <Solicitacao id="625026">625026201644</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>625026201644</Numero>
+      <DataEmissao>2016-06-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="229706">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12781594000102</CNPJ>
+    <NomeEmpresarial>DROGARIA SAO LUCAS JABOTICABAL LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-10-22</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-10-22</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229459896</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>36959378826</CPFResponsavel>
+    <NomeResponsavel>CIBELE DE CASSIA ORTOLANI MARQUES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <Email>ocontabil-brasil@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>09066</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MADRE PAULA</Logradouro>
+      <NumeroLogradouro>230</NumeroLogradouro>
+      <Bairro>JARDIM PAULISTA</Bairro>
+      <CEP>14875348</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4771701" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>TIAGO MARTINS RODRIGUES</Nome>
+        <Numero>00031651736804</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CIBELE DE CASSIA ORTOLANI MARQUES</Nome>
+        <Numero>00036959378826</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2105047">
+      <Solicitacao id="471010">471010201559</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-08-28T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2273423">
+      <Solicitacao id="511720">511720201512</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>94052</Numero>
+      <DataEmissao>2015-11-16T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-24T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>153</AreaEstabelecimento>
+        <NomeProprietario>DROGARIA SAO LUCAS JABOTICABAL LTDA - ME</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>DROGARIA SAO LUCAS JABOTICABAL LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>283</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>94052</NumeroAVCB>
+        <ValidadeAVCB>2017-06-24</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2273421">
+      <Solicitacao id="511720">511720201512</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>35243031147700007218</Numero>
+      <DataEmissao>2016-01-08T00:00:00</DataEmissao>
+      <DataVencimento>2016-07-23T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>014/16</ProtocoloAtendimento>
+      <DataProtocolo>2016-01-08T00:00:00</DataProtocolo>
+    </Licenciamento>
+    <Licenciamento id="2273422">
+      <Solicitacao id="511720">511720201512</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>511720201512</Numero>
+      <DataEmissao>2015-11-16T00:00:00</DataEmissao>
+      <DataVencimento>2020-11-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2273424">
+      <Solicitacao id="511720">511720201512</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>117322</Numero>
+      <DataEmissao>2016-02-19T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-19T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>677-7/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-01-18T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="263017">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24153762000196</CNPJ>
+    <NomeEmpresarial>OLEGARIO E CARNEVALLI REPRESENTACAO COMERCIAL LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-02-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229710688</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>38327741810</CPFResponsavel>
+    <NomeResponsavel>ELLEN ZAIA OLEGARIO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32049310</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>97314098</Telefone2>
+    <Email>VENDAS_EOLC@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>12574</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>GUIDO PENARIOL</Logradouro>
+      <NumeroLogradouro>330</NumeroLogradouro>
+      <Bairro>JARDIM ALVORADA</Bairro>
+      <CEP>14875625</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4616800" principal="1" exercida="0" />
+      <CNAE codigo="4781400" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELLEN ZAIA OLEGARIO</Nome>
+        <Numero>00038327741810</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ENZO OLEGARIO CARNEVALLI</Nome>
+        <Numero>00050628334850</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2445018">
+      <Solicitacao id="554573">554573201601</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2445016">
+      <Solicitacao id="554573">554573201601</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>554573201601</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-18T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>204</AreaEstabelecimento>
+        <NomeProprietario>ELLEN ZAIA OLEGARIO</NomeProprietario>
+        <EmailProprietario>RECURSOSHUMANOS@LOGOSCONT.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>ELLEN ZAIA OLEGARIO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>250</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2445014">
+      <Solicitacao id="554573">554573201601</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>554573201601</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-18T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2445015">
+      <Solicitacao id="554573">554573201601</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>554573201601</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-18T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2445017">
+      <Solicitacao id="554573">554573201601</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>554573201601</Numero>
+      <DataEmissao>2016-02-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-18T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

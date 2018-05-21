@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="367989">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22608522000537</CNPJ>
+    <NomeEmpresarial>YED AGROPECUARIA LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-11-03</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229205037</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11668833883</CPFResponsavel>
+    <NomeResponsavel>SUELY BALBO ROCHA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>39477926</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>39464134</Telefone2>
+    <Email>SOLUTION@SOLUTIONCONSULTING.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>6120570063356</SetorQuadraLote>
+      <TipoLogradouro>Rodovia</TipoLogradouro>
+      <Logradouro>CARLOS TONANI</Logradouro>
+      <NumeroLogradouro>KM 28</NumeroLogradouro>
+      <Complemento>FAZENDA SANTA RITA</Complemento>
+      <Bairro>JARDIM SAO MARCOS II</Bairro>
+      <CEP>14888000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0113000" principal="0" exercida="0" />
+      <CNAE codigo="0161003" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>SUELY BALBO ROCHA</Nome>
+        <Numero>00011668833883</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PEDRO HENRIQUE BALBO ROCHA</Nome>
+        <Numero>00038920722803</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAOLLA BALBO ROCHA</Nome>
+        <Numero>00038920721831</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>162352</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07776528897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3584362">
+      <Solicitacao id="841085">841085201769</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-28T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3529060">
+      <Solicitacao id="826419">826419201767</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826419201767</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-10T00:00:00</DataVencimento>
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Declaracao id="8279" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>YED AGROPECUARIA LTDA</NomeProprietario>
+        <EmailProprietario>solution@solutionconsulting.com.br</EmailProprietario>
+        <TelefoneProprietario>1639477926</TelefoneProprietario>
+        <NomeResponsavelUso>YED AGROPECUARIA LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1639477926</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3529058">
+      <Solicitacao id="826419">826419201767</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826419201767</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3529059">
+      <Solicitacao id="826419">826419201767</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826419201767</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3529061">
+      <Solicitacao id="826419">826419201767</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826419201767</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3584361">
+      <Solicitacao id="841085">841085201769</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493390065620</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-28T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

@@ -1,0 +1,650 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="216506">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17777535000176</CNPJ>
+    <NomeEmpresarial>JOSE RENATO MARQUES &amp;amp; CIA LTDA. - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-03-19</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-03-19</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227365398</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>07188616809</CPFResponsavel>
+    <NomeResponsavel>JOSE RENATO MARQUES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023004</Telefone1>
+    <Email>corfor@corfor.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25409</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>AFONSO ANTONIO BERLINGIERI</Logradouro>
+      <NumeroLogradouro>246</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL ULISSES GUIMARAES</Bairro>
+      <CEP>14876209</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4721102" principal="1" exercida="1" />
+      <CNAE codigo="4723700" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE RENATO MARQUES</Nome>
+        <Numero>00007188616809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FRANCIELI BISSOLLI MARQUES</Nome>
+        <Numero>00046416214890</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>076026</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>45920265868</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1964593">
+      <Solicitacao id="438480">438480201526</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-07-02T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1964591">
+      <Solicitacao id="438480">438480201526</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>74584</Numero>
+      <DataEmissao>2015-07-02T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-31T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>159</AreaEstabelecimento>
+        <NomeProprietario>JOSE RENATO MARQUES</NomeProprietario>
+        <EmailProprietario>joserenatomarques@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632023004</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE RENATO MARQUES</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023004</TelefoneResponsavelUso>
+        <AreaTotal>185</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>74584</NumeroAVCB>
+        <ValidadeAVCB>2017-03-31</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3104678">
+      <Solicitacao id="720546">720546201651</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720546201651</Numero>
+      <DataEmissao>2016-11-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-01T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="1964590">
+      <Solicitacao id="438480">438480201526</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>438480201526</Numero>
+      <DataEmissao>2015-07-02T00:00:00</DataEmissao>
+      <DataVencimento>2020-07-02T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3104679">
+      <Solicitacao id="720546">720546201651</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>720546201651</Numero>
+      <DataEmissao>2016-11-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-01T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="221092">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>17699431000190</CNPJ>
+    <NomeEmpresarial>M.F. SERVICOS DE CLINICA MEDICA, MEDICINA OCUPACIONAL E SEGURANCA DO TRABALHO LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-03-05</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-03-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227316044</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>98166328887</CPFResponsavel>
+    <NomeResponsavel>FRANCISCO CARLOS DELAMONICA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>beraldo@beraldoassociados.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00533</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Mimi Alemagna</Logradouro>
+      <NumeroLogradouro>317</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870280</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7119704" principal="0" exercida="1" />
+      <CNAE codigo="8630503" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FRANCISCO CARLOS DELAMONICA</Nome>
+        <Numero>00098166328887</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCIA REGINA DA SILVA</Nome>
+        <Numero>00018106759873</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2012936">
+      <Solicitacao id="449479">449479201518</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-07-30T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2537946">
+      <Solicitacao id="577973">577973201657</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>127873</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-30T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>421</AreaEstabelecimento>
+        <NomeProprietario>M.F. SERVICOS DE CLINICA MEDICA, MEDICINA OCUPACIONAL E SEGURANC</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>M.F. SERVICOS DE CLINICA MEDICA, MEDICINA OCUPACIONAL E SEGURANC</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>421</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>127873</NumeroAVCB>
+        <ValidadeAVCB>2021-03-30</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2537944">
+      <Solicitacao id="577973">577973201657</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>577973201657</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-30T00:00:00</DataVencimento>
+      <Pergunta id="5058" resposta="0" />
+      <Declaracao id="7355" />
+    </Licenciamento>
+    <Licenciamento id="2537945">
+      <Solicitacao id="577973">577973201657</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>577973201657</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-30T00:00:00</DataVencimento>
+      <Pergunta id="4238" resposta="0" />
+      <Declaracao id="6288" />
+      <Declaracao id="6299" />
+    </Licenciamento>
+    <Licenciamento id="2537947">
+      <Solicitacao id="577973">577973201657</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>119088</Numero>
+      <DataEmissao>2016-04-14T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-14T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>6.497-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-04-08T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="223745">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18628170000180</CNPJ>
+    <NomeEmpresarial>FAB SERVICE COMERCIO E REPARACAO DE MAQUINAS LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-08-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-08-06</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227707418</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21420587870</CPFResponsavel>
+    <NomeResponsavel>FLAVIANA APARECIDA BASSI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26394</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Sebastião Pedrinho</Logradouro>
+      <NumeroLogradouro>251</NumeroLogradouro>
+      <Bairro>Jardim Bothânico</Bairro>
+      <CEP>14875042</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="3314711" principal="0" exercida="1" />
+      <CNAE codigo="4744001" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>FLAVIANA APARECIDA BASSI</Nome>
+        <Numero>00021420587870</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>BRANDINA JUS BASSI</Nome>
+        <Numero>00017879327886</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>193956</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>09888182803</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2040316">
+      <Solicitacao id="455858">455858201573</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-08-05T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2537918">
+      <Solicitacao id="577966">577966201698</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>577966201698</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-30T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>301</AreaEstabelecimento>
+        <NomeProprietario>FLAVIANA APARECIDA BASSI</NomeProprietario>
+        <EmailProprietario>rodrigo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>FAB SERVICE COMERCIO E REPARACAO DE MAQUINAS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>301</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2537916">
+      <Solicitacao id="577966">577966201698</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>577966201698</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-30T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2537917">
+      <Solicitacao id="577966">577966201698</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>577966201698</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-30T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2537919">
+      <Solicitacao id="577966">577966201698</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>577966201698</Numero>
+      <DataEmissao>2016-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-30T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="294951">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>11378609000115</CNPJ>
+    <NomeEmpresarial>VICTOR T.MONTECHI SANCHEZ - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2009-11-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2009-11-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35221517196</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>41195430809</CPFResponsavel>
+    <NomeResponsavel>VICTOR THOMAZ MONTECHI SANCHEZ</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033538</Telefone1>
+    <Email>ocpolachini@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00908</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>RUI BARBOSA</Logradouro>
+      <NumeroLogradouro>427</NumeroLogradouro>
+      <Complemento>B</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870300</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4729699" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3500988">
+      <Solicitacao id="819537">819537201744</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>288200</Numero>
+      <DataEmissao>2017-03-31T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-20T00:00:00</DataVencimento>
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Imovel>
+        <AreaEstabelecimento>60</AreaEstabelecimento>
+        <NomeProprietario>MONTECHI E SANCHEZ LTDA EPP</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>VICTOR T MONTECHI SANCHEZ ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>426</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>288200</NumeroAVCB>
+        <ValidadeAVCB>2020-03-20</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2758504">
+      <Solicitacao id="633024">633024201699</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>633024201699</Numero>
+      <DataEmissao>2016-06-24T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-24T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="2758505">
+      <Solicitacao id="633024">633024201699</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>633024201699</Numero>
+      <DataEmissao>2016-06-24T00:00:00</DataEmissao>
+      <DataVencimento>2021-06-24T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="365422">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15531698000149</CNPJ>
+    <NomeEmpresarial>J. E. SOSTENA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-05-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-05-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35128039107</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09282312836</CPFResponsavel>
+    <NomeResponsavel>JOSE EDUARDO SOSTENA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32028765</Telefone1>
+    <Email>atendimento@weaathenas.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14523</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSOR ANTONIO RUETE</Logradouro>
+      <NumeroLogradouro>254</NumeroLogradouro>
+      <Complemento>SALA 04</Complemento>
+      <Bairro>Nova Jaboticabal</Bairro>
+      <CEP>14887032</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4757100" principal="1" exercida="1" />
+      <CNAE codigo="8020000" principal="0" exercida="1" />
+      <CNAE codigo="8111700" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3501086">
+      <Solicitacao id="819559">819559201788</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3501084">
+      <Solicitacao id="819559">819559201788</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>819559201788</Numero>
+      <DataEmissao>2017-03-31T00:00:00</DataEmissao>
+      <DataVencimento>2020-03-31T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>270</AreaEstabelecimento>
+        <NomeProprietario>J E SOSTENA ME</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>J E SOSTENA ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>270</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3501082">
+      <Solicitacao id="819559">819559201788</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>819559201788</Numero>
+      <DataEmissao>2017-03-31T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-31T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3501083">
+      <Solicitacao id="819559">819559201788</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>819559201788</Numero>
+      <DataEmissao>2017-03-31T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-31T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3501085">
+      <Solicitacao id="819559">819559201788</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>819559201788</Numero>
+      <DataEmissao>2017-03-31T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-31T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

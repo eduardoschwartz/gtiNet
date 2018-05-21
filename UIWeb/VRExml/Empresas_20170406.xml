@@ -1,0 +1,621 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="273715">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24525012000106</CNPJ>
+    <NomeEmpresarial>ANDREIA DE SOUZA SILVA SCARPIN - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-04-05</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-04-05</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130674361</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17110675807</CPFResponsavel>
+    <NomeResponsavel>ANDREIA DE SOUZA SILVA SCARPIN</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32024484</Telefone1>
+    <Email>BRUNO_PULICI@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17809</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JOSE CARAM SABBAG</Logradouro>
+      <NumeroLogradouro>281</NumeroLogradouro>
+      <Bairro>PARQUE DO TREVO</Bairro>
+      <CEP>14871735</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4744001" principal="1" exercida="1" />
+      <CNAE codigo="4789004" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2552534">
+      <Solicitacao id="581605">581605201671</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-08T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2552532">
+      <Solicitacao id="581605">581605201671</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>581605201671</Numero>
+      <DataEmissao>2016-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-05T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>180</AreaEstabelecimento>
+        <NomeProprietario>APARECIDO JULIO DE PAULA</NomeProprietario>
+        <EmailProprietario>BRUNO_PULICI@YAHOO.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632036750</TelefoneProprietario>
+        <NomeResponsavelUso>ANDREIA DE SOUZA SILVA SCARPIN</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036750</TelefoneResponsavelUso>
+        <AreaTotal>300</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2552530">
+      <Solicitacao id="581605">581605201671</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>581605201671</Numero>
+      <DataEmissao>2016-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2552531">
+      <Solicitacao id="581605">581605201671</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>581605201671</Numero>
+      <DataEmissao>2016-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-05T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2552533">
+      <Solicitacao id="581605">581605201671</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>581605201671</Numero>
+      <DataEmissao>2016-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-05T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="331072">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>10368780000180</CNPJ>
+    <NomeEmpresarial>JACKSON GOMES MARCIANO DA SILVA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2008-09-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2008-09-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131268740</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19962235855</CPFResponsavel>
+    <NomeResponsavel>JACKSON GOMES MARCIANO DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>99756363</Telefone1>
+    <Email>ANALISTADOTNET@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>20360</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Jayme Stefani</Logradouro>
+      <NumeroLogradouro>220</NumeroLogradouro>
+      <Bairro>Jardim das Rosas</Bairro>
+      <CEP>14871810</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6209100" principal="1" exercida="1" />
+      <CNAE codigo="6204000" principal="0" exercida="1" />
+      <CNAE codigo="6202300" principal="0" exercida="1" />
+      <CNAE codigo="6311900" principal="0" exercida="1" />
+      <CNAE codigo="6203100" principal="0" exercida="1" />
+      <CNAE codigo="6201502" principal="0" exercida="1" />
+      <CNAE codigo="6201501" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3521961">
+      <Solicitacao id="824710">824710201701</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3122648">
+      <Solicitacao id="725035">725035201641</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>725035201641</Numero>
+      <DataEmissao>2016-11-09T00:00:00</DataEmissao>
+      <DataVencimento>2019-11-09T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>16</AreaEstabelecimento>
+        <NomeProprietario>JACKSON GOMES MARCIANO DA SILVA</NomeProprietario>
+        <EmailProprietario>analistadotnet@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1699756363</TelefoneProprietario>
+        <NomeResponsavelUso>JACKSON - SISTEMAS DE INFORMATICA LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1699756363</TelefoneResponsavelUso>
+        <AreaTotal>148</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3521959">
+      <Solicitacao id="824710">824710201701</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824710201701</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+      <Pergunta id="5075" resposta="0" />
+    </Licenciamento>
+    <Licenciamento id="3122647">
+      <Solicitacao id="725035">725035201641</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>725035201641</Numero>
+      <DataEmissao>2016-11-09T00:00:00</DataEmissao>
+      <DataVencimento>2021-11-09T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3521960">
+      <Solicitacao id="824710">824710201701</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824710201701</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="361630">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>13037029000190</CNPJ>
+    <NomeEmpresarial>CENTRO ESPIRITA A CAMINHO DA LUZ</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-12-16</DataSituacaoCadastral>
+    <NaturezaJuridica>3220</NaturezaJuridica>
+    <DataAbertura>2010-12-16</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>4917</NumeroRegistro>
+    <TipoRegistro>4</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>08326076813</CPFResponsavel>
+    <NomeResponsavel>IZABEL THEOBALDO DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021327</Telefone1>
+    <Email>CONTABIL@LOGOSCONT.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26898</SetorQuadraLote>
+      <TipoLogradouro>Alameda</TipoLogradouro>
+      <Logradouro>RAFAEL LINARDI</Logradouro>
+      <NumeroLogradouro>160</NumeroLogradouro>
+      <Bairro>JARDIM MORUMBI</Bairro>
+      <CEP>14890244</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9491000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>IZABEL THEOBALDO DA SILVA</Nome>
+        <Numero>00008326076813</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>158104</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02846104883</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3458268">
+      <Solicitacao id="808943">808943201778</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-20T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3458266">
+      <Solicitacao id="808943">808943201778</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808943201778</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-06T00:00:00</DataVencimento>
+      <Pergunta id="5455" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8275" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Imovel>
+        <AreaEstabelecimento>193</AreaEstabelecimento>
+        <NomeProprietario>IZABEL THEOBALDO DA SILVA</NomeProprietario>
+        <EmailProprietario>RECURSOSHUMANOS@LOGOSCONT.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>IZABEL THEOBALDO DA SILVA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>3839</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3458264">
+      <Solicitacao id="808943">808943201778</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808943201778</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3458265">
+      <Solicitacao id="808943">808943201778</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808943201778</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3458267">
+      <Solicitacao id="808943">808943201778</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>808943201778</Numero>
+      <DataEmissao>2017-03-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-17T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="365368">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27429180000188</CNPJ>
+    <NomeEmpresarial>JOSE ONOFRE COLOVATTI JUNIOR 21591939844</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-30</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-03-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35822887231</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>21591939844</CPFResponsavel>
+    <NomeResponsavel>JOSE ONOFRE COLOVATTI JUNIOR</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>96381810</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>08276</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JOSE RODRIGUES DUARTE</Logradouro>
+      <NumeroLogradouro>201</NumeroLogradouro>
+      <Bairro>SANTA LUZIA</Bairro>
+      <CEP>14883266</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520001" principal="1" exercida="1" />
+      <CNAE codigo="4530703" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3519672">
+      <Solicitacao id="824138">824138201747</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3521521">
+      <Solicitacao id="824598">824598201799</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824598201799</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>143</AreaEstabelecimento>
+        <NomeProprietario>JOSE ONOFRI COLOVATTI</NomeProprietario>
+        <EmailProprietario>orgatec_contab@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1696381810</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE ONOFRI COLOVATTI JUNIOR 21591939844</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1696381810</TelefoneResponsavelUso>
+        <AreaTotal>292</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3521519">
+      <Solicitacao id="824598">824598201799</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824598201799</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3521520">
+      <Solicitacao id="824598">824598201799</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824598201799</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-06T00:00:00</DataVencimento>
+      <Pergunta id="6127" resposta="0" />
+      <Declaracao id="10201" />
+      <Declaracao id="10212" />
+    </Licenciamento>
+    <Licenciamento id="3521522">
+      <Solicitacao id="824598">824598201799</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>824598201799</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="366573">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15821231000133</CNPJ>
+    <NomeEmpresarial>MARCUS VINICIUS DEL GROSSI 13855497850</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-07-02</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-07-02</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35805326391</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>13855497850</CPFResponsavel>
+    <NomeResponsavel>MARCUS VINICIUS DEL GROSSI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97443152</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21779</SetorQuadraLote>
+      <TipoLogradouro>Travessa</TipoLogradouro>
+      <Logradouro>Benedito Franco de Oliveira Filho</Logradouro>
+      <NumeroLogradouro>101</NumeroLogradouro>
+      <Bairro>Parque do Trevo</Bairro>
+      <CEP>14871718</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8230001" principal="1" exercida="1" />
+      <CNAE codigo="8111700" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3514000">
+      <Solicitacao id="822767">822767201723</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3513998">
+      <Solicitacao id="822767">822767201723</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>822767201723</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-06T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Imovel>
+        <AreaEstabelecimento>70</AreaEstabelecimento>
+        <NomeProprietario>MARCUS VINICIUS DEL GROSSI</NomeProprietario>
+        <EmailProprietario>RECURSOSHUMANOS@LOGOSCONT.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632022917</TelefoneProprietario>
+        <NomeResponsavelUso>MARCUS VINICIUS DEL GROSSI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022917</TelefoneResponsavelUso>
+        <AreaTotal>128</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3513996">
+      <Solicitacao id="822767">822767201723</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>822767201723</Numero>
+      <DataEmissao>2017-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3513997">
+      <Solicitacao id="822767">822767201723</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>822767201723</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3513999">
+      <Solicitacao id="822767">822767201723</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>822767201723</Numero>
+      <DataEmissao>2017-04-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-05T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

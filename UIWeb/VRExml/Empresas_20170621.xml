@@ -1,0 +1,635 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="241130">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05634716000164</CNPJ>
+    <NomeEmpresarial>TECSUPORT RADIOCOM E TELECOM LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-01-17</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2003-04-29</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35119335238</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11763282805</CPFResponsavel>
+    <NomeResponsavel>RENATO JUNIOR BIANCHI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022165</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32022165</Telefone2>
+    <Email>orgcardoso@terra.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>32694</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSOR  ANTONIO RUETE</Logradouro>
+      <NumeroLogradouro>446</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14887032</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4744001" principal="0" exercida="1" />
+      <CNAE codigo="4751201" principal="0" exercida="1" />
+      <CNAE codigo="4752100" principal="1" exercida="1" />
+      <CNAE codigo="4789099" principal="0" exercida="1" />
+      <CNAE codigo="9512600" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATO JUNIOR BIANCHI</Nome>
+        <Numero>00011763282805</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO CESAR BIANCHI</Nome>
+        <Numero>00003137935814</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184659</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05904457820</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2223231">
+      <Solicitacao id="499409">499409201575</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-10-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2223229">
+      <Solicitacao id="499409">499409201575</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>58278</Numero>
+      <DataEmissao>2015-10-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-07-28T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>170</AreaEstabelecimento>
+        <NomeProprietario>RENATO JUNIOR BIANCHI RADIOCOMUNICACAO - EPP</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>RENATO JUNIOR BIANCHI RADIOCOMUNICACAO - EPP</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>170</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000005827</NumeroAVCB>
+        <ValidadeAVCB>2015-07-28</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3798082">
+      <Solicitacao id="888322">888322201771</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888322201771</Numero>
+      <DataEmissao>2017-06-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2223228">
+      <Solicitacao id="499409">499409201575</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>499409201575</Numero>
+      <DataEmissao>2015-10-21T00:00:00</DataEmissao>
+      <DataVencimento>2020-10-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3798083">
+      <Solicitacao id="888322">888322201771</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888322201771</Numero>
+      <DataEmissao>2017-06-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3798084">
+      <Solicitacao id="888322">888322201771</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1498045987196</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-21T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="287919">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24857635000178</CNPJ>
+    <NomeEmpresarial>VIA TUK TRANSPORTES LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-05-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-05-23</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229850960</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05650499845</CPFResponsavel>
+    <NomeResponsavel>VLADEMIR RENZI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>PAULO@LIMAASSOCIADOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>33121</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Augusto Chioda</Logradouro>
+      <NumeroLogradouro>121</NumeroLogradouro>
+      <Bairro>Morada do Campo</Bairro>
+      <CEP>14882354</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4923001" principal="1" exercida="1" />
+      <CNAE codigo="4923002" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VLADEMIR RENZI</Nome>
+        <Numero>00005650499845</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>TELMA APARECIDA POLACHINI RENZI</Nome>
+        <Numero>00008821304809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3797656">
+      <Solicitacao id="888224">888224201754</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3797652">
+      <Solicitacao id="888224">888224201754</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>39121</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-21T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>15</AreaEstabelecimento>
+        <NomeProprietario>SUELI CRISTINA POLACHINI</NomeProprietario>
+        <EmailProprietario>escr.paulolima@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632025555</TelefoneProprietario>
+        <NomeResponsavelUso>VIA TUK TRANSPORTES LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>83</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3797654">
+      <Solicitacao id="888224">888224201754</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888224201754</Numero>
+      <DataEmissao>2017-06-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2688937">
+      <Solicitacao id="615570">615570201637</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>615570201637</Numero>
+      <DataEmissao>2016-05-31T00:00:00</DataEmissao>
+      <DataVencimento>2021-05-31T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3797653">
+      <Solicitacao id="888224">888224201754</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>888224201754</Numero>
+      <DataEmissao>2017-06-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3797655">
+      <Solicitacao id="888224">888224201754</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1498043104350</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-21T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="366992">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27449448000143</CNPJ>
+    <NomeEmpresarial>GABRIEL DE CASTRO DEPIERI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-03</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131260722</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>38706778801</CPFResponsavel>
+    <NomeResponsavel>GABRIEL DE CASTRO DEPIERI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32411228</Telefone1>
+    <Email>ESCRITORIOMUNDIAL@UOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>34931</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>BARAO DO RIO BRANCO</Logradouro>
+      <NumeroLogradouro>858</NumeroLogradouro>
+      <Complemento>SALA  503</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870330</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8291100" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>180495</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07799492856</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3518257">
+      <Solicitacao id="823786">823786201710</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3669186">
+      <Solicitacao id="859942">859942201772</Solicitacao>
+      <Orgao id="3" />
+      <Status id="8" />
+      <Risco id="1" />
+      <Numero>AVCB 0000096276</Numero>
+      <DataEmissao>2014-06-27T00:00:00</DataEmissao>
+      <DataVencimento>2019-06-27T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>859942201772</ProtocoloAtendimento>
+      <MotivoCassacao id="55177" />
+      <Imovel>
+        <AreaEstabelecimento>93</AreaEstabelecimento>
+        <NomeProprietario>CENTRO EMPRESARIAL JABOTICABAL SPE LTDA</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>CENTRO EMPRESARIAL JABOTICABAL SPE LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>93</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000009627</NumeroAVCB>
+        <ValidadeAVCB>2014-06-27</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3518253">
+      <Solicitacao id="823786">823786201710</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>823786201710</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3518254">
+      <Solicitacao id="823786">823786201710</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>823786201710</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3518256">
+      <Solicitacao id="823786">823786201710</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>823786201710</Numero>
+      <DataEmissao>2017-04-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3669187">
+      <Solicitacao id="859942">859942201772</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495472252955</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-22T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="373829">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27667280000142</CNPJ>
+    <NomeEmpresarial>JOSE RENATO BETIOLI 15066995889</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-05-05</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-05-05</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823342009</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15066995889</CPFResponsavel>
+    <NomeResponsavel>JOSE RENATO BETIOLI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>99941490</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>07964</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>WALDEMAR ANTONIO CRUZ</Logradouro>
+      <NumeroLogradouro>20</NumeroLogradouro>
+      <Bairro>VILA INDUSTRIAL</Bairro>
+      <CEP>14883134</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="3329501" principal="1" exercida="1" />
+      <CNAE codigo="4754701" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3607622">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-05T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3607619">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Orgao id="3" />
+      <Status id="8" />
+      <Risco id="0" />
+      <Numero>CLCB 0000240557</Numero>
+      <DataEmissao>2017-05-12T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-12T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>846234201750</ProtocoloAtendimento>
+      <MotivoCassacao id="55170" />
+      <Imovel>
+        <AreaEstabelecimento>108</AreaEstabelecimento>
+        <NomeProprietario>Claudio Marcelo Fidelis Martins</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>Jose Renato Betioli</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>108</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024055</NumeroAVCB>
+        <ValidadeAVCB>2017-05-12</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3607617">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>846234201750</Numero>
+      <DataEmissao>2017-05-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3607618">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>846234201750</Numero>
+      <DataEmissao>2017-05-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3607620">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>846234201750</Numero>
+      <DataEmissao>2017-05-05T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-05T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3607621">
+      <Solicitacao id="846234">846234201750</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1494008896827</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-05T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="378315">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27718919000171</CNPJ>
+    <NomeEmpresarial>ANISIO VIEIRA SANTOS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-05-12</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-05-12</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131390537</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15621895819</CPFResponsavel>
+    <NomeResponsavel>ANISIO VIEIRA SANTOS</NomeResponsavel>
+    <DDD1>17</DDD1>
+    <Telefone1>97018493</Telefone1>
+    <Email>IUGHETTIJUNIOR@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>20371</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>AUGUSTO CESAR COSTA</Logradouro>
+      <NumeroLogradouro>151</NumeroLogradouro>
+      <Bairro>JARDIM DAS ROSAS</Bairro>
+      <CEP>14871815</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3663915">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-19T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3663912">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000253086</Numero>
+      <DataEmissao>2017-06-21T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-21T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>858711201773</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>64</AreaEstabelecimento>
+        <NomeProprietario>RIVALDAVIO ALVES VIEIRA</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ANISIO VIEIRA SANTOS ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>125</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000025308</NumeroAVCB>
+        <ValidadeAVCB>2017-06-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3663910">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858711201773</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3663911">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858711201773</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-19T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3663913">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>858711201773</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-19T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+    <Licenciamento id="3663914">
+      <Solicitacao id="858711">858711201773</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495215763786</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-19T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

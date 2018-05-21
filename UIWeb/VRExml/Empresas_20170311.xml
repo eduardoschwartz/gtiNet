@@ -1,0 +1,270 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="261529">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>96373709000101</CNPJ>
+    <NomeEmpresarial>GRAFICA MULTIPRESS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2003-10-04</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1993-03-15</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35211444633</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>03364705844</CPFResponsavel>
+    <NomeResponsavel>MARIO SERGIO EVARISTO FERREIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022246</Telefone1>
+    <Email>mario@graficasantaterezinha.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>18758</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>CARLOS BERCHIERI</Logradouro>
+      <NumeroLogradouro>1671</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14870010</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="1731100" principal="1" exercida="1" />
+      <CNAE codigo="1732000" principal="0" exercida="1" />
+      <CNAE codigo="1741902" principal="0" exercida="1" />
+      <CNAE codigo="1811301" principal="0" exercida="1" />
+      <CNAE codigo="1811302" principal="0" exercida="1" />
+      <CNAE codigo="1813001" principal="0" exercida="1" />
+      <CNAE codigo="1813099" principal="0" exercida="1" />
+      <CNAE codigo="5829800" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIO SERGIO EVARISTO FERREIRA</Nome>
+        <Numero>00003364705844</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>EDSON EVARISTO FERREIRA</Nome>
+        <Numero>00015650367868</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2429228">
+      <Solicitacao id="550602">550602201612</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-12T00:00:00</DataStatus>
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+      <RestricaoOperacao id="2960" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2429226">
+      <Solicitacao id="550602">550602201612</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>222537</Numero>
+      <DataEmissao>2016-01-27T00:00:00</DataEmissao>
+      <DataVencimento>2019-01-26T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>550602201612</ProtocoloAtendimento>
+      <DataProtocolo>2016-02-12T00:00:00</DataProtocolo>
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Imovel>
+        <AreaEstabelecimento>491</AreaEstabelecimento>
+        <NomeProprietario>ANTONIO AUGUSTO PEREIRA</NomeProprietario>
+        <EmailProprietario>cont_mar@contabilidademarcelino.com.br</EmailProprietario>
+        <TelefoneProprietario>1146741672</TelefoneProprietario>
+        <NomeResponsavelUso>ANTONIO AUGUSTO PEREIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1146782315</TelefoneResponsavelUso>
+        <AreaTotal>491</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2429224">
+      <Solicitacao id="550602">550602201612</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>550602201612</Numero>
+      <DataEmissao>2016-02-12T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-12T00:00:00</DataVencimento>
+      <Pergunta id="4874" resposta="0" />
+      <Pergunta id="4875" resposta="0" />
+      <Declaracao id="7171" />
+      <Declaracao id="7172" />
+    </Licenciamento>
+    <Licenciamento id="2429225">
+      <Solicitacao id="550602">550602201612</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001389</Numero>
+      <DataEmissao>2014-03-28T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-28T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>52003693</ProtocoloAtendimento>
+      <DataProtocolo>2016-02-12T00:00:00</DataProtocolo>
+      <Pergunta id="4257" resposta="0" />
+      <Pergunta id="4252" resposta="1" />
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2429227">
+      <Solicitacao id="550602">550602201612</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>107679</Numero>
+      <DataEmissao>2016-03-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-11T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>3.400-2/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-02-23T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="267984">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24345291000118</CNPJ>
+    <NomeEmpresarial>JOSE RENATO NAGIB JORGE - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2016-03-09</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130637644</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>04564228897</CPFResponsavel>
+    <NomeResponsavel>JOSE RENATO NAGIB JORGE</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97851851</Telefone1>
+    <Email>ESCRAMPAZZOPENARIOL@TERRA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>02989</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>MAESTRO GROSSI</Logradouro>
+      <NumeroLogradouro>372</NumeroLogradouro>
+      <Bairro>NOVA JABOTICABAL</Bairro>
+      <CEP>14887036</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8219999" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>296275</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>09035820827</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2495229">
+      <Solicitacao id="567167">567167201662</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-11T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2495227">
+      <Solicitacao id="567167">567167201662</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>567167201662</Numero>
+      <DataEmissao>2016-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-10T00:00:00</DataVencimento>
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Imovel>
+        <AreaEstabelecimento>25</AreaEstabelecimento>
+        <NomeProprietario>JOSE RENATO NAGIB JORGE</NomeProprietario>
+        <EmailProprietario>escrampazzopenariol@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632031083</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE RENATO NAGIB JORGE</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632031083</TelefoneResponsavelUso>
+        <AreaTotal>324</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2495225">
+      <Solicitacao id="567167">567167201662</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>567167201662</Numero>
+      <DataEmissao>2016-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2495226">
+      <Solicitacao id="567167">567167201662</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>567167201662</Numero>
+      <DataEmissao>2016-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-10T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2495228">
+      <Solicitacao id="567167">567167201662</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>567167201662</Numero>
+      <DataEmissao>2016-03-10T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

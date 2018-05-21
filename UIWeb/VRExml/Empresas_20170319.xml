@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="126510">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>16877845000280</CNPJ>
+    <NomeEmpresarial>US CAMBIO SERVICOS DE CAMBIO E TURISMO LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-03-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-03-13</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35904530221</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>71092951849</CPFResponsavel>
+    <NomeResponsavel>ROMILDO FERNANDES</NomeResponsavel>
+    <DDD1>14</DDD1>
+    <Telefone1>36219955</Telefone1>
+    <Email>EDU_FEIJO@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>29571</SetorQuadraLote>
+      <TipoLogradouro>Praça</TipoLogradouro>
+      <Logradouro>DOUTOR JOSE MARCONDES HOMEM DE MELO</Logradouro>
+      <NumeroLogradouro>146</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870515</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7911200" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GUSTAVO ROSSI</Nome>
+        <Numero>00028913740885</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ROMILDO FERNANDES</Nome>
+        <Numero>00071092951849</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>206778</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>21468723812</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3096809">
+      <Solicitacao id="718553">718553201655</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-10-31T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3096808">
+      <Solicitacao id="718553">718553201655</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>207970</Numero>
+      <DataEmissao>2016-10-28T00:00:00</DataEmissao>
+      <DataVencimento>2018-10-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>ROYAL SHOPPING EMPREENDIMENTOS LTDA</NomeProprietario>
+        <EmailProprietario>paulo.pessoal@girocontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1436219955</TelefoneProprietario>
+        <NomeResponsavelUso>US CAMBIO SERVICOS DE CAMBIO E TURISMO LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1436219955</TelefoneResponsavelUso>
+        <AreaTotal>20</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>207970</NumeroAVCB>
+        <ValidadeAVCB>2018-10-01</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3096805">
+      <Solicitacao id="718553">718553201655</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>718553201655</Numero>
+      <DataEmissao>2016-10-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-27T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3096807">
+      <Solicitacao id="718553">718553201655</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>718553201655</Numero>
+      <DataEmissao>2016-10-27T00:00:00</DataEmissao>
+      <DataVencimento>2021-10-27T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3096806">
+      <Solicitacao id="718553">718553201655</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>718553201655</Numero>
+      <DataEmissao>2016-10-27T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-27T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="218454">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>15011229000107</CNPJ>
+    <NomeEmpresarial>KARINA GOUVEA JARDIM - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2012-01-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2012-01-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35127388604</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16708746808</CPFResponsavel>
+    <NomeResponsavel>KARINA GOUVEA JARDIM</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021928</Telefone1>
+    <Email>JAYMESANTOS@HOTAMAIL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>08888</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>CASTRO ALVES</Logradouro>
+      <NumeroLogradouro>2070</NumeroLogradouro>
+      <Bairro>JARDIN SANTA ROSA</Bairro>
+      <CEP>14875270</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4721102" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>075407</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>19332556849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2003006">
+      <Solicitacao id="447221">447221201596</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-07-23T00:00:00</DataStatus>
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+      <RestricaoOperacao id="2967" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2003005">
+      <Solicitacao id="447221">447221201596</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>495781</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2019-03-18T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>145</AreaEstabelecimento>
+        <NomeProprietario>ARNALDO ROQUE</NomeProprietario>
+        <EmailProprietario>antoniochelli@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632036932</TelefoneProprietario>
+        <NomeResponsavelUso>KARINA GOUVEA JARDIM</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632021928</TelefoneResponsavelUso>
+        <AreaTotal>351</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>495781</NumeroAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2003003">
+      <Solicitacao id="447221">447221201596</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>447221201596</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-18T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="2003004">
+      <Solicitacao id="447221">447221201596</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>447221201596</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-18T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3341096">
+      <Solicitacao id="779597">779597201762</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>779597201762</Numero>
+      <DataEmissao>2017-02-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="269867">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18165616000188</CNPJ>
+    <NomeEmpresarial>RJR GEORGETE LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-05-21</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-05-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227502085</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>31376781883</CPFResponsavel>
+    <NomeResponsavel>RENATO GEORGETE</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>39424650</Telefone1>
+    <Email>renato.georgete@uol.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>14516</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>CASTRO ALVES</Logradouro>
+      <NumeroLogradouro>1079</NumeroLogradouro>
+      <Complemento>BLOCO D</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870870</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611203" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATO GEORGETE</Nome>
+        <Numero>00031376781883</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE ROBERTO GEORGETE</Nome>
+        <Numero>00059413778868</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>065569</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2514699">
+      <Solicitacao id="572088">572088201676</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-21T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2514697">
+      <Solicitacao id="572088">572088201676</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>138843</Numero>
+      <DataEmissao>2014-10-15T00:00:00</DataEmissao>
+      <DataVencimento>2019-10-15T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>572088201676</ProtocoloAtendimento>
+      <DataProtocolo>2016-03-22T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>100</AreaEstabelecimento>
+        <NomeProprietario>ARMANDO GENARO NETO</NomeProprietario>
+        <EmailProprietario>favaro@acib.com.br</EmailProprietario>
+        <TelefoneProprietario>1436625025</TelefoneProprietario>
+        <NomeResponsavelUso>ARMANDO GENARO NETO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1436625025</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2514695">
+      <Solicitacao id="572088">572088201676</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572088201676</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-18T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2514696">
+      <Solicitacao id="572088">572088201676</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>572088201676</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-18T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2514698">
+      <Solicitacao id="572088">572088201676</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>572088201676</Numero>
+      <DataEmissao>2016-03-18T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-18T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+      <Declaracao id="6367" />
+    </Licenciamento>
+  </Empresa>
+</Empresas>

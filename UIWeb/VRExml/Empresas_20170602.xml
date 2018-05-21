@@ -1,0 +1,815 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="227794">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>54165378000174</CNPJ>
+    <NomeEmpresarial>VIDA NOVA - ADMINISTRADORA E CORRETORA DE SEGUROS S/S LTDA. - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2001-02-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2240</NaturezaJuridica>
+    <DataAbertura>1986-07-25</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>3157</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>74838954891</CPFResponsavel>
+    <NomeResponsavel>ELDO SANCHES RAYMUNDO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32021933</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00899</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>BARAO DO RIO BRANCO</Logradouro>
+      <NumeroLogradouro>434</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870330</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6622300" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELDO SANCHES RAYMUNDO</Nome>
+        <Numero>00074838954891</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCUS VINICIUS SILVA RAYMUNDO</Nome>
+        <Numero>00031227424892</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PERCILIO SILVA RAYMUNDO</Nome>
+        <Numero>00033963036877</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2084925">
+      <Solicitacao id="466308">466308201501</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-08-24T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2084923">
+      <Solicitacao id="466308">466308201501</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>466308201501</Numero>
+      <DataEmissao>2015-08-21T00:00:00</DataEmissao>
+      <DataVencimento>2018-08-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>198</AreaEstabelecimento>
+        <NomeProprietario>LUIZA F. BAAKLINI</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ELDO SANCHES RAYMUNDO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>252</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000007612</NumeroAVCB>
+        <ValidadeAVCB>2015-09-22</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3727570">
+      <Solicitacao id="872768">872768201792</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872768201792</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2084922">
+      <Solicitacao id="466308">466308201501</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>466308201501</Numero>
+      <DataEmissao>2015-08-21T00:00:00</DataEmissao>
+      <DataVencimento>2020-08-21T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3727571">
+      <Solicitacao id="872768">872768201792</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872768201792</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3727572">
+      <Solicitacao id="872768">872768201792</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496423085929</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-02T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="261458">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>57156275000136</CNPJ>
+    <NomeEmpresarial>SUELY THEREZINHA BRIZOLA BERTOLAZZO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2001-09-29</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>1987-02-17</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35103608655</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>10908710828</CPFResponsavel>
+    <NomeResponsavel>SUELY THEREZINHA BRIZOLA BERTOLAZZO</NomeResponsavel>
+    <DDD1>016</DDD1>
+    <Telefone1>3223264</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>04598</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MIGUEL BRAULINO SENEN</Logradouro>
+      <NumeroLogradouro>50</NumeroLogradouro>
+      <Bairro>JD MORUMBI</Bairro>
+      <CEP>14890218</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4755501" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3728080">
+      <Solicitacao id="872888">872888201755</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-06-02T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3728077">
+      <Solicitacao id="872888">872888201755</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000153228</Numero>
+      <DataEmissao>2016-06-20T00:00:00</DataEmissao>
+      <DataVencimento>2019-06-20T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>872888201755</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>80</AreaEstabelecimento>
+        <NomeProprietario>SUELY THEREZINHA BRIZOLA BERTOLAZZO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>SUELY THEREZINHA BRIZOLA BERTOLAZZO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>432</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000015322</NumeroAVCB>
+        <ValidadeAVCB>2016-06-20</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3728076">
+      <Solicitacao id="872888">872888201755</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872888201755</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2428461">
+      <Solicitacao id="550400">550400201608</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>550400201608</Numero>
+      <DataEmissao>2016-02-11T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-11T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3728078">
+      <Solicitacao id="872888">872888201755</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872888201755</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3728079">
+      <Solicitacao id="872888">872888201755</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496426109420</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-02T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="262189">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>18058547000103</CNPJ>
+    <NomeEmpresarial>DBM PECAS E SERVICOS LTDA. - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-05-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2013-05-06</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35227462156</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>12243277808</CPFResponsavel>
+    <NomeResponsavel>JOSE EDUARDO PEREIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>99943020</Telefone1>
+    <Email>vitorio@simonicontabil.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16517</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>AGOSTINHO ENNES</Logradouro>
+      <NumeroLogradouro>310</NumeroLogradouro>
+      <Bairro>CIDADE JARDIM</Bairro>
+      <CEP>14890410</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JOSE EDUARDO PEREIRA</Nome>
+        <Numero>00012243277808</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>SEBASTIAO GASPAR FILHO</Nome>
+        <Numero>00008163214856</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2436374">
+      <Solicitacao id="552414">552414201699</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-16T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2436372">
+      <Solicitacao id="552414">552414201699</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>552414201699</Numero>
+      <DataEmissao>2016-02-16T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-16T00:00:00</DataVencimento>
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Imovel>
+        <AreaEstabelecimento>176</AreaEstabelecimento>
+        <NomeProprietario>ANTONIO DE JESUS APARECIDO FLORES</NomeProprietario>
+        <EmailProprietario>FINANCEIRO@DBM.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632049728</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE EDUARDO PEREIRA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632049728</TelefoneResponsavelUso>
+        <AreaTotal>192</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3728898">
+      <Solicitacao id="873071">873071201776</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>873071201776</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2436371">
+      <Solicitacao id="552414">552414201699</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>552414201699</Numero>
+      <DataEmissao>2016-02-16T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-16T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3728899">
+      <Solicitacao id="873071">873071201776</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>873071201776</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3728900">
+      <Solicitacao id="873071">873071201776</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496429884328</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-02T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="287919">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24857635000178</CNPJ>
+    <NomeEmpresarial>VIA TUK TRANSPORTES LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-05-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-05-23</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229850960</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05650499845</CPFResponsavel>
+    <NomeResponsavel>VLADEMIR RENZI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32025010</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>32024233</Telefone2>
+    <Email>PAULO@LIMAASSOCIADOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>17312</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>VERGILIO PEDRO RIBEIRO</Logradouro>
+      <NumeroLogradouro>290</NumeroLogradouro>
+      <Complemento>SALA  1</Complemento>
+      <Bairro>PLANALTO ITALIA</Bairro>
+      <CEP>14890448</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4923001" principal="1" exercida="1" />
+      <CNAE codigo="4923002" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+      <Auxiliar id="30" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VLADEMIR RENZI</Nome>
+        <Numero>00005650499845</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>TELMA APARECIDA POLACHINI RENZI</Nome>
+        <Numero>00008821304809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>132157</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02054157848</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2688940">
+      <Solicitacao id="615570">615570201637</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-06-01T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2688938">
+      <Solicitacao id="615570">615570201637</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>615570201637</Numero>
+      <DataEmissao>2016-05-31T00:00:00</DataEmissao>
+      <DataVencimento>2019-05-31T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>20</AreaEstabelecimento>
+        <NomeProprietario>SUELI CRISTINA POLACHINI</NomeProprietario>
+        <EmailProprietario>escr.paulolima@netsite.com.br</EmailProprietario>
+        <TelefoneProprietario>1632025555</TelefoneProprietario>
+        <NomeResponsavelUso>VIA TUK TRANSPORTES LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632025010</TelefoneResponsavelUso>
+        <AreaTotal>137</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3729258">
+      <Solicitacao id="873147">873147201750</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>873147201750</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2688937">
+      <Solicitacao id="615570">615570201637</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>615570201637</Numero>
+      <DataEmissao>2016-05-31T00:00:00</DataEmissao>
+      <DataVencimento>2021-05-31T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="3729259">
+      <Solicitacao id="873147">873147201750</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>873147201750</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+      <Declaracao id="6357" />
+    </Licenciamento>
+    <Licenciamento id="3729260">
+      <Solicitacao id="873147">873147201750</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496431643227</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-02T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="377319">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>01789009000196</CNPJ>
+    <NomeEmpresarial>DEXTRO &amp;amp; DEXTRO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-08-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1997-03-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35214291307</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>07318845829</CPFResponsavel>
+    <NomeResponsavel>VINICIO LUIS DEXTRO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97852588</Telefone1>
+    <Email>assporto@vuptnet.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>21257</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>Percio da Rocha Neves Filho</Logradouro>
+      <NumeroLogradouro>124</NumeroLogradouro>
+      <Bairro>Parque Industrial Bruno Verardino</Bairro>
+      <CEP>14876280</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4744002" principal="1" exercida="1" />
+      <CNAE codigo="4671100" principal="0" exercida="1" />
+      <CNAE codigo="4742300" principal="0" exercida="1" />
+      <CNAE codigo="4744099" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VINICIO LUIS DEXTRO</Nome>
+        <Numero>00007318845829</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELISABETE INHESTA DEXTRO</Nome>
+        <Numero>00000542251833</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>112700</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>02014693838</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3652060">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-18T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3652057">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>10875</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-17T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>61</AreaEstabelecimento>
+        <NomeProprietario>RAFAEL DE OLIVEIRA MATOS-ME</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>RAFAEL DE OLIVEIRA MATOS-ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>61</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024371</NumeroAVCB>
+        <ValidadeAVCB>2017-05-22</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3652055">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>856091201769</Numero>
+      <DataEmissao>2017-05-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3652056">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>856091201769</Numero>
+      <DataEmissao>2017-05-17T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-17T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3652058">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>856091201769</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>10.227-0/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-17T00:00:00</DataProtocolo>
+    </Licenciamento>
+    <Licenciamento id="3652059">
+      <Solicitacao id="856091">856091201769</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495047146612</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-17T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="383505">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>50387745000123</CNPJ>
+    <NomeEmpresarial>CONGREGACAO CRISTA NO BRASIL</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>3999</NaturezaJuridica>
+    <DataAbertura>1970-09-28</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>041881</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>02008141845</CPFResponsavel>
+    <NomeResponsavel>ADELMO FERREIRA DA SILVA</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>05971</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO JOAO</Logradouro>
+      <NumeroLogradouro>874</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14882010</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9491000" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ADELMO FERREIRA DA SILVA</Nome>
+        <Numero>00002008141845</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3727294">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-06-02T00:00:00</DataStatus>
+      <RestricaoOperacao id="2975" />
+      <RestricaoOperacao id="2975" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3727291">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000247683</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-02T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>872712201773</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>775</AreaEstabelecimento>
+        <NomeProprietario>CONGREGACAO CRISTA NO BRASIL</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>CONGREGACAO CRISTA NO BRASIL</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>775</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024768</NumeroAVCB>
+        <ValidadeAVCB>2017-06-02</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3727289">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872712201773</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3727290">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872712201773</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2022-06-02T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3727292">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>872712201773</Numero>
+      <DataEmissao>2017-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3727293">
+      <Solicitacao id="872712">872712201773</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1496421640081</ProtocoloAtendimento>
+      <DataProtocolo>2017-06-02T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

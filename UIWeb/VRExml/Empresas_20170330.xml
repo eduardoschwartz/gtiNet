@@ -1,0 +1,609 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="187208">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12270905000160</CNPJ>
+    <NomeEmpresarial>DUMA - SERVICOS, MANUTENCAO E COMERCIO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-06-14</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2010-06-14</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35224336443</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>29617141841</CPFResponsavel>
+    <NomeResponsavel>MARCEL EITHEL BERLINGIERI DURIGAN</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022167</Telefone1>
+    <Email>sinesiusilva@terra.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>10300</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Comendador João Maricato</Logradouro>
+      <NumeroLogradouro>2126</NumeroLogradouro>
+      <Bairro>BAIRRO ALTO</Bairro>
+      <CEP>14875600</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0161003" principal="1" exercida="1" />
+      <CNAE codigo="4321500" principal="0" exercida="1" />
+      <CNAE codigo="4322301" principal="0" exercida="1" />
+      <CNAE codigo="8130300" principal="0" exercida="1" />
+      <CNAE codigo="8122200" principal="0" exercida="1" />
+      <CNAE codigo="8121400" principal="0" exercida="1" />
+      <CNAE codigo="0161001" principal="0" exercida="1" />
+      <CNAE codigo="0210106" principal="0" exercida="0" />
+      <CNAE codigo="4789002" principal="0" exercida="1" />
+      <CNAE codigo="4744099" principal="0" exercida="1" />
+      <CNAE codigo="4744001" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARIA LUCIA BERLINGIERI DURIGAN</Nome>
+        <Numero>00009373949802</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCEL EITHEL BERLINGIERI DURIGAN</Nome>
+        <Numero>00029617141841</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3499682">
+      <Solicitacao id="819219">819219201798</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1659449">
+      <Solicitacao id="368668">368668201560</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>368668201560</Numero>
+      <DataEmissao>2015-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-24T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>100</AreaEstabelecimento>
+        <NomeProprietario>MARCEL EITHEL BERLINGIERI DURIGAN</NomeProprietario>
+        <EmailProprietario>durigan.marcel@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632022167</TelefoneProprietario>
+        <NomeResponsavelUso>MARCEL EITHEL BERLINGIERI DURIGAN</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632022167</TelefoneResponsavelUso>
+        <AreaTotal>531</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1659448">
+      <Solicitacao id="368668">368668201560</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>368668201560</Numero>
+      <DataEmissao>2015-02-24T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-24T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3499681">
+      <Solicitacao id="819219">819219201798</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>819219201798</Numero>
+      <DataEmissao>2017-03-30T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-30T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="217214">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22792670000120</CNPJ>
+    <NomeEmpresarial>BRUNO BELCHIOR SANT ANNA 37804914865</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-07-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-07-06</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35815450752</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>37804914865</CPFResponsavel>
+    <NomeResponsavel>BRUNO BELCHIOR SANT ANNA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97125072</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>07690</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>EDUARDO ZAMBIANCHI</Logradouro>
+      <NumeroLogradouro>70</NumeroLogradouro>
+      <Bairro>VILA INDUSTRIAL</Bairro>
+      <CEP>14883130</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611202" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3495294">
+      <Solicitacao id="818141">818141201769</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-30T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1972418">
+      <Solicitacao id="440250">440250201553</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>440250201553</Numero>
+      <DataEmissao>2015-07-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-07-06T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>50</AreaEstabelecimento>
+        <NomeProprietario>BRUNO BELCHIOR SANT ANNA 37804914865</NomeProprietario>
+        <EmailProprietario>rodrigo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>BRUNO BELCHIOR SANT ANNA 37804914865</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>50</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3495292">
+      <Solicitacao id="818141">818141201769</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>818141201769</Numero>
+      <DataEmissao>2017-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-29T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1972417">
+      <Solicitacao id="440250">440250201553</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>440250201553</Numero>
+      <DataEmissao>2015-07-06T00:00:00</DataEmissao>
+      <DataVencimento>2020-07-06T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3495293">
+      <Solicitacao id="818141">818141201769</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>818141201769</Numero>
+      <DataEmissao>2017-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-29T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="271656">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24397000000135</CNPJ>
+    <NomeEmpresarial>LOTEAMENTO AMERICO BRASILIENSE SPE LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-16</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-03-16</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229717194</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>03492462898</CPFResponsavel>
+    <NomeResponsavel>ELVIO ROBERTO MORGATTO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32093292</Telefone1>
+    <Email>CONTABILIDADE@SANMARINONEGOCIOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>30264</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>BENJAMIN CONSTANT</Logradouro>
+      <NumeroLogradouro>642</NumeroLogradouro>
+      <Complemento>SALA  46</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870140</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4110700" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELVIO ROBERTO MORGATTO</Nome>
+        <Numero>00003492462898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>STEFANI EMPREENDIMENTOS IMOBILIARIOS LTDA</Nome>
+        <Numero>20211200000109</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>SAN MARINO PARTICIPACOES LTDA</Nome>
+        <Numero>13604507000104</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO TEIXEIRA DE STEFANI</Nome>
+        <Numero>00003525626843</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NILO VILHENA DE STEFANI</Nome>
+        <Numero>00033786962812</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO VILHENA DE STEFANI</Nome>
+        <Numero>00039071466892</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATA VILHENA DE STEFANI</Nome>
+        <Numero>00036512856856</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>WLADIMIR MORGATTO</Nome>
+        <Numero>00007530703838</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>190901</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>15066302867</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2533162">
+      <Solicitacao id="576792">576792201609</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-29T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2533160">
+      <Solicitacao id="576792">576792201609</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>193591</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>398</AreaEstabelecimento>
+        <NomeProprietario>SAN MARINO PARTICIPACOES LTDA</NomeProprietario>
+        <EmailProprietario>contabilidade@sanmarinonegocios.com.br</EmailProprietario>
+        <TelefoneProprietario>1632093292</TelefoneProprietario>
+        <NomeResponsavelUso>SAN MARINO PARTICIPACOES LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632093292</TelefoneResponsavelUso>
+        <AreaTotal>842</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>193591</NumeroAVCB>
+        <ValidadeAVCB>2020-05-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2533158">
+      <Solicitacao id="576792">576792201609</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>576792201609</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-29T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2533159">
+      <Solicitacao id="576792">576792201609</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>576792201609</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-29T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2533161">
+      <Solicitacao id="576792">576792201609</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>576792201609</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-29T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="271683">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24363985000188</CNPJ>
+    <NomeEmpresarial>LOTEAMENTO IRACEMAPOLIS SPE LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-03-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2016-03-11</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229675084</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>03492462898</CPFResponsavel>
+    <NomeResponsavel>ELVIO ROBERTO MORGATTO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32093292</Telefone1>
+    <Email>CONTABILIDADE@SANMARINONEGOCIOS.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>30264</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>BENJAMIN CONSTANT</Logradouro>
+      <NumeroLogradouro>642</NumeroLogradouro>
+      <Complemento>SALA  47</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870140</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4110700" principal="1" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELVIO ROBERTO MORGATTO</Nome>
+        <Numero>00003492462898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>STEFANI EMPREENDIMENTOS IMOBILIARIOS LTDA</Nome>
+        <Numero>20211200000109</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>SAN MARINO PARTICIPACOES LTDA</Nome>
+        <Numero>13604507000104</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO TEIXEIRA DE STEFANI</Nome>
+        <Numero>00003525626843</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NILO VILHENA DE STEFANI</Nome>
+        <Numero>00033786962812</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO VILHENA DE STEFANI</Nome>
+        <Numero>00039071466892</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>RENATA VILHENA DE STEFANI</Nome>
+        <Numero>00036512856856</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>WLADIMIR MORGATTO</Nome>
+        <Numero>00007530703838</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>190901</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>15066302867</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2533385">
+      <Solicitacao id="576848">576848201603</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-03-29T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2533383">
+      <Solicitacao id="576848">576848201603</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>193591</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>398</AreaEstabelecimento>
+        <NomeProprietario>SAN MARINO PARTICIPACOES LTDA</NomeProprietario>
+        <EmailProprietario>contabilidade@sanmarinonegocios.com.br</EmailProprietario>
+        <TelefoneProprietario>1632093292</TelefoneProprietario>
+        <NomeResponsavelUso>SAN MARINO PARTICIPACOES LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632093292</TelefoneResponsavelUso>
+        <AreaTotal>842</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>193591</NumeroAVCB>
+        <ValidadeAVCB>2020-05-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2533381">
+      <Solicitacao id="576848">576848201603</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>576848201603</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-29T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2533382">
+      <Solicitacao id="576848">576848201603</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>576848201603</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2021-03-29T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2533384">
+      <Solicitacao id="576848">576848201603</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>576848201603</Numero>
+      <DataEmissao>2016-03-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-29T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

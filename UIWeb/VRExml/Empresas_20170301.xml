@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="124410">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>07373778000195</CNPJ>
+    <NomeEmpresarial>ERIKA PEREIRA DA COSTA PINTO &amp;amp; CIA LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-05-11</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2005-05-11</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35219439914</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15066706879</CPFResponsavel>
+    <NomeResponsavel>MARCIO AURELIO AMORIM PINTO</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>03437</SetorQuadraLote>
+      <TipoLogradouro>Terminal</TipoLogradouro>
+      <Logradouro>RODOVIARIO</Logradouro>
+      <NumeroLogradouro>S/N</NumeroLogradouro>
+      <Complemento>BOX 20 E 22</Complemento>
+      <Bairro>Nova Jaboticabal</Bairro>
+      <CEP>14890200</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611203" principal="1" exercida="1" />
+      <CNAE codigo="4782202" principal="0" exercida="1" />
+      <CNAE codigo="4761002" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="0" exercida="1" />
+      <CNAE codigo="4763601" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ERIKA PEREIRA DA COSTA PINTO</Nome>
+        <Numero>00016217198800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCIO AURELIO AMORIM PINTO</Nome>
+        <Numero>00015066706879</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>152720</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>655690</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1031991">
+      <Solicitacao id="225535">225535201431</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1031989">
+      <Solicitacao id="225535">225535201431</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225535201431</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-28T00:00:00</DataVencimento>
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4279" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Declaracao id="6348" />
+      <Declaracao id="6349" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Imovel>
+        <AreaEstabelecimento>55</AreaEstabelecimento>
+        <NomeProprietario>PREFEITURA MUNICIPAL DE JABOTICABAL</NomeProprietario>
+        <EmailProprietario>planejamento@jaboticabal.sp.gov.br</EmailProprietario>
+        <TelefoneProprietario>1632093300</TelefoneProprietario>
+        <NomeResponsavelUso>ERIKA PEREIRA DA COSTA PINTO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036694</TelefoneResponsavelUso>
+        <AreaTotal>4500</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1031987">
+      <Solicitacao id="225535">225535201431</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225535201431</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2015-02-28T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1031988">
+      <Solicitacao id="225535">225535201431</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>225535201431</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-28T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1031990">
+      <Solicitacao id="225535">225535201431</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225535201431</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2015-02-28T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+      <Declaracao id="6367" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="124453">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19744923000186</CNPJ>
+    <NomeEmpresarial>IVAN R. SHIMADA PEREIRA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-02-18</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-02-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35129188521</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19507670866</CPFResponsavel>
+    <NomeResponsavel>IVAN RICARDO SHIMADA PEREIRA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32048195</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>97477714</Telefone2>
+    <Email>ivanshimada@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>59948</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO JOAO</Logradouro>
+      <NumeroLogradouro>992</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14882010</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4753900" principal="0" exercida="1" />
+      <CNAE codigo="9521500" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>190090</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13855314870</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1032480">
+      <Solicitacao id="225649">225649201426</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2014-03-05T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1032478">
+      <Solicitacao id="225649">225649201426</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225649201426</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-28T00:00:00</DataVencimento>
+      <Pergunta id="4282" resposta="0" />
+      <Pergunta id="4276" resposta="0" />
+      <Pergunta id="4277" resposta="0" />
+      <Pergunta id="4278" resposta="0" />
+      <Pergunta id="4280" resposta="0" />
+      <Pergunta id="4281" resposta="0" />
+      <Declaracao id="6350" />
+      <Declaracao id="6351" />
+      <Declaracao id="6352" />
+      <Declaracao id="6353" />
+      <Declaracao id="6354" />
+      <Declaracao id="6355" />
+      <Declaracao id="6345" />
+      <Declaracao id="6346" />
+      <Declaracao id="6347" />
+      <Declaracao id="6349" />
+      <Imovel>
+        <AreaEstabelecimento>85</AreaEstabelecimento>
+        <NomeProprietario>GIACOMO SCADUTO</NomeProprietario>
+        <EmailProprietario>orgatec_contab@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632048195</TelefoneProprietario>
+        <NomeResponsavelUso>IVAN R. SHIMADA PEREIRA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632026252</TelefoneResponsavelUso>
+        <AreaTotal>140</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="1032476">
+      <Solicitacao id="225649">225649201426</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225649201426</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2015-02-28T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1032477">
+      <Solicitacao id="225649">225649201426</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>225649201426</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-28T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="1032479">
+      <Solicitacao id="225649">225649201426</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>225649201426</Numero>
+      <DataEmissao>2014-02-28T00:00:00</DataEmissao>
+      <DataVencimento>2015-02-28T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="265061">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>24264207000131</CNPJ>
+    <NomeEmpresarial>CLAUDEMIR COSTA PROJETOS INDUSTRIAIS EIRELI LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2016-02-24</DataSituacaoCadastral>
+    <NaturezaJuridica>2313</NaturezaJuridica>
+    <DataAbertura>2016-02-24</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>4616</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19961998898</CPFResponsavel>
+    <NomeResponsavel>CLAUDEMIR COSTA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32033538</Telefone1>
+    <Email>RH@OCPOLACHINI.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>27706</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>NESTOR ALVES</Logradouro>
+      <NumeroLogradouro>192</NumeroLogradouro>
+      <Bairro>PARQUE DAS ARARAS</Bairro>
+      <CEP>14890724</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4399103" principal="0" exercida="0" />
+      <CNAE codigo="7119703" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CLAUDEMIR COSTA</Nome>
+        <Numero>00019961998898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>184051</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13888349877</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2465561">
+      <Solicitacao id="559732">559732201673</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-29T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2465559">
+      <Solicitacao id="559732">559732201673</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>559732201673</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-28T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>99</AreaEstabelecimento>
+        <NomeProprietario>CLAUDEMIR COSTA</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>CLAUDEMIR COSTA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3326496">
+      <Solicitacao id="775964">775964201724</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>775964201724</Numero>
+      <DataEmissao>2017-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-01T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2465558">
+      <Solicitacao id="559732">559732201673</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>559732201673</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-28T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3326497">
+      <Solicitacao id="775964">775964201724</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>775964201724</Numero>
+      <DataEmissao>2017-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-01T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="265069">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05556529000100</CNPJ>
+    <NomeEmpresarial>M. A. DE CARVALHO LAVAGEM DE VEICULOS  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2003-02-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130597243</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>31889065870</CPFResponsavel>
+    <NomeResponsavel>MARCELO APARECIDO DE CARVALHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022853</Telefone1>
+    <Email>visao@visaojab.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>13955</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>OSVALDO MARTINS CRUZ</Logradouro>
+      <NumeroLogradouro>45</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870390</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4520005" principal="0" exercida="1" />
+      <CNAE codigo="4789001" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>217624</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>05417016810</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2465629">
+      <Solicitacao id="559747">559747201650</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-29T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2465627">
+      <Solicitacao id="559747">559747201650</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>559747201650</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-28T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>60</AreaEstabelecimento>
+        <NomeProprietario>ADILSON DUARTE DOS SANTOS</NomeProprietario>
+        <EmailProprietario>fiorezzi@fiorezzicontabil.com.br</EmailProprietario>
+        <TelefoneProprietario>1632037069</TelefoneProprietario>
+        <NomeResponsavelUso>M.A DE CARVALHO LAVAGEM DE VEICULOS - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632037069</TelefoneResponsavelUso>
+        <AreaTotal>169</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2465625">
+      <Solicitacao id="559747">559747201650</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>559747201650</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-28T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2465626">
+      <Solicitacao id="559747">559747201650</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>559747201650</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-28T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2465628">
+      <Solicitacao id="559747">559747201650</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>559747201650</Numero>
+      <DataEmissao>2016-02-29T00:00:00</DataEmissao>
+      <DataVencimento>2017-02-28T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="336492">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19110229000107</CNPJ>
+    <NomeEmpresarial>MARIA DE FATIMA DOS PASSOS TITTOTO 29613403817</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2013-10-22</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2013-10-22</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35809333898</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>29613403817</CPFResponsavel>
+    <NomeResponsavel>MARIA DE FATIMA DOS PASSOS TITTOTO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32041473</Telefone1>
+    <Email>jlvillela@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01330</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>TREZE DE MAIO</Logradouro>
+      <NumeroLogradouro>421</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870160</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3178785">
+      <Solicitacao id="739266">739266201691</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-12-01T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3178783">
+      <Solicitacao id="739266">739266201691</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>59647</Numero>
+      <DataEmissao>2016-12-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>126</AreaEstabelecimento>
+        <NomeProprietario>Elaine C Ceribelli Meca</NomeProprietario>
+        <EmailProprietario>jlvillela@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632041473</TelefoneProprietario>
+        <NomeResponsavelUso>Maria de Fatima dos Passos Tittoto</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632041473</TelefoneResponsavelUso>
+        <AreaTotal>126</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>59647</NumeroAVCB>
+        <ValidadeAVCB>2017-03-01</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3178781">
+      <Solicitacao id="739266">739266201691</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>739266201691</Numero>
+      <DataEmissao>2016-12-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-01T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3178782">
+      <Solicitacao id="739266">739266201691</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>739266201691</Numero>
+      <DataEmissao>2016-12-01T00:00:00</DataEmissao>
+      <DataVencimento>2021-12-01T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3178784">
+      <Solicitacao id="739266">739266201691</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>739266201691</Numero>
+      <DataEmissao>2016-12-01T00:00:00</DataEmissao>
+      <DataVencimento>2017-12-01T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

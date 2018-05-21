@@ -1,0 +1,516 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="142603">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>20495353000117</CNPJ>
+    <NomeEmpresarial>ASMANAGER COMUNICACAO LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-06-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2014-06-25</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228468026</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09872640874</CPFResponsavel>
+    <NomeResponsavel>ANDRE DE SOUZA MARIA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>31671</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Barão do Rio Branco</Logradouro>
+      <NumeroLogradouro>858</NumeroLogradouro>
+      <Complemento>10° ANDAR, SALA 1001/A</Complemento>
+      <Bairro>Centro</Bairro>
+      <CEP>14870330</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="7312200" principal="1" exercida="1" />
+      <CNAE codigo="5320202" principal="0" exercida="1" />
+      <CNAE codigo="8299799" principal="0" exercida="1" />
+      <CNAE codigo="8599604" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANDRE DE SOUZA MARIA</Nome>
+        <Numero>00009872640874</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANDRE FELIPE BORGATTO DE SOUZA MARIA</Nome>
+        <Numero>00022306317801</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3391516">
+      <Solicitacao id="792182">792182201709</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2408407">
+      <Solicitacao id="545257">545257201628</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>545257201628</Numero>
+      <DataEmissao>2016-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-01T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>46</AreaEstabelecimento>
+        <NomeProprietario>ASMANAGER COMUNICACAO LTDA - EPP</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>ASMANAGER COMUNICACAO LTDA - EPP</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>46</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3391514">
+      <Solicitacao id="792182">792182201709</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792182201709</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2408406">
+      <Solicitacao id="545257">545257201628</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>545257201628</Numero>
+      <DataEmissao>2016-02-01T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-01T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3391515">
+      <Solicitacao id="792182">792182201709</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792182201709</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="352662">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27050432000163</CNPJ>
+    <NomeEmpresarial>GUSTAVO LUIS DOS SANTOS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-02-07</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131164626</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>28223095823</CPFResponsavel>
+    <NomeResponsavel>GUSTAVO LUIS DOS SANTOS</NomeResponsavel>
+    <DDD1>14</DDD1>
+    <Telefone1>96000796</Telefone1>
+    <Email>GSREPRODUCAOANIMAL@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>04512</SetorQuadraLote>
+      <TipoLogradouro>Alameda</TipoLogradouro>
+      <Logradouro>MAESTRO PRIMO BRAGIOLI</Logradouro>
+      <NumeroLogradouro>160</NumeroLogradouro>
+      <Bairro>JARDIM SAO MARCOS I</Bairro>
+      <CEP>14887226</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0162801" principal="1" exercida="0" />
+      <CNAE codigo="0162803" principal="0" exercida="0" />
+      <CNAE codigo="0162899" principal="0" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>T</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>003765</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>80759238120</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3357686">
+      <Solicitacao id="783688">783688201772</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-10T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3357684">
+      <Solicitacao id="783688">783688201772</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783688201772</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-22T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>15</AreaEstabelecimento>
+        <NomeProprietario>Gustavo Luis dos Santos</NomeProprietario>
+        <EmailProprietario>gsreproducaoanimal@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1696000796</TelefoneProprietario>
+        <NomeResponsavelUso>Gustavo Luis dos Santos</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1696000796</TelefoneResponsavelUso>
+        <AreaTotal>250</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3357682">
+      <Solicitacao id="783688">783688201772</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783688201772</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3357683">
+      <Solicitacao id="783688">783688201772</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783688201772</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3357685">
+      <Solicitacao id="783688">783688201772</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>783688201772</Numero>
+      <DataEmissao>2017-02-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-10T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="355613">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27161516000174</CNPJ>
+    <NomeEmpresarial>NATALIA CAMPANA FONSECA SOCIEDADE INDIVIDUAL DE ADVOCACIA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2321</NaturezaJuridica>
+    <DataAbertura>2017-02-13</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>21579</NumeroRegistro>
+    <TipoRegistro>3</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>34034251859</CPFResponsavel>
+    <NomeResponsavel>NATALIA CAMPANA FONSECA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97398338</Telefone1>
+    <Email>NATALIACAMPANA@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00763</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>QUINZE DE NOVEMBRO</Logradouro>
+      <NumeroLogradouro>162</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870600</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6911701" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NATALIA CAMPANA FONSECA</Nome>
+        <Numero>00034034251859</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>271501</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>34913365894</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3391080">
+      <Solicitacao id="792076">792076201740</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3391078">
+      <Solicitacao id="792076">792076201740</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792076201740</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-22T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>Natalia Campana Fonseca</NomeProprietario>
+        <EmailProprietario>nataliacampana@bol.com.br</EmailProprietario>
+        <TelefoneProprietario>1697398338</TelefoneProprietario>
+        <NomeResponsavelUso>Natalia Campana Fonseca</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697398338</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3391076">
+      <Solicitacao id="792076">792076201740</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792076201740</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3391077">
+      <Solicitacao id="792076">792076201740</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792076201740</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3391079">
+      <Solicitacao id="792076">792076201740</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792076201740</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="355621">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27161544000191</CNPJ>
+    <NomeEmpresarial>MATEUS AUGUSTO ZANON AIELLO SOCIEDADE INDIVIDUAL DE ADVOCACIA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-13</DataSituacaoCadastral>
+    <NaturezaJuridica>2321</NaturezaJuridica>
+    <DataAbertura>2017-02-13</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>21581</NumeroRegistro>
+    <TipoRegistro>3</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>39522235814</CPFResponsavel>
+    <NomeResponsavel>MATEUS AUGUSTO ZANON AIELLO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>82262135</Telefone1>
+    <Email>MATEUSAIELLO@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>12376</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>AMARO SANTIAGO</Logradouro>
+      <NumeroLogradouro>90</NumeroLogradouro>
+      <Bairro>JARDIM INDEPENDENCIA</Bairro>
+      <CEP>14875215</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6911701" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MATEUS AUGUSTO ZANON AIELLO</Nome>
+        <Numero>00039522235814</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>271501</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>34913365894</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3391173">
+      <Solicitacao id="792101">792101201707</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-22T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3391171">
+      <Solicitacao id="792101">792101201707</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792101201707</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-22T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>Mateus Augusto Zanon Aiello</NomeProprietario>
+        <EmailProprietario>mateusaiello@yahoo.com.br</EmailProprietario>
+        <TelefoneProprietario>1682262135</TelefoneProprietario>
+        <NomeResponsavelUso>Mateus Augusto Zanon Aiello</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1682262135</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3391169">
+      <Solicitacao id="792101">792101201707</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792101201707</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3391170">
+      <Solicitacao id="792101">792101201707</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792101201707</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-22T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3391172">
+      <Solicitacao id="792101">792101201707</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>792101201707</Numero>
+      <DataEmissao>2017-02-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-22T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

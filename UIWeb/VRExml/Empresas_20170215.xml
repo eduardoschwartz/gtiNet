@@ -1,0 +1,762 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="222588">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>13739238000185</CNPJ>
+    <NomeEmpresarial>FRANCA RESTAURANTE E ROTISSERIA LTDA  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-05-17</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2011-05-17</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35225362944</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>80710689934</CPFResponsavel>
+    <NomeResponsavel>ELIANA MOREIRA FRANCA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32039167</Telefone1>
+    <Email>IRACEMA_COMIDACASEIRA@HOTMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00574</SetorQuadraLote>
+      <TipoLogradouro>Outros</TipoLogradouro>
+      <Logradouro>Praca Doutor Joaquim Batista</Logradouro>
+      <NumeroLogradouro>314</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870090</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELIANA MOREIRA FRANCA</Nome>
+        <Numero>00080710689934</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CRISTIANE MOREIRA FRANCA</Nome>
+        <Numero>00032514380855</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>190090</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>13855314870</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2028349">
+      <Solicitacao id="453042">453042201500</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2832318">
+      <Solicitacao id="651489">651489201616</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>142769</Numero>
+      <DataEmissao>2016-07-21T00:00:00</DataEmissao>
+      <DataVencimento>2019-05-17T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>158</AreaEstabelecimento>
+        <NomeProprietario>DROGARIA PAULISTA JABOTICABAL LTDA</NomeProprietario>
+        <EmailProprietario>orgatec_contab@terra.com.br</EmailProprietario>
+        <TelefoneProprietario>1632039167</TelefoneProprietario>
+        <NomeResponsavelUso>FRANCA RSTAURANTE E ROTISSERIA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632039167</TelefoneResponsavelUso>
+        <AreaTotal>245</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>1</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+        <NumeroAVCB>142769</NumeroAVCB>
+        <ValidadeAVCB>2019-05-17</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2832316">
+      <Solicitacao id="651489">651489201616</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>651489201616</Numero>
+      <DataEmissao>2016-07-21T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-21T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2832317">
+      <Solicitacao id="651489">651489201616</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>651489201616</Numero>
+      <DataEmissao>2016-07-21T00:00:00</DataEmissao>
+      <DataVencimento>2021-07-21T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2832319">
+      <Solicitacao id="651489">651489201616</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>117774</Numero>
+      <DataEmissao>2016-11-11T00:00:00</DataEmissao>
+      <DataVencimento>2017-11-11T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>17.463-7/2.016</ProtocoloAtendimento>
+      <DataProtocolo>2016-10-26T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="227099">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>23018845000100</CNPJ>
+    <NomeEmpresarial>MAIARA BRENDA DE PROENCA ESTEVAM - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-08-07</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-08-07</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130298815</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>42021287882</CPFResponsavel>
+    <NomeResponsavel>MAIARA BRENDA DE PROENCA ESTEVAM</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036750</Telefone1>
+    <Email>SONIADECORACOES@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>6120570068900</SetorQuadraLote>
+      <TipoLogradouro>Estrada</TipoLogradouro>
+      <Logradouro>JABOTICABAL A LUZITANIA KM 2,3</Logradouro>
+      <NumeroLogradouro>KM 2,3</NumeroLogradouro>
+      <Bairro>ZONA RURAL</Bairro>
+      <CEP>14870970</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4687703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3369650">
+      <Solicitacao id="786669">786669201745</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3369649">
+      <Solicitacao id="786669">786669201745</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786669201745</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-15T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>550</AreaEstabelecimento>
+        <NomeProprietario>MAIARA BRENDA</NomeProprietario>
+        <EmailProprietario>CONTABIL1@MULTCONTASSESSORIA.COM</EmailProprietario>
+        <TelefoneProprietario>1934222737</TelefoneProprietario>
+        <NomeResponsavelUso>MAIARA BRENDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1934222737</TelefoneResponsavelUso>
+        <AreaTotal>2400</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3369646">
+      <Solicitacao id="786669">786669201745</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786669201745</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+      <Declaracao id="7361" />
+      <Declaracao id="7362" />
+    </Licenciamento>
+    <Licenciamento id="3369648">
+      <Solicitacao id="786669">786669201745</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786669201745</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3369647">
+      <Solicitacao id="786669">786669201745</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786669201745</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="232434">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>04400319000165</CNPJ>
+    <NomeEmpresarial>GUILHERME BELL JABOTICABAL - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2001-04-18</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35117853509</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>00544613830</CPFResponsavel>
+    <NomeResponsavel>GUILHERME BELL</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036750</Telefone1>
+    <Email>SONIADECORACOES@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>09697</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Honório Cardoso Braga</Logradouro>
+      <NumeroLogradouro>150</NumeroLogradouro>
+      <Bairro>Parque dos Laranjais</Bairro>
+      <CEP>14882196</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6821802" principal="1" exercida="1" />
+      <CNAE codigo="4110700" principal="0" exercida="1" />
+      <CNAE codigo="6821801" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3368652">
+      <Solicitacao id="786420">786420201729</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3368650">
+      <Solicitacao id="786420">786420201729</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786420201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-14T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>50</AreaEstabelecimento>
+        <NomeProprietario>GUILHERME BELL</NomeProprietario>
+        <EmailProprietario>bruno_pulici@yahoo.com.br</EmailProprietario>
+        <TelefoneProprietario>1632036750</TelefoneProprietario>
+        <NomeResponsavelUso>GUILHERME BELL</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036750</TelefoneResponsavelUso>
+        <AreaTotal>250</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3368648">
+      <Solicitacao id="786420">786420201729</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786420201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3368649">
+      <Solicitacao id="786420">786420201729</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786420201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-14T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3368651">
+      <Solicitacao id="786420">786420201729</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786420201729</Numero>
+      <DataEmissao>2017-02-14T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-14T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="329715">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>19601547000170</CNPJ>
+    <NomeEmpresarial>ENELIZA ALEXANDRE FERREIRA ANTIQUERA LOPES 12243964805</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-01-27</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2014-01-27</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35810104261</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>12243964805</CPFResponsavel>
+    <NomeResponsavel>ENELIZA ALEXANDRE FERREIRA ANTIQUERA LOPES</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32027432</Telefone1>
+    <Email>julio.f.rocha@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>13788</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PROFESSOR VICENTE QUIRINO</Logradouro>
+      <NumeroLogradouro>964</NumeroLogradouro>
+      <Bairro>APARECIDA</Bairro>
+      <CEP>14882075</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9602502" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3369385">
+      <Solicitacao id="786608">786608201723</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3369382">
+      <Solicitacao id="786608">786608201723</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786608201723</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-15T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>125</AreaEstabelecimento>
+        <NomeProprietario>ENELIZA ALEXANDRE FERREIRA ANTIQUERA LOPES</NomeProprietario>
+        <EmailProprietario>jrcontabiljab@gmail.com</EmailProprietario>
+        <TelefoneProprietario>1697629828</TelefoneProprietario>
+        <NomeResponsavelUso>ENELIZA ALEXANDRE FERREIRA ANTIQUERA LOPES</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697629828</TelefoneResponsavelUso>
+        <AreaTotal>125</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3369383">
+      <Solicitacao id="786608">786608201723</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786608201723</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3369381">
+      <Solicitacao id="786608">786608201723</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786608201723</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3369384">
+      <Solicitacao id="786608">786608201723</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786608201723</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="353675">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27015984000130</CNPJ>
+    <NomeEmpresarial>VIDA VILLELA CORRETORA DE SEGUROS S/S LTDA. - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-01-25</DataSituacaoCadastral>
+    <NaturezaJuridica>2240</NaturezaJuridica>
+    <DataAbertura>2017-01-25</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>4913</NumeroRegistro>
+    <TipoRegistro>2</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>29229352802</CPFResponsavel>
+    <NomeResponsavel>CARLOS LEONARDO VILLELA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32092957</Telefone1>
+    <Email>RODRIGO@UNITASNET.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01599</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>FLORIANO PEIXOTO</Logradouro>
+      <NumeroLogradouro>650</NumeroLogradouro>
+      <Complemento>SALA  04</Complemento>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870370</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6622300" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CARLOS LEONARDO VILLELA</Nome>
+        <Numero>00029229352802</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ANDRE RODRIGO VILLELA</Nome>
+        <Numero>00020056002882</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3369458">
+      <Solicitacao id="786625">786625201763</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3369456">
+      <Solicitacao id="786625">786625201763</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786625201763</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-15T00:00:00</DataVencimento>
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Imovel>
+        <AreaEstabelecimento>24</AreaEstabelecimento>
+        <NomeProprietario>CARLOS ALBERTO VILLELA</NomeProprietario>
+        <EmailProprietario>rodrigo@unitasnet.com.br</EmailProprietario>
+        <TelefoneProprietario>1632092957</TelefoneProprietario>
+        <NomeResponsavelUso>CARLOS LEONARDO VILLELA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632092957</TelefoneResponsavelUso>
+        <AreaTotal>159</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>1</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3369454">
+      <Solicitacao id="786625">786625201763</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786625201763</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3369455">
+      <Solicitacao id="786625">786625201763</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786625201763</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3369457">
+      <Solicitacao id="786625">786625201763</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786625201763</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="353714">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27111169000175</CNPJ>
+    <NomeEmpresarial>JOICE CRISTINA RADAELI DOS SANTOS 44237125807</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-02-15</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-02-15</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35822293659</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>44237125807</CPFResponsavel>
+    <NomeResponsavel>JOICE CRISTINA RADAELI DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>93251036</Telefone1>
+    <Email>silviacontabilidade.esc4@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25517</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>MARIO FRIZZAS</Logradouro>
+      <NumeroLogradouro>130</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL ULISSES GUIMARAES</Bairro>
+      <CEP>14876207</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4772500" principal="0" exercida="1" />
+      <CNAE codigo="9602501" principal="0" exercida="1" />
+      <CNAE codigo="9602502" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3369909">
+      <Solicitacao id="786735">786735201737</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3369907">
+      <Solicitacao id="786735">786735201737</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786735201737</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-02-15T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>134</AreaEstabelecimento>
+        <NomeProprietario>JOSE ANTONIO DA SILVA</NomeProprietario>
+        <EmailProprietario>silviacontabilidade.esc4@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632043392</TelefoneProprietario>
+        <NomeResponsavelUso>JOICE CRISTINA RADAELI DOS SANTOS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1693251036</TelefoneResponsavelUso>
+        <AreaTotal>134</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3369905">
+      <Solicitacao id="786735">786735201737</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786735201737</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+      <Pergunta id="5070" resposta="0" />
+      <Declaracao id="7374" />
+    </Licenciamento>
+    <Licenciamento id="3369906">
+      <Solicitacao id="786735">786735201737</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786735201737</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3369908">
+      <Solicitacao id="786735">786735201737</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>786735201737</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

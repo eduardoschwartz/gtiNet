@@ -1,0 +1,778 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="209375">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22563080000126</CNPJ>
+    <NomeEmpresarial>JULIO CESAR CARNIO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-06-01</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-06-01</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130159050</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>00542140845</CPFResponsavel>
+    <NomeResponsavel>JULIO CESAR CARNIO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036750</Telefone1>
+    <Email>BRUNO_PULICI@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00326</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>SAO SEBASTIAO</Logradouro>
+      <NumeroLogradouro>46</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870720</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4763604" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="1888193">
+      <Solicitacao id="421174">421174201507</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2015-06-02T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="1888191">
+      <Solicitacao id="421174">421174201507</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>421174201507</Numero>
+      <DataEmissao>2015-06-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-06-15T00:00:00</DataVencimento>
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>222</AreaEstabelecimento>
+        <NomeProprietario>JULIO CESAR CARNIO</NomeProprietario>
+        <EmailProprietario>bruno_pulici@yahoo.com.nr</EmailProprietario>
+        <TelefoneProprietario>1632036750</TelefoneProprietario>
+        <NomeResponsavelUso>JULIO CESAR CARNIO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632036750</TelefoneResponsavelUso>
+        <AreaTotal>279</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3686082">
+      <Solicitacao id="863720">863720201715</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>863720201715</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="1888190">
+      <Solicitacao id="421174">421174201507</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>421174201507</Numero>
+      <DataEmissao>2015-06-15T00:00:00</DataEmissao>
+      <DataVencimento>2020-06-15T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3686083">
+      <Solicitacao id="863720">863720201715</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>863720201715</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-25T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3686084">
+      <Solicitacao id="863720">863720201715</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495717832234</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-25T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="366165">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27361661000107</CNPJ>
+    <NomeEmpresarial>ALESSANDRA MARTINS GODOY COELHO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-22</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-03-22</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131285261</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>33665131871</CPFResponsavel>
+    <NomeResponsavel>ALESSANDRA MARTINS GODOY COELHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32041862</Telefone1>
+    <Email>IUGHETTIJUNIOR@BOL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>08463</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>JOAO KAMLA</Logradouro>
+      <NumeroLogradouro>256</NumeroLogradouro>
+      <Complemento>SANTA LUZIA</Complemento>
+      <Bairro>VILA SANTA TEREZA</Bairro>
+      <CEP>14883290</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5611201" principal="1" exercida="1" />
+      <CNAE codigo="5611203" principal="0" exercida="1" />
+      <CNAE codigo="5620104" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>125518</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>27632695834</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3509692">
+      <Solicitacao id="821699">821699201785</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-04T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3509690">
+      <Solicitacao id="821699">821699201785</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>821699201785</Numero>
+      <DataEmissao>2017-04-04T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-04T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5451" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8271" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>80</AreaEstabelecimento>
+        <NomeProprietario>ANTONIO APARECIDO VAROTTI</NomeProprietario>
+        <EmailProprietario>iughettijunior@bol.com.br</EmailProprietario>
+        <TelefoneProprietario>1632041862</TelefoneProprietario>
+        <NomeResponsavelUso>ALESSANDRA MARTINS GODOY COELHO ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632041862</TelefoneResponsavelUso>
+        <AreaTotal>252</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3509688">
+      <Solicitacao id="821699">821699201785</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>821699201785</Numero>
+      <DataEmissao>2017-04-04T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-04T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3509689">
+      <Solicitacao id="821699">821699201785</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>821699201785</Numero>
+      <DataEmissao>2017-04-04T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-04T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3509691">
+      <Solicitacao id="821699">821699201785</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>821699201785</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-25T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>10.993-1/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-22T00:00:00</DataProtocolo>
+      <Pergunta id="4284" resposta="1" />
+      <RestricaoOperacao id="1059" />
+      <RestricaoOperacao id="1062" />
+      <RestricaoOperacao id="1064" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="367802">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27498447000199</CNPJ>
+    <NomeEmpresarial>CLAUDIA REGINA DE CAMPOS 16708708809</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-10</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-10</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35823018538</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>16708708809</CPFResponsavel>
+    <NomeResponsavel>CLAUDIA REGINA DE CAMPOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97193445</Telefone1>
+    <Email>claudiauniforme@hotmail.com</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>20552</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>LORIS BAZONI</Logradouro>
+      <NumeroLogradouro>121</NumeroLogradouro>
+      <Bairro>JARDIM DAS ROSAS</Bairro>
+      <CEP>14871805</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="1412601" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3687787">
+      <Solicitacao id="864095">864095201777</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3527017">
+      <Solicitacao id="825930">825930201736</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825930201736</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-10T00:00:00</DataVencimento>
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>99</AreaEstabelecimento>
+        <NomeProprietario>CLAUDIA REGINA DE CAMPOS 16708708809</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632091060</TelefoneProprietario>
+        <NomeResponsavelUso>CLAUDIA REGINA DE CAMPOS 16708708809</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632091060</TelefoneResponsavelUso>
+        <AreaTotal>99</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3527015">
+      <Solicitacao id="825930">825930201736</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825930201736</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3527016">
+      <Solicitacao id="825930">825930201736</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825930201736</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3527018">
+      <Solicitacao id="825930">825930201736</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>825930201736</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3687786">
+      <Solicitacao id="864095">864095201777</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495728781094</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-25T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="367993">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22608502000566</CNPJ>
+    <NomeEmpresarial>TERROIR AGROPECUARIA LTDA.</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2015-11-03</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35229205045</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>29362914883</CPFResponsavel>
+    <NomeResponsavel>SANDRA MARIA BALBO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>39477926</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>39464134</Telefone2>
+    <Email>SOLUTION@SOLUTIONCONSULTING.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>6120570006335</SetorQuadraLote>
+      <TipoLogradouro>Rodovia</TipoLogradouro>
+      <Logradouro>CARLOS TONANI</Logradouro>
+      <NumeroLogradouro>KM 28</NumeroLogradouro>
+      <Complemento>FAZENDA SANTA RITA</Complemento>
+      <Bairro>JARDIM SAO MARCOS II</Bairro>
+      <CEP>14888000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="0113000" principal="0" exercida="0" />
+      <CNAE codigo="0161003" principal="1" exercida="0" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>SANDRA MARIA BALBO</Nome>
+        <Numero>00029362914883</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>NICOLE BALBO PAPINI</Nome>
+        <Numero>00037144028880</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>162352</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>07776528897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3688225">
+      <Solicitacao id="864185">864185201760</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3529109">
+      <Solicitacao id="826430">826430201739</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826430201739</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2020-04-10T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>1</AreaEstabelecimento>
+        <NomeProprietario>TERROIR AGROPECUARIA LTDA</NomeProprietario>
+        <EmailProprietario>solution@solutionconsulting.com.br</EmailProprietario>
+        <TelefoneProprietario>1639477926</TelefoneProprietario>
+        <NomeResponsavelUso>TERROIR AGROPECUARIA LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1639477926</TelefoneResponsavelUso>
+        <AreaTotal>1</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3529107">
+      <Solicitacao id="826430">826430201739</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826430201739</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3529108">
+      <Solicitacao id="826430">826430201739</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826430201739</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-10T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3529110">
+      <Solicitacao id="826430">826430201739</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>826430201739</Numero>
+      <DataEmissao>2017-04-10T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-10T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3688224">
+      <Solicitacao id="864185">864185201760</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495730997834</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-25T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="370826">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27572229000157</CNPJ>
+    <NomeEmpresarial>M. A. DAS CHAGAS CESTARI - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-04-20</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2017-04-20</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35131341358</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>34224468859</CPFResponsavel>
+    <NomeResponsavel>MONICA ANDRESSA DAS CHAGAS CESTARI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32035986</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>97532207</Telefone2>
+    <Email>DEPTOFISCAL.3@SIMONICONTABIL.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>10303</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>EDSON CARRER BASTOS</Logradouro>
+      <NumeroLogradouro>210</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL HUGO LACORTE VITALLE</Bairro>
+      <CEP>14875410</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4530702" principal="1" exercida="1" />
+      <CNAE codigo="4530705" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>176568</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>25304040899</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3566400">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-04-24T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3566397">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000243002</Numero>
+      <DataEmissao>2017-05-19T00:00:00</DataEmissao>
+      <DataVencimento>2020-05-19T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>837155201739</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>223</AreaEstabelecimento>
+        <NomeProprietario>MONICA ANDRESSA DAS CHAGAS CESTARI</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>MONICA ANDRESSA DAS CHAGAS CESTARI</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>250</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000024300</NumeroAVCB>
+        <ValidadeAVCB>2017-05-19</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3566395">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837155201739</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3566396">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837155201739</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-24T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3566398">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>837155201739</Numero>
+      <DataEmissao>2017-04-24T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-24T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3566399">
+      <Solicitacao id="837155">837155201739</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1493041305829</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-24T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="379059">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14421253000143</CNPJ>
+    <NomeEmpresarial>ZENILDO MANOEL DOS SANTOS - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-04</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-04</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35127515444</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>09035881885</CPFResponsavel>
+    <NomeResponsavel>ZENILDO MANOEL DOS SANTOS</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32036750</Telefone1>
+    <Email>SONIADECORACOES@YAHOO.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25231</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>JOAO PANOSSO</Logradouro>
+      <NumeroLogradouro>86</NumeroLogradouro>
+      <Bairro>CONJUNTO HABITACIONAL ULISSES GUIMARAES</Bairro>
+      <CEP>14876200</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4712100" principal="0" exercida="1" />
+      <CNAE codigo="5611203" principal="1" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3673572">
+      <Solicitacao id="860985">860985201737</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-05-24T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3687299">
+      <Solicitacao id="863988">863988201746</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>21518</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-25T00:00:00</DataProtocolo>
+      <Imovel>
+        <AreaEstabelecimento>175</AreaEstabelecimento>
+        <NomeProprietario>ANTONIO RIQUELME SANCHO</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>ANTONIO RIQUELME SANCHO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>350</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>AVCB 000025308</NumeroAVCB>
+        <ValidadeAVCB>2016-08-02</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3687297">
+      <Solicitacao id="863988">863988201746</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>863988201746</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-25T00:00:00</DataVencimento>
+      <Declaracao id="7365" />
+    </Licenciamento>
+    <Licenciamento id="3687298">
+      <Solicitacao id="863988">863988201746</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>863988201746</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2022-05-25T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3687300">
+      <Solicitacao id="863988">863988201746</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>863988201746</Numero>
+      <DataEmissao>2017-05-25T00:00:00</DataEmissao>
+      <DataVencimento>2018-05-25T00:00:00</DataVencimento>
+      <Pergunta id="4284" resposta="0" />
+      <Declaracao id="6359" />
+      <Declaracao id="6363" />
+      <Declaracao id="6367" />
+    </Licenciamento>
+    <Licenciamento id="3687301">
+      <Solicitacao id="863988">863988201746</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1495723834544</ProtocoloAtendimento>
+      <DataProtocolo>2017-05-25T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

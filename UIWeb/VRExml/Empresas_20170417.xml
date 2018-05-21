@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="369452">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27259288000170</CNPJ>
+    <NomeEmpresarial>REALIZA SOLUCOES EM CREDITO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2017-03-09</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35230454118</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>30818713879</CPFResponsavel>
+    <NomeResponsavel>IGOR MATEUS CARASSATO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>91542277</Telefone1>
+    <DDD2>16</DDD2>
+    <Telefone2>39431851</Telefone2>
+    <Email>MATEUSCARASSA@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>00922</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>BARAO DO RIO BRANCO</Logradouro>
+      <NumeroLogradouro>558</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870330</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="6619302" principal="1" exercida="1" />
+      <CNAE codigo="6629100" principal="0" exercida="1" />
+      <CNAE codigo="7319002" principal="0" exercida="1" />
+      <CNAE codigo="8211300" principal="0" exercida="1" />
+      <CNAE codigo="8219999" principal="0" exercida="1" />
+      <CNAE codigo="8291100" principal="0" exercida="1" />
+      <CNAE codigo="8299799" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>IGOR MATEUS CARASSATO</Nome>
+        <Numero>00030818713879</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>DANIELA RENATA PAVANI CARASSATO</Nome>
+        <Numero>00034289181856</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>046064</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>19720254815</CPFContador>
+    <!--Viabilidade-->
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3546886">
+      <Solicitacao id="833306">833306201769</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>CLCB 0000232858</Numero>
+      <DataEmissao>2017-04-13T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-13T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>833306201769</ProtocoloAtendimento>
+      <Imovel>
+        <AreaEstabelecimento>34</AreaEstabelecimento>
+        <NomeProprietario>Massaharu Nakano</NomeProprietario>
+        <EmailProprietario>ND</EmailProprietario>
+        <TelefoneProprietario>ND</TelefoneProprietario>
+        <NomeResponsavelUso>REALIZA SOLUCOES EM CREDITO LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>ND</TelefoneResponsavelUso>
+        <AreaTotal>614</AreaTotal>
+        <Pavimentos>0</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>CLCB 000023285</NumeroAVCB>
+        <ValidadeAVCB>2017-04-13</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3545958">
+      <Solicitacao id="833117">833117201776</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833117201776</Numero>
+      <DataEmissao>2017-04-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3547643">
+      <Solicitacao id="833476">833476201771</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833476201771</Numero>
+      <DataEmissao>2017-04-17T00:00:00</DataEmissao>
+      <DataVencimento>2022-04-17T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3545962">
+      <Solicitacao id="833117">833117201776</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1492447223014</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-17T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="369608">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>50407378000182</CNPJ>
+    <NomeEmpresarial>BENEDITO PEDRO LOURENCO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>1979-05-22</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35100391060</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>74431145834</CPFResponsavel>
+    <NomeResponsavel>BENEDITO PEDRO LOURENCO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32022100</Telefone1>
+    <Email>DITODASBATERIAS@GMAIL.COM.</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>16240</SetorQuadraLote>
+      <TipoLogradouro>Via</TipoLogradouro>
+      <Logradouro>Major Hilário Tavares Pinheiro</Logradouro>
+      <NumeroLogradouro>2030</NumeroLogradouro>
+      <Bairro>Sorocabano</Bairro>
+      <CEP>14871700</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4530703" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>095028</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>86217160897</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3548032">
+      <Solicitacao id="833566">833566201756</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3548027">
+      <Solicitacao id="833566">833566201756</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833566201756</Numero>
+      <DataEmissao>2017-04-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3548030">
+      <Solicitacao id="833566">833566201756</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>833566201756</Numero>
+      <DataEmissao>2017-04-17T00:00:00</DataEmissao>
+      <DataVencimento>2018-04-17T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3548031">
+      <Solicitacao id="833566">833566201756</Solicitacao>
+      <Orgao id="654" />
+      <Status id="5" />
+      <Risco id="0" />
+      <ProtocoloAtendimento>1492465473784</ProtocoloAtendimento>
+      <DataProtocolo>2017-04-17T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

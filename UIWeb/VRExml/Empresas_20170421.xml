@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="196790">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>22153536000180</CNPJ>
+    <NomeEmpresarial>ALCIDES FUERTES JUNIOR - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2015-03-30</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2015-03-30</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35130092869</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>11415168881</CPFResponsavel>
+    <NomeResponsavel>ALCIDES FUERTES JUNIOR</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32020966</Telefone1>
+    <Email>AF.JUNIOR@IG.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>11948</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Washington Martins Pinheiro</Logradouro>
+      <NumeroLogradouro>26</NumeroLogradouro>
+      <Bairro>Conjunto Habitacional Hugo Lacorte Vitalle I</Bairro>
+      <CEP>14875428</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="8211300" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2590983">
+      <Solicitacao id="591027">591027201621</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-26T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2585662">
+      <Solicitacao id="589700">589700201686</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>589700201686</Numero>
+      <DataEmissao>2016-04-19T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-19T00:00:00</DataVencimento>
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Imovel>
+        <AreaEstabelecimento>158</AreaEstabelecimento>
+        <NomeProprietario>ALCIDES FUERTES JUNIOR - ME</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>ALCIDES FUERTES JUNIOR - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2585663">
+      <Solicitacao id="589700">589700201686</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>589700201686</Numero>
+      <DataEmissao>2016-04-19T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-19T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2585664">
+      <Solicitacao id="589700">589700201686</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>589700201686</Numero>
+      <DataEmissao>2016-04-19T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-19T00:00:00</DataVencimento>
+      <Declaracao id="9668" />
+      <Declaracao id="9632" />
+    </Licenciamento>
+    <Licenciamento id="2590982">
+      <Solicitacao id="591027">591027201621</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>591027201621</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="246242">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>60314200000140</CNPJ>
+    <NomeEmpresarial>M SILVA &amp;amp; FILHO LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-07-09</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1989-04-06</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35208535607</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>08365095874</CPFResponsavel>
+    <NomeResponsavel>MOACYR SILVA FILHO</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>30332</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>2657</NumeroLogradouro>
+      <Bairro>SOROCABANO</Bairro>
+      <CEP>14871080</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4789099" principal="1" exercida="1" />
+      <CNAE codigo="9001999" principal="0" exercida="0" />
+      <CNAE codigo="4789006" principal="0" exercida="1" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MOACYR SILVA</Nome>
+        <Numero>00022593934891</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MOACYR SILVA FILHO</Nome>
+        <Numero>00008365095874</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2589632">
+      <Solicitacao id="590693">590693201626</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-20T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2589628">
+      <Solicitacao id="590693">590693201626</Solicitacao>
+      <Orgao id="3" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>218002</Numero>
+      <DataEmissao>2015-12-15T00:00:00</DataEmissao>
+      <DataVencimento>2016-12-14T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>590693201626</ProtocoloAtendimento>
+      <DataProtocolo>2016-04-27T00:00:00</DataProtocolo>
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>228</AreaEstabelecimento>
+        <NomeProprietario>MARIA DA GRACA DE A MARTELLI</NomeProprietario>
+        <EmailProprietario>saguarnieri@uol.com.br</EmailProprietario>
+        <TelefoneProprietario>1936014909</TelefoneProprietario>
+        <NomeResponsavelUso>SANTOS &amp; VITARELLI LTDA EPP</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1936015814</TelefoneResponsavelUso>
+        <AreaTotal>228</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2589629">
+      <Solicitacao id="590693">590693201626</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>590693201626</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2589630">
+      <Solicitacao id="590693">590693201626</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>590693201626</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-20T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2589631">
+      <Solicitacao id="590693">590693201626</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>105091</Numero>
+      <DataEmissao>2016-05-04T00:00:00</DataEmissao>
+      <DataVencimento>2017-05-04T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>7.866-2/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-05-03T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="277644">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>14498028000105</CNPJ>
+    <NomeEmpresarial>S R DA SILVA ELETROELETRONICOS  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2011-10-21</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2011-10-21</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35803425189</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>17110814858</CPFResponsavel>
+    <NomeResponsavel>SERGIO ROQUE DA SILVA</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>81362460</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>19957</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>DURVAL DIAS DE MIRANDA</Logradouro>
+      <NumeroLogradouro>280</NumeroLogradouro>
+      <Bairro>PARQUE PRIMEIRO DE MAIO</Bairro>
+      <CEP>14875338</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="9521500" principal="0" exercida="0" />
+      <CNAE codigo="9529199" principal="1" exercida="0" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2589831">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2589829">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-20T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>188</AreaEstabelecimento>
+        <NomeProprietario>SR DA SILVA ELETROELETRONICOS - ME</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>SR DA SILVA ELETROELETRONICOS - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>200</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2589827">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2589828">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-20T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2589830">
+      <Solicitacao id="590741">590741201693</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>590741201693</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="277820">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>05686578000167</CNPJ>
+    <NomeEmpresarial>CERTEZA BABY MAGAZINE LTDA - EPP</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2004-02-20</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2003-06-09</DataAbertura>
+    <Porte>03</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35217770397</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>19506952809</CPFResponsavel>
+    <NomeResponsavel>LUCILENE CRISTINA CAMARGO SILVA DE CARVALHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32031860</Telefone1>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>26910</SetorQuadraLote>
+      <TipoLogradouro>Avenida</TipoLogradouro>
+      <Logradouro>PINTOS</Logradouro>
+      <NumeroLogradouro>538</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870120</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4781400" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUCIMARA CRISTINA CAMARGO SILVA DE ARAUJO</Nome>
+        <Numero>00019507120874</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUCILENE CRISTINA CAMARGO SILVA DE CARVALHO</Nome>
+        <Numero>00019506952809</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>152720</NumeroCRCContadorPJ>
+    <UFCRCContadorPJ>SP</UFCRCContadorPJ>
+    <CNPJContador>60242641000184</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>655690</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>28203593887</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2591609">
+      <Solicitacao id="591180">591180201699</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-04-25T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2591607">
+      <Solicitacao id="591180">591180201699</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>591180201699</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2019-04-20T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>603</AreaEstabelecimento>
+        <NomeProprietario>BENVINDO GONCALO SILVA</NomeProprietario>
+        <EmailProprietario>lucilene@lojascerteza.com.br</EmailProprietario>
+        <TelefoneProprietario>1632031860</TelefoneProprietario>
+        <NomeResponsavelUso>CERTEZA BABY MAGAZINE LTDA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632031860</TelefoneResponsavelUso>
+        <AreaTotal>603</AreaTotal>
+        <Pavimentos>2</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2591605">
+      <Solicitacao id="591180">591180201699</Solicitacao>
+      <Orgao id="1" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>591180201699</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2591606">
+      <Solicitacao id="591180">591180201699</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>591180201699</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2021-04-20T00:00:00</DataVencimento>
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2591608">
+      <Solicitacao id="591180">591180201699</Solicitacao>
+      <Orgao id="287" />
+      <Status id="6" />
+      <Risco id="0" />
+      <Numero>591180201699</Numero>
+      <DataEmissao>2016-04-20T00:00:00</DataEmissao>
+      <DataVencimento>2017-04-20T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>

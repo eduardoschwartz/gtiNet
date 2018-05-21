@@ -1,0 +1,835 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Empresas>
+  <Empresa id="142167">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>01297312000171</CNPJ>
+    <NomeEmpresarial>ROYAL SHOPPING EMPREENDIMENTOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1996-07-02</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35213878860</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>14550108800</CPFResponsavel>
+    <NomeResponsavel>GUILHERME CANDELORO ZELI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023901</Telefone1>
+    <Email>jabshopping@terra.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>29571</SetorQuadraLote>
+      <TipoLogradouro>Outros</TipoLogradouro>
+      <Logradouro>Praca D. José Marcondes Homem de Melo</Logradouro>
+      <NumeroLogradouro>146</NumeroLogradouro>
+      <Bairro>Centro</Bairro>
+      <CEP>14870515</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4110700" principal="1" exercida="1" />
+      <CNAE codigo="5223100" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>1</Tipo>
+        <Nome>CONSTRUTORA STEFANI NOGUEIRA LTDA</Nome>
+        <Numero>47847801000150</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GUILHERME CANDELORO ZELI</Nome>
+        <Numero>00014550108800</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LUCIANA ZELI BIAZOLI</Nome>
+        <Numero>00026224614881</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>WLADIMIR MORGATTO</Nome>
+        <Numero>00007530703838</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>ELVIO ROBERTO MORGATTO</Nome>
+        <Numero>00003492462898</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3371012">
+      <Solicitacao id="787018">787018201733</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-15T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3371010">
+      <Solicitacao id="787018">787018201733</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>280193</Numero>
+      <DataEmissao>2017-01-27T00:00:00</DataEmissao>
+      <DataVencimento>2018-01-25T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>787018201733</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-15T00:00:00</DataProtocolo>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Pergunta id="5450" resposta="1" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>53</AreaEstabelecimento>
+        <NomeProprietario>MATHEUS</NomeProprietario>
+        <EmailProprietario>CONTATO@CARVALHOASSOCIADOS.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1634030680</TelefoneProprietario>
+        <NomeResponsavelUso>MATHEUS</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1634030680</TelefoneResponsavelUso>
+        <AreaTotal>229</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3371008">
+      <Solicitacao id="787018">787018201733</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>787018201733</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-15T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3371009">
+      <Solicitacao id="787018">787018201733</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>787018201733</Numero>
+      <DataEmissao>2017-02-15T00:00:00</DataEmissao>
+      <DataVencimento>2022-02-15T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3371011">
+      <Solicitacao id="787018">787018201733</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>787018201733</Numero>
+      <DataEmissao>2017-03-07T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-07T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>3.908-0/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-16T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="149021">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>20694522000148</CNPJ>
+    <NomeEmpresarial>CASALETTI REMOCAO E GUARDA DE VEICULOS EIRELI  - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2014-07-23</DataSituacaoCadastral>
+    <NaturezaJuridica>2305</NaturezaJuridica>
+    <DataAbertura>2014-07-23</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35228553741</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>04681247804</CPFResponsavel>
+    <NomeResponsavel>PAULO CESAR CASALETTI</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32023155</Telefone1>
+    <Email>BERALDO@BERALDOCOSTA.COM.BR</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>6101510227800</SetorQuadraLote>
+      <TipoLogradouro>Rodovia</TipoLogradouro>
+      <Logradouro>CARLOS TONANI</Logradouro>
+      <NumeroLogradouro>S/N</NumeroLogradouro>
+      <Complemento>: SP 333; : KM 1187;</Complemento>
+      <Bairro>SANTA IZABEL</Bairro>
+      <CEP>14890500</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5223100" principal="0" exercida="1" />
+      <CNAE codigo="5229002" principal="1" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO CESAR CASALETTI</Nome>
+        <Numero>00004681247804</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>109376</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>97961337849</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2416629">
+      <Solicitacao id="547379">547379201627</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2016-02-04T00:00:00</DataStatus>
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+      <RestricaoOperacao id="2962" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2416628">
+      <Solicitacao id="547379">547379201627</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>547379201627</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2019-02-03T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Imovel>
+        <AreaEstabelecimento>126</AreaEstabelecimento>
+        <NomeProprietario>CASALETTI REMOCAO</NomeProprietario>
+        <EmailProprietario>beraldo@beraldocosta.com.br</EmailProprietario>
+        <TelefoneProprietario>1632023155</TelefoneProprietario>
+        <NomeResponsavelUso>CASALETTI REMOCAO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632023155</TelefoneResponsavelUso>
+        <AreaTotal>126</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2878883">
+      <Solicitacao id="663283">663283201643</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>663283201643</Numero>
+      <DataEmissao>2016-08-08T00:00:00</DataEmissao>
+      <DataVencimento>2017-08-08T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2416627">
+      <Solicitacao id="547379">547379201627</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>547379201627</Numero>
+      <DataEmissao>2016-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2021-02-03T00:00:00</DataVencimento>
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="2878882">
+      <Solicitacao id="663283">663283201643</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>663283201643</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>13.658-1/2014</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="245705">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>12254943000120</CNPJ>
+    <NomeEmpresarial>ESSIO FERNANDES NETTO - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2010-07-06</DataSituacaoCadastral>
+    <NaturezaJuridica>2135</NaturezaJuridica>
+    <DataAbertura>2010-07-06</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35126146216</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15067022876</CPFResponsavel>
+    <NomeResponsavel>ESSIO FERNANDES NETTO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>97674401</Telefone1>
+    <Email>corfor@corfor.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>12192</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>Quintino Bocaiúva</Logradouro>
+      <NumeroLogradouro>825</NumeroLogradouro>
+      <Bairro>Aparecida</Bairro>
+      <CEP>14882030</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="5229002" principal="1" exercida="1" />
+      <CNAE codigo="4520001" principal="0" exercida="1" />
+      <CNAE codigo="4923001" principal="0" exercida="1" />
+      <CNAE codigo="4930202" principal="0" exercida="1" />
+      <CNAE codigo="7711000" principal="0" exercida="1" />
+      <Auxiliar id="10" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade />
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>240332</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>04442668876</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3420330">
+      <Solicitacao id="799447">799447201705</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-07T00:00:00</DataStatus>
+      <RestricaoOperacao id="3011" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2280885">
+      <Solicitacao id="513535">513535201513</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>513535201513</Numero>
+      <DataEmissao>2015-11-18T00:00:00</DataEmissao>
+      <DataVencimento>2018-11-18T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5456" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8276" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>121</AreaEstabelecimento>
+        <NomeProprietario>IZABEL DO CARMO ROSARIO</NomeProprietario>
+        <EmailProprietario>nettoessio@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1697674401</TelefoneProprietario>
+        <NomeResponsavelUso>ESSIO FERNANDES NETTO</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1697674401</TelefoneResponsavelUso>
+        <AreaTotal>415</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3420328">
+      <Solicitacao id="799447">799447201705</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799447201705</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+      <Pergunta id="5039" resposta="0" />
+    </Licenciamento>
+    <Licenciamento id="2280887">
+      <Solicitacao id="513535">513535201513</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>513535201513</Numero>
+      <DataEmissao>2015-11-18T00:00:00</DataEmissao>
+      <DataVencimento>2020-11-18T00:00:00</DataVencimento>
+      <Pergunta id="4238" resposta="0" />
+      <Declaracao id="6288" />
+    </Licenciamento>
+    <Licenciamento id="3420329">
+      <Solicitacao id="799447">799447201705</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799447201705</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="288378">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>57686743000184</CNPJ>
+    <NomeEmpresarial>CCM CONSTRUCOES METALICAS CALDEIRARIA E EQUIPAMENTOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1987-06-02</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35207474612</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>05708351861</CPFResponsavel>
+    <NomeResponsavel>PAULO VITOR DE VILHENA MORAES</NomeResponsavel>
+    <DDD1>0016</DDD1>
+    <Telefone1>32031622</Telefone1>
+    <Email>ccmem@netsite.com.br</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25910</SetorQuadraLote>
+      <TipoLogradouro>Rodovia</TipoLogradouro>
+      <Logradouro>Brigadeiro Faria Lima</Logradouro>
+      <NumeroLogradouro>13</NumeroLogradouro>
+      <Bairro>Distrito Industrial</Bairro>
+      <CEP>14872000</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="2511000" principal="1" exercida="1" />
+      <CNAE codigo="2513600" principal="0" exercida="1" />
+      <CNAE codigo="2521700" principal="0" exercida="1" />
+      <CNAE codigo="4292801" principal="0" exercida="1" />
+      <CNAE codigo="7112000" principal="0" exercida="1" />
+      <CNAE codigo="3321000" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>JUREMA CALDAS DE VILHENA MORAES</Nome>
+        <Numero>00045809852653</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>PAULO VITOR DE VILHENA MORAES</Nome>
+        <Numero>00005708351861</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="2693821">
+      <Solicitacao id="616805">616805201624</Solicitacao>
+      <Status id="12" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="2693819">
+      <Solicitacao id="616805">616805201624</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>120881</Numero>
+      <DataEmissao>2014-09-01T00:00:00</DataEmissao>
+      <DataVencimento>2019-08-29T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>616805201624</ProtocoloAtendimento>
+      <DataProtocolo>2016-06-02T00:00:00</DataProtocolo>
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="1" />
+      <Pergunta id="5450" resposta="1" />
+      <Pergunta id="5452" resposta="1" />
+      <Imovel>
+        <AreaEstabelecimento>93</AreaEstabelecimento>
+        <NomeProprietario>JOSE CARLOS CARDI - ME</NomeProprietario>
+        <EmailProprietario>andre@liderazienda.com.br</EmailProprietario>
+        <TelefoneProprietario>1734059797</TelefoneProprietario>
+        <NomeResponsavelUso>JOSE CARLOS CARDI - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1734059797</TelefoneResponsavelUso>
+        <AreaTotal>522</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="2693817">
+      <Solicitacao id="616805">616805201624</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>616805201624</Numero>
+      <DataEmissao>2016-06-02T00:00:00</DataEmissao>
+      <DataVencimento>2017-06-02T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="2693818">
+      <Solicitacao id="616805">616805201624</Solicitacao>
+      <Orgao id="2" />
+      <Status id="6" />
+      <Risco id="1" />
+      <Numero>52001119</Numero>
+      <DataEmissao>2013-03-07T00:00:00</DataEmissao>
+      <DataVencimento>2017-03-07T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>52003006</ProtocoloAtendimento>
+      <DataProtocolo>2016-06-02T00:00:00</DataProtocolo>
+      <Pergunta id="5815" resposta="1" />
+      <Declaracao id="9632" />
+      <Declaracao id="9668" />
+    </Licenciamento>
+    <Licenciamento id="2693820">
+      <Solicitacao id="616805">616805201624</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>109336</Numero>
+      <DataEmissao>2016-07-04T00:00:00</DataEmissao>
+      <DataVencimento>2017-07-04T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>10851-1/2016</ProtocoloAtendimento>
+      <DataProtocolo>2016-06-20T00:00:00</DataProtocolo>
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="350732">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>46448700000144</CNPJ>
+    <NomeEmpresarial>VALCIR ALEXANDRE BATISTA E FILHOS LTDA</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2005-11-03</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>1981-08-27</DataAbertura>
+    <Porte>05</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35201591927</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>15834190804</CPFResponsavel>
+    <NomeResponsavel>VALCIR ALEXANDRE BATISTA</NomeResponsavel>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>01160</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>BARAO DO RIO BRANCO</Logradouro>
+      <NumeroLogradouro>1424</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870780</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4731800" principal="1" exercida="1" />
+      <CNAE codigo="4732600" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>VALCIR ALEXANDRE BATISTA</Nome>
+        <Numero>00015834190804</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>GUSTAVO ALFREDO BATISTA</Nome>
+        <Numero>00000579441806</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>CARLOS AUGUSTO BATISTA</Nome>
+        <Numero>00000579444821</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <ClassificacaoCRCContadorPF>0</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>000000</NumeroCRCContadorPF>
+    <CPFContador>00000000000</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3336248">
+      <Solicitacao id="778385">778385201778</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-02-06T00:00:00</DataStatus>
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+      <RestricaoOperacao id="2956" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3336246">
+      <Solicitacao id="778385">778385201778</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>136261</Numero>
+      <DataEmissao>2017-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2017-10-06T00:00:00</DataVencimento>
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>554</AreaEstabelecimento>
+        <NomeProprietario>VALCIR ALEXANDRE BATISTA</NomeProprietario>
+        <EmailProprietario>RH@OCPOLACHINI.COM.BR</EmailProprietario>
+        <TelefoneProprietario>1632033538</TelefoneProprietario>
+        <NomeResponsavelUso>VALCIR ALEXANDRE BATISTA</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632033538</TelefoneResponsavelUso>
+        <AreaTotal>642</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>136261</NumeroAVCB>
+        <ValidadeAVCB>2017-10-06</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3336244">
+      <Solicitacao id="778385">778385201778</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>778385201778</Numero>
+      <DataEmissao>2017-02-03T00:00:00</DataEmissao>
+      <DataVencimento>2018-02-03T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3336245">
+      <Solicitacao id="778385">778385201778</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>52001289</Numero>
+      <DataEmissao>2013-10-22T00:00:00</DataEmissao>
+      <DataVencimento>2018-10-22T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>52003447</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-03T00:00:00</DataProtocolo>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3336247">
+      <Solicitacao id="778385">778385201778</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="1" />
+      <Numero>778385201778</Numero>
+      <DataEmissao>2017-03-07T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-07T00:00:00</DataVencimento>
+      <ProtocoloAtendimento>3.034-1/2017</ProtocoloAtendimento>
+      <DataProtocolo>2017-02-07T00:00:00</DataProtocolo>
+      <RestricaoOperacao id="1070" />
+    </Licenciamento>
+  </Empresa>
+  <Empresa id="358061">
+    <!--Dados gerais da empresa (recebidos da RFB)-->
+    <CNPJ>27210098000168</CNPJ>
+    <NomeEmpresarial>BBC PET SHOP LTDA - ME</NomeEmpresarial>
+    <SituacaoCadastral>02</SituacaoCadastral>
+    <DataSituacaoCadastral>2017-03-02</DataSituacaoCadastral>
+    <NaturezaJuridica>2062</NaturezaJuridica>
+    <DataAbertura>2017-03-02</DataAbertura>
+    <Porte>01</Porte>
+    <!--Dados gerais da empresa (coletados do usuário)-->
+    <NumeroRegistro>35230403963</NumeroRegistro>
+    <TipoRegistro>1</TipoRegistro>
+    <TipoMEI>0</TipoMEI>
+    <!--Dados do responsável pela empresa (conforme RFB)-->
+    <CPFResponsavel>38383494823</CPFResponsavel>
+    <NomeResponsavel>MARCELO HENRIQUE BOTELHO</NomeResponsavel>
+    <DDD1>16</DDD1>
+    <Telefone1>32037103</Telefone1>
+    <Email>TOCADOSBICHOSTDB@GMAIL.COM</Email>
+    <!--Endereço do estabelecimento-->
+    <Endereco>
+      <SetorQuadraLote>25044</SetorQuadraLote>
+      <TipoLogradouro>Rua</TipoLogradouro>
+      <Logradouro>PROFESSOR OSVALDO MARTINS CRUZ</Logradouro>
+      <NumeroLogradouro>139</NumeroLogradouro>
+      <Bairro>CENTRO</Bairro>
+      <CEP>14870390</CEP>
+      <UF>SP</UF>
+      <Municipio Concla="24303" rfb="279">Jaboticabal</Municipio>
+    </Endereco>
+    <!--Atividades cadastradas e exercidas pela empresa (CNAE e auxiliares)-->
+    <Atividades>
+      <CNAE codigo="4763604" principal="0" exercida="1" />
+      <CNAE codigo="4771704" principal="0" exercida="1" />
+      <CNAE codigo="4789004" principal="1" exercida="1" />
+      <CNAE codigo="4789005" principal="0" exercida="1" />
+      <CNAE codigo="9609208" principal="0" exercida="1" />
+      <Auxiliar id="5" />
+    </Atividades>
+    <!--QSA da empresa-->
+    <Sociedade>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>MARCELO HENRIQUE BOTELHO</Nome>
+        <Numero>00038383494823</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>EDUARDO FELIPE DE CAMPOS</Nome>
+        <Numero>00036867784836</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+      <Socio>
+        <Tipo>2</Tipo>
+        <Nome>LIDIANE BARBIERI DE SOUZA</Nome>
+        <Numero>00037504817848</Numero>
+        <CodigoPaisOrigem>000</CodigoPaisOrigem>
+      </Socio>
+    </Sociedade>
+    <!--Dados do contador-->
+    <ClassificacaoCRCContadorPJ>0</ClassificacaoCRCContadorPJ>
+    <NumeroCRCContadorPJ>000000</NumeroCRCContadorPJ>
+    <CNPJContador>00000000000000</CNPJContador>
+    <TipoCRCContadorPF>O</TipoCRCContadorPF>
+    <ClassificacaoCRCContadorPF>1</ClassificacaoCRCContadorPF>
+    <NumeroCRCContadorPF>172806</NumeroCRCContadorPF>
+    <UFCRCContadorPF>SP</UFCRCContadorPF>
+    <CPFContador>08208542806</CPFContador>
+    <!--Viabilidade-->
+    <Viabilidade id="3418956">
+      <Solicitacao id="799100">799100201752</Solicitacao>
+      <Status id="12" />
+      <DataStatus>2017-03-07T00:00:00</DataStatus>
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+      <RestricaoOperacao id="2961" />
+    </Viabilidade>
+    <!--Licenciamentos (um bloco abaixo para cada órgão)-->
+    <Licenciamento id="3418954">
+      <Solicitacao id="799100">799100201752</Solicitacao>
+      <Orgao id="3" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>182616</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2019-09-21T00:00:00</DataVencimento>
+      <Pergunta id="5448" resposta="0" />
+      <Pergunta id="5449" resposta="0" />
+      <Pergunta id="5450" resposta="0" />
+      <Pergunta id="5452" resposta="0" />
+      <Pergunta id="5453" resposta="0" />
+      <Pergunta id="5454" resposta="0" />
+      <Declaracao id="8268" />
+      <Declaracao id="8269" />
+      <Declaracao id="8270" />
+      <Declaracao id="8272" />
+      <Declaracao id="8273" />
+      <Declaracao id="8274" />
+      <Declaracao id="8277" />
+      <Declaracao id="8278" />
+      <Declaracao id="8279" />
+      <Imovel>
+        <AreaEstabelecimento>122</AreaEstabelecimento>
+        <NomeProprietario>ANDREIA LUZIA DE LIMA CARDOSO</NomeProprietario>
+        <EmailProprietario>brasilabertura@hotmail.com</EmailProprietario>
+        <TelefoneProprietario>1632020966</TelefoneProprietario>
+        <NomeResponsavelUso>BBC PET SHOP LTDA - ME</NomeResponsavelUso>
+        <TelefoneResponsavelUso>1632020966</TelefoneResponsavelUso>
+        <AreaTotal>144</AreaTotal>
+        <Pavimentos>1</Pavimentos>
+        <Contiguo>0</Contiguo>
+        <OutrosUsos>0</OutrosUsos>
+        <NumeroAVCB>182616</NumeroAVCB>
+        <ValidadeAVCB>2019-09-21</ValidadeAVCB>
+      </Imovel>
+    </Licenciamento>
+    <Licenciamento id="3418952">
+      <Solicitacao id="799100">799100201752</Solicitacao>
+      <Orgao id="1" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799100201752</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+    <Licenciamento id="3418953">
+      <Solicitacao id="799100">799100201752</Solicitacao>
+      <Orgao id="2" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799100201752</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2022-03-06T00:00:00</DataVencimento>
+      <Declaracao id="10201" />
+    </Licenciamento>
+    <Licenciamento id="3418955">
+      <Solicitacao id="799100">799100201752</Solicitacao>
+      <Orgao id="287" />
+      <Status id="5" />
+      <Risco id="0" />
+      <Numero>799100201752</Numero>
+      <DataEmissao>2017-03-06T00:00:00</DataEmissao>
+      <DataVencimento>2018-03-06T00:00:00</DataVencimento>
+    </Licenciamento>
+  </Empresa>
+</Empresas>
